@@ -153,6 +153,8 @@ match_codes %<>%
          match_id=row_number(),
          local_match=FALSE,
          visit_match=FALSE)
+match_codes$local_match[match_codes$`TEAM 1`=='France'] <- TRUE
+match_codes$visit_match[match_codes$`TEAM 2`=='France'] <- TRUE
 match_codes %<>% left_join(fifa_rankings, by=c('TEAM 1'='country_name')) %>%
   filter(date > date(date_ranking)) %>%
   group_by(match_id) %>%
