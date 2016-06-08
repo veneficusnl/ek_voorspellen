@@ -50,8 +50,6 @@ match_codes <- read_excel(file_match_codes, sheet=1)
 
 fifa_rankings <- read_csv(file_fifa_rankings)
 
-country_codes <- read_csv(file_country_codes)
-
 # prep fifa rankings
 fifa_rankings %<>%
   mutate(date_ranking = date(parse_date_time(date, orders='dmy')),
