@@ -11,7 +11,7 @@ library(vfmodels)
 source('settings.R')
 
 file_data_matches <- paste0(data_folder, "Data_Matches_", name, ".xlsx")
-file_data_matches2 <- paste0(data_folder, "Data_Matches_", name, "_2.csv")
+file_data_matches2 <- paste0(data_folder, "data_matches.csv")
 file_fifa_rankings <- paste0(data_folder, "fifa_ranking.csv")
 file_country_codes <- paste0(data_folder, "country_codes.csv")
 file_match_codes <- paste0(data_folder, "Match_Codes_", name, ".xlsx")
