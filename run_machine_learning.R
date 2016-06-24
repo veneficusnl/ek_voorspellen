@@ -1,7 +1,9 @@
 library(h2o)
+library(randomForest)
 
 run_machine_learning <- function(x, ..., y = NULL, p = NULL, subset = NULL, model='rf') {
     y <- unlist(y)
+    # create subset if necessary
     if (!is.null(p)) {
         if (!is.null(subset)) {
             stop("You cannot assign p and subset at the same time.")
@@ -14,12 +16,13 @@ run_machine_learning <- function(x, ..., y = NULL, p = NULL, subset = NULL, mode
     } else if (is.null(subset)) {
         subset <- 1:NROW(x)
     }
+    # create randomforest or neural network model
     if (model=='rf') {
       output <- model_rf(x, y, subset, ...)
     } else if (model=='nn') {
       output <- model_nn(x, y, subset, ...)
     }
-    
+    # create some output (predictions and hitrates)
     if (class(output$predictions_train)=='factor') {
       output$predictions <- as.factor(c(as.character(output$predictions_train), as.character(output$predictions_test)))
     } else {
@@ -37,6 +40,7 @@ run_machine_learning <- function(x, ..., y = NULL, p = NULL, subset = NULL, mode
     return(output)
 }
 
+# create randomforest model
 model_rf <- function(x, y, subset, ...) {
     output <- list()
     x_test <- x[-subset, ]
@@ -56,6 +60,7 @@ model_rf <- function(x, y, subset, ...) {
     return(output)
 }
 
+# create neural network model
 model_nn <- function(x, y, subset, ...) {
   output <- list()
   h2o.init(nthreads = -1)
