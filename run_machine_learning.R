@@ -44,12 +44,16 @@ run_machine_learning <- function(x, ..., y = NULL, p = NULL, subset = NULL, mode
 model_rf <- function(x, y, subset, ...) {
     output <- list()
     x_test <- x[-subset, ]
+    y_test <- y[-subset] %>% na.omit()
     if (NROW(x_test) == 0) {
         x_test <- NULL
     }
-    output$model <- randomForest(x[subset, ], y[subset], xtest = x_test, ytest = y[-subset], votes = TRUE, importance = TRUE)
+    if (length(y_test) == 0) {
+      y_test <- NULL
+    }
+    output$model <- randomForest(x[subset, ], y[subset], xtest = x_test, ytest = y_test, votes = TRUE, importance = TRUE)
     output$variable_importance <- importance(output$model)
-    output$votes <- output$model$test$votes
+    output$votes_test <- output$model$test$votes
     output$predictions_train <- output$model$predicted %>% as.character() %>% as.numeric()
     if (!is.null(output$model$test$predicted)) {
       output$predictions_test <- output$model$test$predicted %>% as.character() %>% as.numeric()
