@@ -5,11 +5,13 @@ library(magrittr)
 library(dplyr)
 library(stringr)
 library(purrr)
+
 library(vfmodels)
 
 source('settings.R')
 
 file_data_matches <- paste0(data_folder, "Data_Matches_", name, ".xlsx")
+file_data_matches2 <- paste0(data_folder, "Data_Matches_", name, "_2.csv")
 file_fifa_rankings <- paste0(data_folder, "fifa_ranking.csv")
 file_country_codes <- paste0(data_folder, "country_codes.csv")
 file_match_codes <- paste0(data_folder, "Match_Codes_", name, ".xlsx")
@@ -41,10 +43,11 @@ fix_country_name <- function(string) {
   return(string)
 }
 
-data_matches_games <- read_excel(file_data_matches, sheet=1)
+# data_matches_games <- read_excel(file_data_matches, sheet=1)
+data_matches_games <- read_csv(file_data_matches2)
 colnames(data_matches_games) %<>% map_chr(simplify)
-data_matches_type <- read_excel(file_data_matches, sheet=2)
-colnames(data_matches_type) %<>% map_chr(simplify)
+# data_matches_type <- read_excel(file_data_matches, sheet=2)
+# colnames(data_matches_type) %<>% map_chr(simplify)
 
 match_codes <- read_excel(file_match_codes, sheet=1)
 
@@ -130,19 +133,15 @@ data_matches_games %<>% by_row(function(x) {create_summary(data_games2, x$date, 
 
 # make predictions
 y <- data_matches_games %>% select(result) %>% map(as.factor) %>% unlist()
-x <- data_matches_games %>% select(matches('_rank'), matches('_points'), matches('_match'), matches('_change'), matches('_previous_'), matches('_avg_'))
+x <- data_matches_games %>% select(matches('_rank'), matches('_points'), matches('_match'), matches('_change'),
+                                   matches('_previous_'), matches('_avg_'), friendly)
 subset <- (data_matches_games %>% nrow() * 0.7) %>% round %>% seq
-model_results <- run_machine_learning(x=x, y=y, subset=subset)
-results <- c(model_results$model$predicted %>% as.character() %>% as.numeric(), model_results$model$test$predicted %>% as.character() %>% as.numeric())
-set <- c(rep('train', length(subset)), rep('test', length(y)-length(subset)))
-data_results <- data_matches_games %>% bind_cols(data.frame(prediction=results)) %>% bind_cols(data.frame(set=set))
-hitrate_train <- data_results %>% mutate(correct=result==prediction) %>% filter(set=='train') %>% select(correct) %>% unlist() %>% mean()
-hitrate_test <- data_results %>% mutate(correct=result==prediction) %>% filter(set=='test') %>% select(correct) %>% unlist() %>% mean()
-crosstable <- table(data_results$result, data_results$prediction)
+output <- run_machine_learning(x=x, y=y, subset=subset, model='nn',
+                             hidden=c(10), hidden_dropout_ratios=c(0.2), epochs=100, activation='MaxoutWithDropout')
 
-print(hitrate_train)
-print(hitrate_test)
-print(crosstable)
+print(output$hitrate_train)
+print(output$hitrate_test)
+print(output$crosstable)
 
 # merge game data with fifa data
 match_codes %<>%
@@ -183,23 +182,116 @@ match_codes %<>%
 match_codes %<>% by_row(function(x) {create_summary(data_games2, today(), x$`TEAM 1`, 'local')}, .collate='cols') %>%
   by_row(function(x) {create_summary(data_games2, today(), x$`TEAM 2`, 'visit')}, .collate='cols')
 
-model_results2 <- run_machine_learning(x=x, y=y)
-predictions <- predict(model_results2$model, match_codes, type='prob')
-submission <- bind_cols(match_codes %>% select(matches('MATCH NUMBER')), predictions %>% data.frame())
-colnames(submission)[2:4] <- paste('win', colnames(predictions))
+# model_results2 <- run_machine_learning(x=x, y=y)
+x2 <- bind_rows(x, match_codes) %>% select(-date, -matches('TEAM'), -`MATCH NUMBER`, -match_id)
+y2 <- c(as.character(y), rep(NA, nrow(match_codes))) %>% as.factor()
+subset2 <- seq(1:nrow(x))
+output2 <- run_machine_learning(x=x2, y=y2, subset=subset2, model='nn',
+                     hidden=c(10), hidden_dropout_ratios=c(0.2), epochs=100, activation='MaxoutWithDropout')
+predictions <- output2$votes_test
+colnames(predictions) <- paste0('win_', colnames(predictions))
+
+submission <- bind_cols(match_codes %>% select(matches('MATCH NUMBER')), predictions)
 write_csv(submission, path=paste0(data_folder, 'Submission_', name, '.csv'))
 
 
-#### voorspel doelpunten
+#### voorspel doelpunten thuisteam
 y_local <- data_matches_games %>% select(local_score) %>% unlist() %>% as.factor()
-model_local_score <- run_machine_learning(x=x, y=y_local)
-predictions_local <- predict(model_local_score$model, match_codes, type='prob')
+output_local <- run_machine_learning(x=x, y=y_local, subset=subset, model='nn',
+                                hidden=c(10), hidden_dropout_ratios=c(0.2), epochs=100, activation='MaxoutWithDropout')
+print(output_local$hitrate_train)
+print(output_local$hitrate_test)
+print(output_local$crosstable)
 
+y_local2 <- c(as.character(y_local), rep(NA, nrow(match_codes))) %>% as.factor()
+output_local2 <- run_machine_learning(x=x2, y=y_local2, subset=subset2, model='nn',
+                                     hidden=c(10), hidden_dropout_ratios=c(0.2), epochs=100, activation='MaxoutWithDropout')
+predictions_local <- output_local2$votes_test
+colnames(predictions_local) <- paste0('local_', colnames(predictions_local))
+
+
+#### voorspel doelpunten uitteam
 y_visit <- data_matches_games %>% select(visit_score) %>% unlist() %>% as.factor()
-model_visit_score <- run_machine_learning(x=x, y=y_visit)
-predictions_visit <- predict(model_visit_score$model, match_codes, type='prob')
+output_visit <- run_machine_learning(x=x, y=y_visit, subset=subset, model='nn',
+                                     hidden=c(10), hidden_dropout_ratios=c(0.2), epochs=100, activation='MaxoutWithDropout')
+print(output_visit$hitrate_train)
+print(output_visit$hitrate_test)
+print(output_visit$crosstable)
+
+y_visit2 <- c(as.character(y_visit), rep(NA, nrow(match_codes))) %>% as.factor()
+output_visit2 <- run_machine_learning(x=x2, y=y_visit2, subset=subset2, model='nn',
+                                      hidden=c(10), hidden_dropout_ratios=c(0.2), epochs=100, activation='MaxoutWithDropout')
+predictions_visit <- output_visit2$votes_test
+colnames(predictions_visit) <- paste0('visit_', colnames(predictions_visit))
 
 submission2 <- bind_cols(submission, predictions_local %>% data.frame(), predictions_visit %>% data.frame())
-colnames(submission2)[5:(4+ncol(predictions_local))] <- paste('local', colnames(predictions_local))
-colnames(submission2)[(5+ncol(predictions_local)):ncol(submission2)] <- paste('visit', colnames(predictions_visit))
 write_csv(submission2, path=paste0(data_folder, 'full_prediction.csv'))
+
+# hitrate win
+test <- bind_cols(output_local$predictions_test %>% data.frame(), output_visit$predictions_test %>% data.frame())
+colnames(test) <- c('local_score', 'visit_score')
+test %<>% mutate_each(funs(as.character)) %>% mutate_each(funs(as.numeric))
+test %<>% mutate(win=sign(local_score - visit_score))
+print(mean(test$win==y[-subset] %>% as.character() %>% as.numeric()))
+
+# hitrate score
+test %<>% mutate(score=paste(local_score, visit_score, sep='-'))
+print(mean(test$score==y_combined[-subset] %>% as.character()))
+
+#### voorspel uitslag in één model
+y_combined <- data_matches_games %>% transmute(result=paste(local_score, visit_score, sep='-')) %>% unlist %>% as.factor()
+output_combined <- run_machine_learning(x=x, y=y_combined, subset=subset, model='nn',
+                                     hidden=c(10), hidden_dropout_ratios=c(0.2), epochs=100, activation='MaxoutWithDropout')
+predictions_combined <- strsplit(as.character(output_combined$predictions), split='-') %>%
+  unlist() %>%
+  as.numeric() %>%
+  matrix(ncol=2, byrow=TRUE) %>%
+  data.frame()
+predictions_combined$result <- sign(predictions_combined[,1] - predictions_combined[,2])
+
+# hitrates win
+print(mean(as.character(predictions_combined$result)[subset]==as.character(y)[subset]))
+print(mean(as.character(predictions_combined$result)[-subset]==as.character(y)[-subset]))
+# hitrates scores
+print(output_combined$hitrate_train)
+print(output_combined$hitrate_test)
+
+y_combined2 <- c(as.character(y_combined), rep(NA, nrow(match_codes))) %>% as.factor()
+output_combined2 <- run_machine_learning(x=x2, y=y_combined2, subset=subset2, model='nn',
+                                        hidden=c(10), hidden_dropout_ratios=c(0.2), epochs=100, activation='MaxoutWithDropout')
+predictions_combined2 <- output_combined2$votes_test
+colnames(predictions_combined2) <- paste0('result_', colnames(predictions_combined2))
+
+submission3 <- bind_cols(submission2, predictions_combined2)
+write_csv(submission3, path=paste0(data_folder, 'full_prediction_2.csv'))
+
+#### voorspel poule rankings
+schema <- read_csv(file.path(data_folder, 'schema.csv'))
+join_match <- function(row) {
+  t <- match_codes %>% filter(`TEAM 1` %in% c(row)) %>% filter(`TEAM 2` %in% c(row)) %>%
+    select(`MATCH NUMBER`, `TEAM 1`, `TEAM 2`)
+  t %<>% inner_join(submission, by='MATCH NUMBER')
+  if (row$local_team==t$`TEAM 1`) {
+    local_points=3*t$`win 1`+t$`win 0`
+    visit_points=3*t$`win -1`+t$`win 0`
+  } else {
+    local_points=3*t$`win -1`+t$`win 0`
+    visit_points=3*t$`win 1`+t$`win 0`
+  }
+  return(data.frame(local_points, visit_points))
+}
+schema %<>% by_row(join_match, .collate='cols')
+
+countries <- data.frame(country=unique(c(schema$local_team, schema$visit_team)), stringsAsFactors = FALSE)
+count_points <- function(country) {
+  schema %>% filter(local_team==country) %>% select(local_points1) %>% sum() +
+    schema %>% filter(visit_team==country) %>% select(visit_points1) %>% sum()
+}
+countries$points <- map_dbl(countries$country, count_points)
+get_group <- function(country) {
+  schema %>% filter(local_team==country) %>% select(group) %>% slice(1) %>% as.character()
+}
+countries %<>% mutate(group= map_chr(countries$country, get_group))
+countries %<>% arrange(group, -points)
+countries %<>% mutate(rank=rep(1:4, 6))
+countries %<>% mutate(rank_code=paste0(group, rank))
