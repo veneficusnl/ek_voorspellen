@@ -42,7 +42,7 @@ date,country_code,country_name,rank,points,previous_points
 19/12/2001,EGY,Egypt,41,602,601
 19/12/2001,KOR,Korea Republic,42,599,596
 19/12/2001,PER,Peru,43,598,598
-19/12/2001,CIV,Côte d'Ivoire,44,596,593
+19/12/2001,CIV,CÃ´te d'Ivoire,44,596,593
 19/12/2001,UKR,Ukraine,45,593,595
 19/12/2001,FIN,Finland,46,588,585
 19/12/2001,SVK,Slovakia,47,588,595
@@ -184,7 +184,7 @@ date,country_code,country_name,rank,points,previous_points
 19/12/2001,ANT,Netherlands Antilles,183,106,111
 19/12/2001,BAH,Bahamas,184,106,108
 19/12/2001,ARU,Aruba,185,101,101
-19/12/2001,STP,São Tomé e Príncipe,186,100,102
+19/12/2001,STP,SÃ£o TomÃ© e PrÃ­ncipe,186,100,102
 19/12/2001,MNG,Mongolia,187,94,94
 19/12/2001,NCA,Nicaragua,188,89,89
 19/12/2001,BRU,Brunei Darussalam,189,86,86
@@ -245,7 +245,7 @@ date,country_code,country_name,rank,points,previous_points
 16/01/2002,EGY,Egypt,41,601,602
 16/01/2002,KOR,Korea Republic,42,599,599
 16/01/2002,PER,Peru,43,598,598
-16/01/2002,CIV,Côte d'Ivoire,44,596,596
+16/01/2002,CIV,CÃ´te d'Ivoire,44,596,596
 16/01/2002,UKR,Ukraine,45,593,593
 16/01/2002,FIN,Finland,46,590,588
 16/01/2002,SVK,Slovakia,47,588,588
@@ -387,7 +387,7 @@ date,country_code,country_name,rank,points,previous_points
 16/01/2002,BAH,Bahamas,183,106,106
 16/01/2002,ANT,Netherlands Antilles,184,106,106
 16/01/2002,ARU,Aruba,185,101,101
-16/01/2002,STP,São Tomé e Príncipe,186,99,100
+16/01/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,186,99,100
 16/01/2002,MNG,Mongolia,187,94,94
 16/01/2002,NCA,Nicaragua,188,89,89
 16/01/2002,BRU,Brunei Darussalam,189,86,86
@@ -450,7 +450,7 @@ date,country_code,country_name,rank,points,previous_points
 13/02/2002,SVK,Slovakia,43,597,588
 13/02/2002,PER,Peru,44,597,598
 13/02/2002,SEN,Senegal,45,595,536
-13/02/2002,CIV,Côte d'Ivoire,46,594,596
+13/02/2002,CIV,CÃ´te d'Ivoire,46,594,596
 13/02/2002,FIN,Finland,47,591,590
 13/02/2002,UKR,Ukraine,48,591,593
 13/02/2002,AUS,Australia,49,584,586
@@ -590,7 +590,7 @@ date,country_code,country_name,rank,points,previous_points
 13/02/2002,BAH,Bahamas,183,106,106
 13/02/2002,ANT,Netherlands Antilles,184,105,106
 13/02/2002,ARU,Aruba,185,101,101
-13/02/2002,STP,São Tomé e Príncipe,186,99,99
+13/02/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,186,99,99
 13/02/2002,MNG,Mongolia,187,93,94
 13/02/2002,NCA,Nicaragua,188,89,89
 13/02/2002,BRU,Brunei Darussalam,189,86,86
@@ -655,7 +655,7 @@ date,country_code,country_name,rank,points,previous_points
 20/03/2002,SEN,Senegal,45,595,595
 20/03/2002,SVK,Slovakia,46,594,597
 20/03/2002,FIN,Finland,47,593,591
-20/03/2002,CIV,Côte d'Ivoire,48,590,594
+20/03/2002,CIV,CÃ´te d'Ivoire,48,590,594
 20/03/2002,AUS,Australia,49,584,584
 20/03/2002,ISR,Israel,50,576,580
 20/03/2002,SCO,Scotland,51,570,575
@@ -793,7 +793,7 @@ date,country_code,country_name,rank,points,previous_points
 20/03/2002,BAH,Bahamas,183,105,106
 20/03/2002,ANT,Netherlands Antilles,184,104,105
 20/03/2002,ARU,Aruba,185,101,101
-20/03/2002,STP,São Tomé e Príncipe,186,99,99
+20/03/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,186,99,99
 20/03/2002,MNG,Mongolia,187,93,93
 20/03/2002,NCA,Nicaragua,188,88,89
 20/03/2002,BRU,Brunei Darussalam,189,85,86
@@ -856,7 +856,7 @@ date,country_code,country_name,rank,points,previous_points
 17/04/2002,SEN,Senegal,43,596,595
 17/04/2002,CHI,Chile,44,594,596
 17/04/2002,UKR,Ukraine,45,589,597
-17/04/2002,CIV,Côte d'Ivoire,46,586,590
+17/04/2002,CIV,CÃ´te d'Ivoire,46,586,590
 17/04/2002,PER,Peru,47,586,595
 17/04/2002,AUS,Australia,48,581,584
 17/04/2002,SVK,Slovakia,49,577,594
@@ -997,7 +997,7 @@ date,country_code,country_name,rank,points,previous_points
 17/04/2002,BAH,Bahamas,184,104,105
 17/04/2002,ANT,Netherlands Antilles,185,103,104
 17/04/2002,ARU,Aruba,186,100,101
-17/04/2002,STP,São Tomé e Príncipe,187,98,99
+17/04/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,187,98,99
 17/04/2002,MNG,Mongolia,188,92,93
 17/04/2002,NCA,Nicaragua,189,88,88
 17/04/2002,BRU,Brunei Darussalam,190,84,85
@@ -1059,7 +1059,7 @@ date,country_code,country_name,rank,points,previous_points
 15/05/2002,EGY,Egypt,43,598,604
 15/05/2002,UKR,Ukraine,44,593,589
 15/05/2002,CHI,Chile,45,590,594
-15/05/2002,CIV,Côte d'Ivoire,46,580,586
+15/05/2002,CIV,CÃ´te d'Ivoire,46,580,586
 15/05/2002,PER,Peru,47,578,586
 15/05/2002,AUS,Australia,48,575,581
 15/05/2002,SVK,Slovakia,49,574,577
@@ -1200,7 +1200,7 @@ date,country_code,country_name,rank,points,previous_points
 15/05/2002,BAH,Bahamas,184,103,104
 15/05/2002,ANT,Netherlands Antilles,185,101,103
 15/05/2002,ARU,Aruba,186,99,100
-15/05/2002,STP,São Tomé e Príncipe,187,97,98
+15/05/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,187,97,98
 15/05/2002,MNG,Mongolia,188,92,92
 15/05/2002,NCA,Nicaragua,189,88,88
 15/05/2002,BRU,Brunei Darussalam,190,83,84
@@ -1263,7 +1263,7 @@ date,country_code,country_name,rank,points,previous_points
 03/07/2002,EGY,Egypt,44,591,598
 03/07/2002,CHI,Chile,45,584,590
 03/07/2002,SVK,Slovakia,46,581,574
-03/07/2002,CIV,Côte d'Ivoire,47,566,580
+03/07/2002,CIV,CÃ´te d'Ivoire,47,566,580
 03/07/2002,PER,Peru,48,563,578
 03/07/2002,GRE,Greece,49,555,558
 03/07/2002,AUS,Australia,50,552,575
@@ -1403,7 +1403,7 @@ date,country_code,country_name,rank,points,previous_points
 03/07/2002,BAH,Bahamas,184,101,103
 03/07/2002,ANT,Netherlands Antilles,185,98,101
 03/07/2002,ARU,Aruba,186,96,99
-03/07/2002,STP,São Tomé e Príncipe,187,95,97
+03/07/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,187,95,97
 03/07/2002,MNG,Mongolia,188,90,92
 03/07/2002,NCA,Nicaragua,189,85,88
 03/07/2002,BRU,Brunei Darussalam,190,81,83
@@ -1467,7 +1467,7 @@ date,country_code,country_name,rank,points,previous_points
 14/08/2002,SVK,Slovakia,45,577,581
 14/08/2002,AUS,Australia,46,575,552
 14/08/2002,NZL,New Zealand,47,558,452
-14/08/2002,CIV,Côte d'Ivoire,48,553,566
+14/08/2002,CIV,CÃ´te d'Ivoire,48,553,566
 14/08/2002,GRE,Greece,49,552,555
 14/08/2002,CHI,Chile,50,547,584
 14/08/2002,CHN,China PR,51,546,549
@@ -1606,7 +1606,7 @@ date,country_code,country_name,rank,points,previous_points
 14/08/2002,BAH,Bahamas,184,99,101
 14/08/2002,ANT,Netherlands Antilles,185,96,98
 14/08/2002,ARU,Aruba,186,94,96
-14/08/2002,STP,São Tomé e Príncipe,187,93,95
+14/08/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,187,93,95
 14/08/2002,MNG,Mongolia,188,88,90
 14/08/2002,NCA,Nicaragua,189,83,85
 14/08/2002,BRU,Brunei Darussalam,190,79,81
@@ -1671,7 +1671,7 @@ date,country_code,country_name,rank,points,previous_points
 18/09/2002,GRE,Greece,46,562,552
 18/09/2002,UKR,Ukraine,47,559,591
 18/09/2002,NZL,New Zealand,48,558,558
-18/09/2002,CIV,Côte d'Ivoire,49,548,553
+18/09/2002,CIV,CÃ´te d'Ivoire,49,548,553
 18/09/2002,BUL,Bulgaria,50,546,526
 18/09/2002,IRQ,Iraq,51,545,525
 18/09/2002,ISR,Israel,52,542,532
@@ -1810,7 +1810,7 @@ date,country_code,country_name,rank,points,previous_points
 18/09/2002,BAH,Bahamas,185,97,99
 18/09/2002,ARU,Aruba,186,93,94
 18/09/2002,NIG,Niger,187,91,62
-18/09/2002,STP,São Tomé e Príncipe,188,91,93
+18/09/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,188,91,93
 18/09/2002,SEY,Seychelles,189,90,64
 18/09/2002,MNG,Mongolia,190,87,88
 18/09/2002,NCA,Nicaragua,191,82,83
@@ -1883,7 +1883,7 @@ date,country_code,country_name,rank,points,previous_points
 23/10/2002,SCO,Scotland,55,544,518
 23/10/2002,ISL,Iceland,56,543,532
 23/10/2002,ZIM,Zimbabwe,57,541,525
-23/10/2002,CIV,Côte d'Ivoire,58,536,548
+23/10/2002,CIV,CÃ´te d'Ivoire,58,536,548
 23/10/2002,GHA,Ghana,59,535,522
 23/10/2002,JAM,Jamaica,60,530,529
 23/10/2002,WAL,Wales,61,518,487
@@ -2014,7 +2014,7 @@ date,country_code,country_name,rank,points,previous_points
 23/10/2002,MAC,Macau,186,97,100
 23/10/2002,BAH,Bahamas,187,96,97
 23/10/2002,ARU,Aruba,188,91,93
-23/10/2002,STP,São Tomé e Príncipe,189,89,91
+23/10/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,189,89,91
 23/10/2002,MNG,Mongolia,190,85,87
 23/10/2002,EQG,Equatorial Guinea,191,83,73
 23/10/2002,NCA,Nicaragua,192,80,82
@@ -2088,7 +2088,7 @@ date,country_code,country_name,rank,points,previous_points
 20/11/2002,SCO,Scotland,57,538,544
 20/11/2002,HUN,Hungary,58,533,546
 20/11/2002,GHA,Ghana,59,529,535
-20/11/2002,CIV,Côte d'Ivoire,60,526,536
+20/11/2002,CIV,CÃ´te d'Ivoire,60,526,536
 20/11/2002,WAL,Wales,61,518,518
 20/11/2002,EST,Estonia,62,517,514
 20/11/2002,ZAM,Zambia,63,512,516
@@ -2217,7 +2217,7 @@ date,country_code,country_name,rank,points,previous_points
 20/11/2002,MAC,Macau,186,94,97
 20/11/2002,BAH,Bahamas,187,93,96
 20/11/2002,ARU,Aruba,188,90,91
-20/11/2002,STP,São Tomé e Príncipe,189,87,89
+20/11/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,189,87,89
 20/11/2002,EQG,Equatorial Guinea,190,83,83
 20/11/2002,MNG,Mongolia,191,83,85
 20/11/2002,NCA,Nicaragua,192,78,80
@@ -2295,7 +2295,7 @@ date,country_code,country_name,rank,points,previous_points
 18/12/2002,GHA,Ghana,61,525,529
 18/12/2002,QAT,Qatar,62,519,506
 18/12/2002,CHN,China PR,63,512,505
-18/12/2002,CIV,Côte d'Ivoire,64,510,526
+18/12/2002,CIV,CÃ´te d'Ivoire,64,510,526
 18/12/2002,COD,Congo DR,65,509,509
 18/12/2002,THA,Thailand,66,506,497
 18/12/2002,ZAM,Zambia,67,506,512
@@ -2422,7 +2422,7 @@ date,country_code,country_name,rank,points,previous_points
 18/12/2002,MAC,Macau,188,90,94
 18/12/2002,ARU,Aruba,189,87,90
 18/12/2002,SOM,Somalia,190,87,64
-18/12/2002,STP,São Tomé e Príncipe,191,84,87
+18/12/2002,STP,SÃ£o TomÃ© e PrÃ­ncipe,191,84,87
 18/12/2002,EQG,Equatorial Guinea,192,82,83
 18/12/2002,MNG,Mongolia,193,81,83
 18/12/2002,BRU,Brunei Darussalam,194,70,73
@@ -2500,7 +2500,7 @@ date,country_code,country_name,rank,points,previous_points
 15/01/2003,QAT,Qatar,63,524,519
 15/01/2003,CHN,China PR,64,518,512
 15/01/2003,ALG,Algeria,65,514,505
-15/01/2003,CIV,Côte d'Ivoire,66,510,510
+15/01/2003,CIV,CÃ´te d'Ivoire,66,510,510
 15/01/2003,COD,Congo DR,67,509,509
 15/01/2003,ZAM,Zambia,68,503,506
 15/01/2003,VEN,Venezuela,69,501,501
@@ -2626,7 +2626,7 @@ date,country_code,country_name,rank,points,previous_points
 15/01/2003,MAC,Macau,189,90,90
 15/01/2003,ARU,Aruba,190,87,87
 15/01/2003,SOM,Somalia,191,87,87
-15/01/2003,STP,São Tomé e Príncipe,192,84,84
+15/01/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,192,84,84
 15/01/2003,EQG,Equatorial Guinea,193,82,82
 15/01/2003,MNG,Mongolia,194,81,81
 15/01/2003,BRU,Brunei Darussalam,195,70,70
@@ -2705,7 +2705,7 @@ date,country_code,country_name,rank,points,previous_points
 19/02/2003,CHN,China PR,63,517,518
 19/02/2003,QAT,Qatar,64,516,524
 19/02/2003,ALG,Algeria,65,514,514
-19/02/2003,CIV,Côte d'Ivoire,66,508,510
+19/02/2003,CIV,CÃ´te d'Ivoire,66,508,510
 19/02/2003,COD,Congo DR,67,507,509
 19/02/2003,ZAM,Zambia,68,501,503
 19/02/2003,VEN,Venezuela,69,499,501
@@ -2831,7 +2831,7 @@ date,country_code,country_name,rank,points,previous_points
 19/02/2003,MAC,Macau,189,89,90
 19/02/2003,ARU,Aruba,190,87,87
 19/02/2003,SOM,Somalia,191,86,87
-19/02/2003,STP,São Tomé e Príncipe,192,84,84
+19/02/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,192,84,84
 19/02/2003,EQG,Equatorial Guinea,193,82,82
 19/02/2003,MNG,Mongolia,194,81,81
 19/02/2003,BRU,Brunei Darussalam,195,70,70
@@ -2912,7 +2912,7 @@ date,country_code,country_name,rank,points,previous_points
 26/03/2003,EST,Estonia,65,519,523
 26/03/2003,QAT,Qatar,66,514,516
 26/03/2003,ALG,Algeria,67,513,514
-26/03/2003,CIV,Côte d'Ivoire,68,505,508
+26/03/2003,CIV,CÃ´te d'Ivoire,68,505,508
 26/03/2003,VEN,Venezuela,69,498,499
 26/03/2003,CAN,Canada,70,496,498
 26/03/2003,JOR,Jordan,71,496,498
@@ -3036,7 +3036,7 @@ date,country_code,country_name,rank,points,previous_points
 26/03/2003,MNG,Mongolia,189,95,81
 26/03/2003,SOM,Somalia,190,87,86
 26/03/2003,ARU,Aruba,191,86,87
-26/03/2003,STP,São Tomé e Príncipe,192,86,84
+26/03/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,192,86,84
 26/03/2003,EQG,Equatorial Guinea,193,82,82
 26/03/2003,BRU,Brunei Darussalam,194,69,70
 26/03/2003,DJI,Djibouti,195,65,63
@@ -3115,7 +3115,7 @@ date,country_code,country_name,rank,points,previous_points
 23/04/2003,GHA,Ghana,64,520,521
 23/04/2003,EST,Estonia,65,519,519
 23/04/2003,VEN,Venezuela,66,519,498
-23/04/2003,CIV,Côte d'Ivoire,67,518,505
+23/04/2003,CIV,CÃ´te d'Ivoire,67,518,505
 23/04/2003,ISL,Iceland,68,516,521
 23/04/2003,ZAM,Zambia,69,515,496
 23/04/2003,ALG,Algeria,70,514,513
@@ -3242,7 +3242,7 @@ date,country_code,country_name,rank,points,previous_points
 23/04/2003,EQG,Equatorial Guinea,191,86,82
 23/04/2003,SOM,Somalia,192,86,87
 23/04/2003,ARU,Aruba,193,85,86
-23/04/2003,STP,São Tomé e Príncipe,194,85,86
+23/04/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,194,85,86
 23/04/2003,DJI,Djibouti,195,64,65
 23/04/2003,AIA,Anguilla,196,61,61
 23/04/2003,VIR,US Virgin Islands,197,50,50
@@ -3312,7 +3312,7 @@ date,country_code,country_name,rank,points,previous_points
 21/05/2003,IRQ,Iraq,57,535,541
 21/05/2003,GUA,Guatemala,58,534,537
 21/05/2003,THA,Thailand,59,533,537
-21/05/2003,CIV,Côte d'Ivoire,60,533,518
+21/05/2003,CIV,CÃ´te d'Ivoire,60,533,518
 21/05/2003,EST,Estonia,61,528,519
 21/05/2003,AUT,Austria,62,528,528
 21/05/2003,VEN,Venezuela,63,527,519
@@ -3445,7 +3445,7 @@ date,country_code,country_name,rank,points,previous_points
 21/05/2003,EQG,Equatorial Guinea,190,86,86
 21/05/2003,SOM,Somalia,191,86,86
 21/05/2003,BRU,Brunei Darussalam,192,85,86
-21/05/2003,STP,São Tomé e Príncipe,193,84,85
+21/05/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,193,84,85
 21/05/2003,ARU,Aruba,194,84,85
 21/05/2003,BHU,Bhutan,195,82,38
 21/05/2003,DJI,Djibouti,196,63,64
@@ -3508,7 +3508,7 @@ date,country_code,country_name,rank,points,previous_points
 25/06/2003,HUN,Hungary,49,570,544
 25/06/2003,AUS,Australia,50,562,568
 25/06/2003,WAL,Wales,51,558,558
-25/06/2003,CIV,Côte d'Ivoire,52,555,533
+25/06/2003,CIV,CÃ´te d'Ivoire,52,555,533
 25/06/2003,NZL,New Zealand,53,550,557
 25/06/2003,TRI,Trinidad and Tobago,54,549,553
 25/06/2003,SVK,Slovakia,55,544,548
@@ -3651,7 +3651,7 @@ date,country_code,country_name,rank,points,previous_points
 25/06/2003,BRU,Brunei Darussalam,192,84,85
 25/06/2003,BHU,Bhutan,193,83,82
 25/06/2003,ARU,Aruba,194,82,84
-25/06/2003,STP,São Tomé e Príncipe,195,82,84
+25/06/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,82,84
 25/06/2003,DJI,Djibouti,196,62,63
 25/06/2003,AIA,Anguilla,197,59,60
 25/06/2003,VIR,US Virgin Islands,198,50,50
@@ -3712,7 +3712,7 @@ date,country_code,country_name,rank,points,previous_points
 30/07/2003,KSA,Saudi Arabia,49,568,581
 30/07/2003,ZIM,Zimbabwe,50,557,536
 30/07/2003,WAL,Wales,51,556,558
-30/07/2003,CIV,Côte d'Ivoire,52,550,555
+30/07/2003,CIV,CÃ´te d'Ivoire,52,550,555
 30/07/2003,CUB,Cuba,53,544,532
 30/07/2003,TRI,Trinidad and Tobago,54,543,549
 30/07/2003,AUT,Austria,55,541,544
@@ -3854,7 +3854,7 @@ date,country_code,country_name,rank,points,previous_points
 30/07/2003,BHU,Bhutan,191,89,83
 30/07/2003,SOM,Somalia,192,85,86
 30/07/2003,BRU,Brunei Darussalam,193,83,84
-30/07/2003,STP,São Tomé e Príncipe,194,81,82
+30/07/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,194,81,82
 30/07/2003,ARU,Aruba,195,80,82
 30/07/2003,DJI,Djibouti,196,61,62
 30/07/2003,AIA,Anguilla,197,58,59
@@ -3918,7 +3918,7 @@ date,country_code,country_name,rank,points,previous_points
 27/08/2003,AUT,Austria,51,556,541
 27/08/2003,WAL,Wales,52,550,556
 27/08/2003,COD,Congo DR,53,546,540
-27/08/2003,CIV,Côte d'Ivoire,54,545,550
+27/08/2003,CIV,CÃ´te d'Ivoire,54,545,550
 27/08/2003,TRI,Trinidad and Tobago,55,545,543
 27/08/2003,ISL,Iceland,56,544,534
 27/08/2003,SVK,Slovakia,57,543,541
@@ -4058,7 +4058,7 @@ date,country_code,country_name,rank,points,previous_points
 27/08/2003,BHU,Bhutan,191,89,89
 27/08/2003,SOM,Somalia,192,85,85
 27/08/2003,BRU,Brunei Darussalam,193,83,83
-27/08/2003,STP,São Tomé e Príncipe,194,79,81
+27/08/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,194,79,81
 27/08/2003,ARU,Aruba,195,78,80
 27/08/2003,DJI,Djibouti,196,60,61
 27/08/2003,AIA,Anguilla,197,57,58
@@ -4129,7 +4129,7 @@ date,country_code,country_name,rank,points,previous_points
 24/09/2003,TRI,Trinidad and Tobago,58,538,545
 24/09/2003,CHI,Chile,59,538,505
 24/09/2003,BIH,Bosnia and Herzegovina,60,538,491
-24/09/2003,CIV,Côte d'Ivoire,61,534,545
+24/09/2003,CIV,CÃ´te d'Ivoire,61,534,545
 24/09/2003,AUS,Australia,62,526,521
 24/09/2003,PER,Peru,63,526,513
 24/09/2003,VEN,Venezuela,64,525,533
@@ -4262,7 +4262,7 @@ date,country_code,country_name,rank,points,previous_points
 24/09/2003,BHU,Bhutan,191,89,89
 24/09/2003,SOM,Somalia,192,84,85
 24/09/2003,BRU,Brunei Darussalam,193,82,83
-24/09/2003,STP,São Tomé e Príncipe,194,77,79
+24/09/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,194,77,79
 24/09/2003,ARU,Aruba,195,76,78
 24/09/2003,DJI,Djibouti,196,59,60
 24/09/2003,AIA,Anguilla,197,56,57
@@ -4336,7 +4336,7 @@ date,country_code,country_name,rank,points,previous_points
 22/10/2003,TRI,Trinidad and Tobago,61,532,538
 22/10/2003,AUT,Austria,62,531,542
 22/10/2003,ALG,Algeria,63,531,515
-22/10/2003,CIV,Côte d'Ivoire,64,529,534
+22/10/2003,CIV,CÃ´te d'Ivoire,64,529,534
 22/10/2003,ZAM,Zambia,65,527,513
 22/10/2003,THA,Thailand,66,526,519
 22/10/2003,VEN,Venezuela,67,525,525
@@ -4465,7 +4465,7 @@ date,country_code,country_name,rank,points,previous_points
 22/10/2003,COK,Cook Islands,190,106,109
 22/10/2003,BAH,Bahamas,191,94,97
 22/10/2003,SOM,Somalia,192,84,84
-22/10/2003,STP,São Tomé e Príncipe,193,83,77
+22/10/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,193,83,77
 22/10/2003,BRU,Brunei Darussalam,194,81,82
 22/10/2003,ARU,Aruba,195,74,76
 22/10/2003,DJI,Djibouti,196,57,59
@@ -4542,7 +4542,7 @@ date,country_code,country_name,rank,points,previous_points
 19/11/2003,OMA,Oman,63,539,494
 19/11/2003,VEN,Venezuela,64,539,525
 19/11/2003,AUT,Austria,65,529,531
-19/11/2003,CIV,Côte d'Ivoire,66,528,529
+19/11/2003,CIV,CÃ´te d'Ivoire,66,528,529
 19/11/2003,HUN,Hungary,67,524,525
 19/11/2003,ZAM,Zambia,68,523,527
 19/11/2003,PER,Peru,69,523,520
@@ -4669,7 +4669,7 @@ date,country_code,country_name,rank,points,previous_points
 19/11/2003,COK,Cook Islands,190,103,106
 19/11/2003,SOM,Somalia,191,93,84
 19/11/2003,BAH,Bahamas,192,92,94
-19/11/2003,STP,São Tomé e Príncipe,193,82,83
+19/11/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,193,82,83
 19/11/2003,BRU,Brunei Darussalam,194,81,81
 19/11/2003,ARU,Aruba,195,72,74
 19/11/2003,DJI,Djibouti,196,56,57
@@ -4750,7 +4750,7 @@ date,country_code,country_name,rank,points,previous_points
 15/12/2003,AUT,Austria,67,526,529
 15/12/2003,ZAM,Zambia,68,524,523
 15/12/2003,EST,Estonia,69,524,516
-15/12/2003,CIV,Côte d'Ivoire,70,522,528
+15/12/2003,CIV,CÃ´te d'Ivoire,70,522,528
 15/12/2003,TRI,Trinidad and Tobago,71,522,519
 15/12/2003,HUN,Hungary,72,517,524
 15/12/2003,KEN,Kenya,73,517,515
@@ -4872,7 +4872,7 @@ date,country_code,country_name,rank,points,previous_points
 15/12/2003,PHI,Philippines,189,106,117
 15/12/2003,COK,Cook Islands,190,99,103
 15/12/2003,SOM,Somalia,191,97,93
-15/12/2003,STP,São Tomé e Príncipe,192,93,82
+15/12/2003,STP,SÃ£o TomÃ© e PrÃ­ncipe,192,93,82
 15/12/2003,BAH,Bahamas,193,88,92
 15/12/2003,BRU,Brunei Darussalam,194,80,81
 15/12/2003,ARU,Aruba,195,69,72
@@ -4954,7 +4954,7 @@ date,country_code,country_name,rank,points,previous_points
 14/01/2004,EST,Estonia,67,528,524
 14/01/2004,AUT,Austria,68,526,526
 14/01/2004,ZAM,Zambia,69,524,524
-14/01/2004,CIV,Côte d'Ivoire,70,522,522
+14/01/2004,CIV,CÃ´te d'Ivoire,70,522,522
 14/01/2004,TRI,Trinidad and Tobago,71,522,522
 14/01/2004,HUN,Hungary,72,516,517
 14/01/2004,BFA,Burkina Faso,73,516,508
@@ -5076,7 +5076,7 @@ date,country_code,country_name,rank,points,previous_points
 14/01/2004,PHI,Philippines,189,106,106
 14/01/2004,COK,Cook Islands,190,99,99
 14/01/2004,SOM,Somalia,191,97,97
-14/01/2004,STP,São Tomé e Príncipe,192,93,93
+14/01/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,192,93,93
 14/01/2004,BAH,Bahamas,193,91,88
 14/01/2004,BRU,Brunei Darussalam,194,80,80
 14/01/2004,ARU,Aruba,195,69,69
@@ -5160,7 +5160,7 @@ date,country_code,country_name,rank,points,previous_points
 18/02/2004,TRI,Trinidad and Tobago,69,524,522
 18/02/2004,KEN,Kenya,70,523,514
 18/02/2004,ZAM,Zambia,71,522,524
-18/02/2004,CIV,Côte d'Ivoire,72,519,522
+18/02/2004,CIV,CÃ´te d'Ivoire,72,519,522
 18/02/2004,BFA,Burkina Faso,73,517,516
 18/02/2004,HUN,Hungary,74,514,516
 18/02/2004,CUB,Cuba,75,514,515
@@ -5280,7 +5280,7 @@ date,country_code,country_name,rank,points,previous_points
 18/02/2004,PHI,Philippines,189,106,106
 18/02/2004,COK,Cook Islands,190,98,99
 18/02/2004,SOM,Somalia,191,97,97
-18/02/2004,STP,São Tomé e Príncipe,192,92,93
+18/02/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,192,92,93
 18/02/2004,BAH,Bahamas,193,90,91
 18/02/2004,BRU,Brunei Darussalam,194,80,80
 18/02/2004,ARU,Aruba,195,68,69
@@ -5367,7 +5367,7 @@ date,country_code,country_name,rank,points,previous_points
 17/03/2004,UAE,United Arab Emirates,72,521,511
 17/03/2004,ZAM,Zambia,73,520,522
 17/03/2004,BFA,Burkina Faso,74,518,517
-17/03/2004,CIV,Côte d'Ivoire,75,516,519
+17/03/2004,CIV,CÃ´te d'Ivoire,75,516,519
 17/03/2004,CUB,Cuba,76,514,514
 17/03/2004,CHN,China PR,77,514,509
 17/03/2004,BLR,Belarus,78,511,474
@@ -5484,7 +5484,7 @@ date,country_code,country_name,rank,points,previous_points
 17/03/2004,PHI,Philippines,189,105,106
 17/03/2004,COK,Cook Islands,190,97,98
 17/03/2004,SOM,Somalia,191,96,97
-17/03/2004,STP,São Tomé e Príncipe,192,92,92
+17/03/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,192,92,92
 17/03/2004,BAH,Bahamas,193,90,90
 17/03/2004,BRU,Brunei Darussalam,194,79,80
 17/03/2004,ARU,Aruba,195,71,68
@@ -5571,7 +5571,7 @@ date,country_code,country_name,rank,points,previous_points
 14/04/2004,BFA,Burkina Faso,72,519,518
 14/04/2004,HUN,Hungary,73,519,531
 14/04/2004,KEN,Kenya,74,516,522
-14/04/2004,CIV,Côte d'Ivoire,75,514,516
+14/04/2004,CIV,CÃ´te d'Ivoire,75,514,516
 14/04/2004,TRI,Trinidad and Tobago,76,514,523
 14/04/2004,LBY,Libya,77,513,504
 14/04/2004,ZAM,Zambia,78,513,520
@@ -5689,7 +5689,7 @@ date,country_code,country_name,rank,points,previous_points
 14/04/2004,BAH,Bahamas,190,102,90
 14/04/2004,SOM,Somalia,191,96,96
 14/04/2004,COK,Cook Islands,192,96,97
-14/04/2004,STP,São Tomé e Príncipe,193,92,92
+14/04/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,193,92,92
 14/04/2004,BRU,Brunei Darussalam,194,78,79
 14/04/2004,ARU,Aruba,195,74,71
 14/04/2004,AIA,Anguilla,196,67,52
@@ -5775,7 +5775,7 @@ date,country_code,country_name,rank,points,previous_points
 12/05/2004,BFA,Burkina Faso,72,517,519
 12/05/2004,AUT,Austria,73,516,524
 12/05/2004,KEN,Kenya,74,514,516
-12/05/2004,CIV,Côte d'Ivoire,75,512,514
+12/05/2004,CIV,CÃ´te d'Ivoire,75,512,514
 12/05/2004,TRI,Trinidad and Tobago,76,512,514
 12/05/2004,CHI,Chile,77,510,520
 12/05/2004,CUB,Cuba,78,510,512
@@ -5893,7 +5893,7 @@ date,country_code,country_name,rank,points,previous_points
 12/05/2004,BAH,Bahamas,190,100,102
 12/05/2004,SOM,Somalia,191,96,96
 12/05/2004,COK,Cook Islands,192,95,96
-12/05/2004,STP,São Tomé e Príncipe,193,91,92
+12/05/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,193,91,92
 12/05/2004,BRU,Brunei Darussalam,194,77,78
 12/05/2004,ARU,Aruba,195,73,74
 12/05/2004,AIA,Anguilla,196,67,67
@@ -5973,7 +5973,7 @@ date,country_code,country_name,rank,points,previous_points
 09/06/2004,COD,Congo DR,66,527,534
 09/06/2004,CHN,China PR,67,527,525
 09/06/2004,CHI,Chile,68,527,510
-09/06/2004,CIV,Côte d'Ivoire,69,525,512
+09/06/2004,CIV,CÃ´te d'Ivoire,69,525,512
 09/06/2004,AUT,Austria,70,524,516
 09/06/2004,UKR,Ukraine,71,523,528
 09/06/2004,PER,Peru,72,522,504
@@ -6098,7 +6098,7 @@ date,country_code,country_name,rank,points,previous_points
 09/06/2004,PHI,Philippines,191,101,103
 09/06/2004,BAH,Bahamas,192,99,100
 09/06/2004,SOM,Somalia,193,95,96
-09/06/2004,STP,São Tomé e Príncipe,194,91,91
+09/06/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,194,91,91
 09/06/2004,BRU,Brunei Darussalam,195,76,77
 09/06/2004,ARU,Aruba,196,72,73
 09/06/2004,AIA,Anguilla,197,66,67
@@ -6171,7 +6171,7 @@ date,country_code,country_name,rank,points,previous_points
 07/07/2004,SCO,Scotland,59,545,547
 07/07/2004,ISR,Israel,60,544,546
 07/07/2004,WAL,Wales,61,541,543
-07/07/2004,CIV,Côte d'Ivoire,62,539,525
+07/07/2004,CIV,CÃ´te d'Ivoire,62,539,525
 07/07/2004,TRI,Trinidad and Tobago,63,536,515
 07/07/2004,THA,Thailand,64,535,542
 07/07/2004,CHN,China PR,65,535,527
@@ -6303,7 +6303,7 @@ date,country_code,country_name,rank,points,previous_points
 07/07/2004,PHI,Philippines,191,99,101
 07/07/2004,BAH,Bahamas,192,98,99
 07/07/2004,SOM,Somalia,193,95,95
-07/07/2004,STP,São Tomé e Príncipe,194,90,91
+07/07/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,194,90,91
 07/07/2004,BRU,Brunei Darussalam,195,75,76
 07/07/2004,ARU,Aruba,196,71,72
 07/07/2004,AIA,Anguilla,197,66,66
@@ -6378,7 +6378,7 @@ date,country_code,country_name,rank,points,previous_points
 04/08/2004,PER,Peru,61,547,518
 04/08/2004,SCO,Scotland,62,542,545
 04/08/2004,ISR,Israel,63,542,544
-04/08/2004,CIV,Côte d'Ivoire,64,539,539
+04/08/2004,CIV,CÃ´te d'Ivoire,64,539,539
 04/08/2004,WAL,Wales,65,539,541
 04/08/2004,THA,Thailand,66,539,535
 04/08/2004,TRI,Trinidad and Tobago,67,535,536
@@ -6508,7 +6508,7 @@ date,country_code,country_name,rank,points,previous_points
 04/08/2004,PHI,Philippines,191,97,99
 04/08/2004,BAH,Bahamas,192,97,98
 04/08/2004,SOM,Somalia,193,94,95
-04/08/2004,STP,São Tomé e Príncipe,194,90,90
+04/08/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,194,90,90
 04/08/2004,BRU,Brunei Darussalam,195,73,75
 04/08/2004,ARU,Aruba,196,70,71
 04/08/2004,AIA,Anguilla,197,66,66
@@ -6577,7 +6577,7 @@ date,country_code,country_name,rank,points,previous_points
 01/09/2004,KUW,Kuwait,55,559,559
 01/09/2004,VEN,Venezuela,56,559,562
 01/09/2004,WAL,Wales,57,556,539
-01/09/2004,CIV,Côte d'Ivoire,58,555,539
+01/09/2004,CIV,CÃ´te d'Ivoire,58,555,539
 01/09/2004,AUS,Australia,59,555,553
 01/09/2004,LVA,Latvia,60,552,554
 01/09/2004,ALG,Algeria,61,550,551
@@ -6713,7 +6713,7 @@ date,country_code,country_name,rank,points,previous_points
 01/09/2004,BAH,Bahamas,191,96,97
 01/09/2004,PHI,Philippines,192,95,97
 01/09/2004,SOM,Somalia,193,94,94
-01/09/2004,STP,São Tomé e Príncipe,194,89,90
+01/09/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,194,89,90
 01/09/2004,BRU,Brunei Darussalam,195,71,73
 01/09/2004,ARU,Aruba,196,69,70
 01/09/2004,AIA,Anguilla,197,66,66
@@ -6770,7 +6770,7 @@ date,country_code,country_name,rank,points,previous_points
 06/10/2004,SVN,Slovenia,43,595,579
 06/10/2004,MLI,Mali,44,590,588
 06/10/2004,FIN,Finland,45,585,563
-06/10/2004,CIV,Côte d'Ivoire,46,585,555
+06/10/2004,CIV,CÃ´te d'Ivoire,46,585,555
 06/10/2004,BHR,Bahrain,47,584,580
 06/10/2004,ECU,Ecuador,48,583,594
 06/10/2004,CHN,China PR,49,579,572
@@ -6918,7 +6918,7 @@ date,country_code,country_name,rank,points,previous_points
 06/10/2004,BAH,Bahamas,191,95,96
 06/10/2004,SOM,Somalia,192,93,94
 06/10/2004,PHI,Philippines,193,92,95
-06/10/2004,STP,São Tomé e Príncipe,194,88,89
+06/10/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,194,88,89
 06/10/2004,BRU,Brunei Darussalam,195,69,71
 06/10/2004,ARU,Aruba,196,67,69
 06/10/2004,AIA,Anguilla,197,65,66
@@ -6971,7 +6971,7 @@ date,country_code,country_name,rank,points,previous_points
 10/11/2004,JOR,Jordan,39,613,609
 10/11/2004,SVN,Slovenia,40,610,595
 10/11/2004,RSA,South Africa,41,608,604
-10/11/2004,CIV,Côte d'Ivoire,42,600,585
+10/11/2004,CIV,CÃ´te d'Ivoire,42,600,585
 10/11/2004,FIN,Finland,43,598,585
 10/11/2004,ECU,Ecuador,44,597,583
 10/11/2004,SUI,Switzerland,45,590,596
@@ -7123,7 +7123,7 @@ date,country_code,country_name,rank,points,previous_points
 10/11/2004,BAH,Bahamas,191,94,95
 10/11/2004,SOM,Somalia,192,92,93
 10/11/2004,PHI,Philippines,193,88,92
-10/11/2004,STP,São Tomé e Príncipe,194,82,88
+10/11/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,194,82,88
 10/11/2004,BRU,Brunei Darussalam,195,67,69
 10/11/2004,ARU,Aruba,196,66,67
 10/11/2004,AIA,Anguilla,197,65,65
@@ -7174,7 +7174,7 @@ date,country_code,country_name,rank,points,previous_points
 20/12/2004,BUL,Bulgaria,37,623,626
 20/12/2004,RSA,South Africa,38,619,608
 20/12/2004,ECU,Ecuador,39,616,597
-20/12/2004,CIV,Côte d'Ivoire,40,611,600
+20/12/2004,CIV,CÃ´te d'Ivoire,40,611,600
 20/12/2004,JOR,Jordan,41,611,613
 20/12/2004,SVN,Slovenia,42,608,610
 20/12/2004,FIN,Finland,43,607,598
@@ -7329,7 +7329,7 @@ date,country_code,country_name,rank,points,previous_points
 20/12/2004,BAH,Bahamas,192,90,94
 20/12/2004,SOM,Somalia,193,85,92
 20/12/2004,PUR,Puerto Rico,194,75,32
-20/12/2004,STP,São Tomé e Príncipe,195,74,82
+20/12/2004,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,74,82
 20/12/2004,VIR,US Virgin Islands,196,70,50
 20/12/2004,AIA,Anguilla,197,65,65
 20/12/2004,ARU,Aruba,198,64,66
@@ -7380,7 +7380,7 @@ date,country_code,country_name,rank,points,previous_points
 19/01/2005,RSA,South Africa,38,621,619
 19/01/2005,ECU,Ecuador,39,616,616
 19/01/2005,JOR,Jordan,40,611,611
-19/01/2005,CIV,Côte d'Ivoire,41,610,611
+19/01/2005,CIV,CÃ´te d'Ivoire,41,610,611
 19/01/2005,SVN,Slovenia,42,608,608
 19/01/2005,FIN,Finland,43,607,607
 19/01/2005,IRQ,Iraq,44,600,603
@@ -7534,7 +7534,7 @@ date,country_code,country_name,rank,points,previous_points
 19/01/2005,GNB,Guinea-Bissau,192,91,91
 19/01/2005,BAH,Bahamas,193,90,90
 19/01/2005,PUR,Puerto Rico,194,75,75
-19/01/2005,STP,São Tomé e Príncipe,195,74,74
+19/01/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,74,74
 19/01/2005,VIR,US Virgin Islands,196,70,70
 19/01/2005,AIA,Anguilla,197,65,65
 19/01/2005,ARU,Aruba,198,64,64
@@ -7586,7 +7586,7 @@ date,country_code,country_name,rank,points,previous_points
 16/02/2005,BUL,Bulgaria,39,621,623
 16/02/2005,RSA,South Africa,40,617,621
 16/02/2005,JOR,Jordan,41,609,611
-16/02/2005,CIV,Côte d'Ivoire,42,609,610
+16/02/2005,CIV,CÃ´te d'Ivoire,42,609,610
 16/02/2005,SVN,Slovenia,43,606,608
 16/02/2005,BEL,Belgium,44,598,600
 16/02/2005,IRQ,Iraq,45,598,600
@@ -7739,7 +7739,7 @@ date,country_code,country_name,rank,points,previous_points
 16/02/2005,GNB,Guinea-Bissau,192,91,91
 16/02/2005,BAH,Bahamas,193,90,90
 16/02/2005,PUR,Puerto Rico,194,75,75
-16/02/2005,STP,São Tomé e Príncipe,195,74,74
+16/02/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,74,74
 16/02/2005,VIR,US Virgin Islands,196,70,70
 16/02/2005,AIA,Anguilla,197,65,65
 16/02/2005,ARU,Aruba,198,63,64
@@ -7791,7 +7791,7 @@ date,country_code,country_name,rank,points,previous_points
 23/03/2005,BUL,Bulgaria,39,620,621
 23/03/2005,RSA,South Africa,40,616,617
 23/03/2005,JAM,Jamaica,41,614,597
-23/03/2005,CIV,Côte d'Ivoire,42,604,609
+23/03/2005,CIV,CÃ´te d'Ivoire,42,604,609
 23/03/2005,JOR,Jordan,43,604,609
 23/03/2005,SVN,Slovenia,44,601,606
 23/03/2005,IRQ,Iraq,45,596,598
@@ -7944,7 +7944,7 @@ date,country_code,country_name,rank,points,previous_points
 23/03/2005,GNB,Guinea-Bissau,192,90,91
 23/03/2005,BAH,Bahamas,193,89,90
 23/03/2005,PUR,Puerto Rico,194,75,75
-23/03/2005,STP,São Tomé e Príncipe,195,73,74
+23/03/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,73,74
 23/03/2005,VIR,US Virgin Islands,196,70,70
 23/03/2005,AIA,Anguilla,197,64,65
 23/03/2005,ARU,Aruba,198,63,63
@@ -7998,7 +7998,7 @@ date,country_code,country_name,rank,points,previous_points
 20/04/2005,BEL,Belgium,41,615,592
 20/04/2005,UKR,Ukraine,42,614,595
 20/04/2005,JAM,Jamaica,43,614,614
-20/04/2005,CIV,Côte d'Ivoire,44,610,604
+20/04/2005,CIV,CÃ´te d'Ivoire,44,610,604
 20/04/2005,SUI,Switzerland,45,608,594
 20/04/2005,SVN,Slovenia,46,602,601
 20/04/2005,SCG,Serbia and Montenegro,47,600,595
@@ -8149,7 +8149,7 @@ date,country_code,country_name,rank,points,previous_points
 20/04/2005,COK,Cook Islands,192,88,90
 20/04/2005,BAH,Bahamas,193,88,89
 20/04/2005,PUR,Puerto Rico,194,74,75
-20/04/2005,STP,São Tomé e Príncipe,195,72,73
+20/04/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,72,73
 20/04/2005,VIR,US Virgin Islands,196,69,70
 20/04/2005,AIA,Anguilla,197,64,64
 20/04/2005,ARU,Aruba,198,62,63
@@ -8203,7 +8203,7 @@ date,country_code,country_name,rank,points,previous_points
 18/05/2005,JAM,Jamaica,41,614,614
 18/05/2005,BEL,Belgium,42,611,615
 18/05/2005,BUL,Bulgaria,43,608,620
-18/05/2005,CIV,Côte d'Ivoire,44,607,610
+18/05/2005,CIV,CÃ´te d'Ivoire,44,607,610
 18/05/2005,SUI,Switzerland,45,603,608
 18/05/2005,SVN,Slovenia,46,601,602
 18/05/2005,SCG,Serbia and Montenegro,47,601,600
@@ -8354,7 +8354,7 @@ date,country_code,country_name,rank,points,previous_points
 18/05/2005,COK,Cook Islands,192,87,88
 18/05/2005,BAH,Bahamas,193,87,88
 18/05/2005,PUR,Puerto Rico,194,74,74
-18/05/2005,STP,São Tomé e Príncipe,195,71,72
+18/05/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,71,72
 18/05/2005,VIR,US Virgin Islands,196,68,69
 18/05/2005,AIA,Anguilla,197,63,64
 18/05/2005,ARU,Aruba,198,61,62
@@ -8410,7 +8410,7 @@ date,country_code,country_name,rank,points,previous_points
 15/06/2005,SVK,Slovakia,43,607,598
 15/06/2005,SVN,Slovenia,44,606,601
 15/06/2005,BUL,Bulgaria,45,605,608
-15/06/2005,CIV,Côte d'Ivoire,46,602,607
+15/06/2005,CIV,CÃ´te d'Ivoire,46,602,607
 15/06/2005,BEL,Belgium,47,600,611
 15/06/2005,ISR,Israel,48,600,595
 15/06/2005,SCG,Serbia and Montenegro,49,598,601
@@ -8559,7 +8559,7 @@ date,country_code,country_name,rank,points,previous_points
 15/06/2005,COK,Cook Islands,192,85,87
 15/06/2005,BAH,Bahamas,193,85,87
 15/06/2005,PUR,Puerto Rico,194,74,74
-15/06/2005,STP,São Tomé e Príncipe,195,70,71
+15/06/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,70,71
 15/06/2005,VIR,US Virgin Islands,196,67,68
 15/06/2005,AIA,Anguilla,197,62,63
 15/06/2005,ARU,Aruba,198,60,61
@@ -8613,7 +8613,7 @@ date,country_code,country_name,rank,points,previous_points
 20/07/2005,JAM,Jamaica,41,627,618
 20/07/2005,SUI,Switzerland,42,624,616
 20/07/2005,FIN,Finland,43,619,621
-20/07/2005,CIV,Côte d'Ivoire,44,618,602
+20/07/2005,CIV,CÃ´te d'Ivoire,44,618,602
 20/07/2005,SVK,Slovakia,45,613,607
 20/07/2005,BUL,Bulgaria,46,610,605
 20/07/2005,SVN,Slovenia,47,600,606
@@ -8764,7 +8764,7 @@ date,country_code,country_name,rank,points,previous_points
 20/07/2005,BAH,Bahamas,192,83,85
 20/07/2005,COK,Cook Islands,193,82,85
 20/07/2005,PUR,Puerto Rico,194,73,74
-20/07/2005,STP,São Tomé e Príncipe,195,68,70
+20/07/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,68,70
 20/07/2005,VIR,US Virgin Islands,196,66,67
 20/07/2005,AIA,Anguilla,197,61,62
 20/07/2005,ARU,Aruba,198,58,60
@@ -8818,7 +8818,7 @@ date,country_code,country_name,rank,points,previous_points
 17/08/2005,JAM,Jamaica,41,626,627
 17/08/2005,SUI,Switzerland,42,622,624
 17/08/2005,FIN,Finland,43,617,619
-17/08/2005,CIV,Côte d'Ivoire,44,616,618
+17/08/2005,CIV,CÃ´te d'Ivoire,44,616,618
 17/08/2005,SVK,Slovakia,45,611,613
 17/08/2005,BUL,Bulgaria,46,606,610
 17/08/2005,ISR,Israel,47,596,598
@@ -8969,7 +8969,7 @@ date,country_code,country_name,rank,points,previous_points
 17/08/2005,BAH,Bahamas,192,80,83
 17/08/2005,COK,Cook Islands,193,80,82
 17/08/2005,PUR,Puerto Rico,194,73,73
-17/08/2005,STP,São Tomé e Príncipe,195,66,68
+17/08/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,66,68
 17/08/2005,VIR,US Virgin Islands,196,66,66
 17/08/2005,AIA,Anguilla,197,59,61
 17/08/2005,BRU,Brunei Darussalam,198,57,58
@@ -9030,7 +9030,7 @@ date,country_code,country_name,rank,points,previous_points
 12/09/2005,SCG,Serbia and Montenegro,48,601,593
 12/09/2005,ZIM,Zimbabwe,49,598,587
 12/09/2005,AUS,Australia,50,593,568
-12/09/2005,CIV,Côte d'Ivoire,51,593,616
+12/09/2005,CIV,CÃ´te d'Ivoire,51,593,616
 12/09/2005,SVN,Slovenia,52,590,595
 12/09/2005,BHR,Bahrain,53,588,591
 12/09/2005,TOG,Togo,54,585,555
@@ -9175,7 +9175,7 @@ date,country_code,country_name,rank,points,previous_points
 12/09/2005,COK,Cook Islands,193,77,80
 12/09/2005,PUR,Puerto Rico,194,73,73
 12/09/2005,VIR,US Virgin Islands,195,65,66
-12/09/2005,STP,São Tomé e Príncipe,196,64,66
+12/09/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,196,64,66
 12/09/2005,AIA,Anguilla,197,58,59
 12/09/2005,BRU,Brunei Darussalam,198,55,57
 12/09/2005,ARU,Aruba,199,54,56
@@ -9232,7 +9232,7 @@ date,country_code,country_name,rank,points,previous_points
 17/10/2005,SVK,Slovakia,45,618,613
 17/10/2005,RSA,South Africa,46,616,622
 17/10/2005,BUL,Bulgaria,47,616,613
-17/10/2005,CIV,Côte d'Ivoire,48,611,593
+17/10/2005,CIV,CÃ´te d'Ivoire,48,611,593
 17/10/2005,TOG,Togo,49,606,585
 17/10/2005,BEL,Belgium,50,606,608
 17/10/2005,GHA,Ghana,51,599,566
@@ -9380,7 +9380,7 @@ date,country_code,country_name,rank,points,previous_points
 17/10/2005,COK,Cook Islands,193,74,77
 17/10/2005,PUR,Puerto Rico,194,72,73
 17/10/2005,VIR,US Virgin Islands,195,64,65
-17/10/2005,STP,São Tomé e Príncipe,196,61,64
+17/10/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,196,61,64
 17/10/2005,AIA,Anguilla,197,56,58
 17/10/2005,BRU,Brunei Darussalam,198,53,55
 17/10/2005,ARU,Aruba,199,52,54
@@ -9431,7 +9431,7 @@ date,country_code,country_name,rank,points,previous_points
 21/11/2005,BUL,Bulgaria,39,638,616
 21/11/2005,UKR,Ukraine,40,627,636
 21/11/2005,HON,Honduras,41,626,626
-21/11/2005,CIV,Côte d'Ivoire,42,626,611
+21/11/2005,CIV,CÃ´te d'Ivoire,42,626,611
 21/11/2005,JAM,Jamaica,43,625,626
 21/11/2005,ISR,Israel,44,622,622
 21/11/2005,FIN,Finland,45,619,619
@@ -9585,7 +9585,7 @@ date,country_code,country_name,rank,points,previous_points
 21/11/2005,PUR,Puerto Rico,193,71,72
 21/11/2005,COK,Cook Islands,194,70,74
 21/11/2005,VIR,US Virgin Islands,195,63,64
-21/11/2005,STP,São Tomé e Príncipe,196,59,61
+21/11/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,196,59,61
 21/11/2005,AIA,Anguilla,197,55,56
 21/11/2005,AFG,Afghanistan,198,54,52
 21/11/2005,BRU,Brunei Darussalam,199,51,53
@@ -9636,7 +9636,7 @@ date,country_code,country_name,rank,points,previous_points
 16/12/2005,BUL,Bulgaria,39,638,638
 16/12/2005,UKR,Ukraine,40,630,627
 16/12/2005,HON,Honduras,41,628,626
-16/12/2005,CIV,Côte d'Ivoire,42,626,626
+16/12/2005,CIV,CÃ´te d'Ivoire,42,626,626
 16/12/2005,JAM,Jamaica,43,626,625
 16/12/2005,ISR,Israel,44,622,622
 16/12/2005,SVK,Slovakia,45,621,619
@@ -9792,7 +9792,7 @@ date,country_code,country_name,rank,points,previous_points
 16/12/2005,COK,Cook Islands,195,65,70
 16/12/2005,PUR,Puerto Rico,196,62,71
 16/12/2005,VIR,US Virgin Islands,197,58,63
-16/12/2005,STP,São Tomé e Príncipe,198,55,59
+16/12/2005,STP,SÃ£o TomÃ© e PrÃ­ncipe,198,55,59
 16/12/2005,AIA,Anguilla,199,52,55
 16/12/2005,BRU,Brunei Darussalam,200,49,51
 16/12/2005,ARU,Aruba,201,46,49
@@ -9842,7 +9842,7 @@ date,country_code,country_name,rank,points,previous_points
 18/01/2006,BUL,Bulgaria,39,638,638
 18/01/2006,UKR,Ukraine,40,629,630
 18/01/2006,HON,Honduras,41,628,628
-18/01/2006,CIV,Côte d'Ivoire,42,626,626
+18/01/2006,CIV,CÃ´te d'Ivoire,42,626,626
 18/01/2006,JAM,Jamaica,43,626,626
 18/01/2006,ISR,Israel,44,621,622
 18/01/2006,SVK,Slovakia,45,621,621
@@ -9997,7 +9997,7 @@ date,country_code,country_name,rank,points,previous_points
 18/01/2006,COK,Cook Islands,194,65,65
 18/01/2006,PUR,Puerto Rico,195,62,62
 18/01/2006,VIR,US Virgin Islands,196,58,58
-18/01/2006,STP,São Tomé e Príncipe,197,55,55
+18/01/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,197,55,55
 18/01/2006,AIA,Anguilla,198,52,52
 18/01/2006,BRU,Brunei Darussalam,199,49,49
 18/01/2006,ARU,Aruba,200,46,46
@@ -10037,7 +10037,7 @@ date,country_code,country_name,rank,points,previous_points
 15/02/2006,SEN,Senegal,29,686,672
 15/02/2006,ROU,Romania,30,685,686
 15/02/2006,KOR,Korea Republic,31,679,680
-15/02/2006,CIV,Côte d'Ivoire,32,674,626
+15/02/2006,CIV,CÃ´te d'Ivoire,32,674,626
 15/02/2006,PAR,Paraguay,33,669,672
 15/02/2006,RUS,Russia,34,664,661
 15/02/2006,KSA,Saudi Arabia,35,661,663
@@ -10202,7 +10202,7 @@ date,country_code,country_name,rank,points,previous_points
 15/02/2006,COK,Cook Islands,194,65,65
 15/02/2006,PUR,Puerto Rico,195,62,62
 15/02/2006,VIR,US Virgin Islands,196,57,58
-15/02/2006,STP,São Tomé e Príncipe,197,55,55
+15/02/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,197,55,55
 15/02/2006,AIA,Anguilla,198,52,52
 15/02/2006,BRU,Brunei Darussalam,199,48,49
 15/02/2006,ARU,Aruba,200,46,46
@@ -10242,7 +10242,7 @@ date,country_code,country_name,rank,points,previous_points
 15/03/2006,IRL,Republic of Ireland,29,687,689
 15/03/2006,COL,Colombia,30,686,689
 15/03/2006,KOR,Korea Republic,31,683,679
-15/03/2006,CIV,Côte d'Ivoire,32,671,674
+15/03/2006,CIV,CÃ´te d'Ivoire,32,671,674
 15/03/2006,PAR,Paraguay,33,666,669
 15/03/2006,KSA,Saudi Arabia,34,660,661
 15/03/2006,RUS,Russia,35,657,664
@@ -10407,7 +10407,7 @@ date,country_code,country_name,rank,points,previous_points
 15/03/2006,COK,Cook Islands,194,64,65
 15/03/2006,PUR,Puerto Rico,195,62,62
 15/03/2006,VIR,US Virgin Islands,196,57,57
-15/03/2006,STP,São Tomé e Príncipe,197,55,55
+15/03/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,197,55,55
 15/03/2006,AIA,Anguilla,198,52,52
 15/03/2006,BRU,Brunei Darussalam,199,48,48
 15/03/2006,DJI,Djibouti,200,46,46
@@ -10447,7 +10447,7 @@ date,country_code,country_name,rank,points,previous_points
 19/04/2006,SEN,Senegal,29,681,689
 19/04/2006,IRL,Republic of Ireland,30,678,687
 19/04/2006,KOR,Korea Republic,31,678,683
-19/04/2006,CIV,Côte d'Ivoire,32,668,671
+19/04/2006,CIV,CÃ´te d'Ivoire,32,668,671
 19/04/2006,PAR,Paraguay,33,657,666
 19/04/2006,KSA,Saudi Arabia,34,655,660
 19/04/2006,SUI,Switzerland,35,651,657
@@ -10613,7 +10613,7 @@ date,country_code,country_name,rank,points,previous_points
 19/04/2006,COK,Cook Islands,195,62,64
 19/04/2006,PUR,Puerto Rico,196,61,62
 19/04/2006,VIR,US Virgin Islands,197,56,57
-19/04/2006,STP,São Tomé e Príncipe,198,53,55
+19/04/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,198,53,55
 19/04/2006,AIA,Anguilla,199,51,52
 19/04/2006,DJI,Djibouti,200,46,46
 19/04/2006,ARU,Aruba,201,45,46
@@ -10652,7 +10652,7 @@ date,country_code,country_name,rank,points,previous_points
 17/05/2006,KOR,Korea Republic,29,677,678
 17/05/2006,POL,Poland,30,677,682
 17/05/2006,IRL,Republic of Ireland,31,671,678
-17/05/2006,CIV,Côte d'Ivoire,32,669,668
+17/05/2006,CIV,CÃ´te d'Ivoire,32,669,668
 17/05/2006,PAR,Paraguay,33,653,657
 17/05/2006,KSA,Saudi Arabia,34,651,655
 17/05/2006,SUI,Switzerland,35,648,651
@@ -10818,7 +10818,7 @@ date,country_code,country_name,rank,points,previous_points
 17/05/2006,COK,Cook Islands,195,61,62
 17/05/2006,PUR,Puerto Rico,196,60,61
 17/05/2006,VIR,US Virgin Islands,197,55,56
-17/05/2006,STP,São Tomé e Príncipe,198,52,53
+17/05/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,198,52,53
 17/05/2006,AIA,Anguilla,199,50,51
 17/05/2006,DJI,Djibouti,200,45,46
 17/05/2006,ARU,Aruba,201,44,45
@@ -10845,7 +10845,7 @@ date,country_code,country_name,rank,points,previous_points
 12/07/2006,DEN,Denmark,17,927,736
 12/07/2006,MEX,Mexico,18,924,758
 12/07/2006,PAR,Paraguay,19,915,653
-12/07/2006,CIV,Côte d'Ivoire,20,909,669
+12/07/2006,CIV,CÃ´te d'Ivoire,20,909,669
 12/07/2006,COL,Colombia,21,902,681
 12/07/2006,SWE,Sweden,22,886,709
 12/07/2006,CRO,Croatia,23,854,686
@@ -11024,7 +11024,7 @@ date,country_code,country_name,rank,points,previous_points
 12/07/2006,LUX,Luxembourg,196,3,248
 12/07/2006,BLZ,Belize,197,0,129
 12/07/2006,VIR,US Virgin Islands,198,0,55
-12/07/2006,STP,São Tomé e Príncipe,199,0,52
+12/07/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,199,0,52
 12/07/2006,DJI,Djibouti,200,0,45
 12/07/2006,MSR,Montserrat,201,0,29
 12/07/2006,ARU,Aruba,202,0,44
@@ -11049,7 +11049,7 @@ date,country_code,country_name,rank,points,previous_points
 16/08/2006,UKR,Ukraine,15,954,961
 16/08/2006,MEX,Mexico,16,928,924
 16/08/2006,DEN,Denmark,17,927,927
-16/08/2006,CIV,Côte d'Ivoire,18,909,909
+16/08/2006,CIV,CÃ´te d'Ivoire,18,909,909
 16/08/2006,PAR,Paraguay,19,892,915
 16/08/2006,SWE,Sweden,20,886,886
 16/08/2006,CRO,Croatia,21,854,854
@@ -11230,7 +11230,7 @@ date,country_code,country_name,rank,points,previous_points
 16/08/2006,LUX,Luxembourg,196,3,3
 16/08/2006,BLZ,Belize,197,0,0
 16/08/2006,DJI,Djibouti,198,0,0
-16/08/2006,STP,São Tomé e Príncipe,199,0,0
+16/08/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,199,0,0
 16/08/2006,ARU,Aruba,200,0,0
 16/08/2006,VIR,US Virgin Islands,201,0,0
 16/08/2006,TCA,Turks and Caicos Islands,202,0,0
@@ -11255,7 +11255,7 @@ date,country_code,country_name,rank,points,previous_points
 13/09/2006,DEN,Denmark,16,940,927
 13/09/2006,MEX,Mexico,17,891,928
 13/09/2006,SWE,Sweden,18,888,886
-13/09/2006,CIV,Côte d'Ivoire,19,879,909
+13/09/2006,CIV,CÃ´te d'Ivoire,19,879,909
 13/09/2006,COL,Colombia,20,867,814
 13/09/2006,PAR,Paraguay,21,854,892
 13/09/2006,GRE,Greece,22,833,780
@@ -11436,7 +11436,7 @@ date,country_code,country_name,rank,points,previous_points
 13/09/2006,COK,Cook Islands,197,3,3
 13/09/2006,BLZ,Belize,198,0,0
 13/09/2006,DJI,Djibouti,199,0,0
-13/09/2006,STP,São Tomé e Príncipe,200,0,0
+13/09/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,200,0,0
 13/09/2006,ARU,Aruba,201,0,0
 13/09/2006,VIR,US Virgin Islands,202,0,0
 13/09/2006,MSR,Montserrat,203,0,0
@@ -11459,7 +11459,7 @@ date,country_code,country_name,rank,points,previous_points
 18/10/2006,SUI,Switzerland,15,978,1016
 18/10/2006,SWE,Sweden,16,975,888
 18/10/2006,URU,Uruguay,17,903,960
-18/10/2006,CIV,Côte d'Ivoire,18,893,879
+18/10/2006,CIV,CÃ´te d'Ivoire,18,893,879
 18/10/2006,MEX,Mexico,19,882,891
 18/10/2006,CRO,Croatia,20,882,825
 18/10/2006,TUR,Turkey,21,873,810
@@ -11641,7 +11641,7 @@ date,country_code,country_name,rank,points,previous_points
 18/10/2006,COK,Cook Islands,197,3,3
 18/10/2006,BLZ,Belize,198,0,0
 18/10/2006,DJI,Djibouti,199,0,0
-18/10/2006,STP,São Tomé e Príncipe,200,0,0
+18/10/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,200,0,0
 18/10/2006,ARU,Aruba,201,0,0
 18/10/2006,VIR,US Virgin Islands,202,0,0
 18/10/2006,MSR,Montserrat,203,0,0
@@ -11664,7 +11664,7 @@ date,country_code,country_name,rank,points,previous_points
 22/11/2006,CRO,Croatia,15,948,882
 22/11/2006,GRE,Greece,16,945,979
 22/11/2006,SUI,Switzerland,17,937,978
-22/11/2006,CIV,Côte d'Ivoire,18,919,893
+22/11/2006,CIV,CÃ´te d'Ivoire,18,919,893
 22/11/2006,ROU,Romania,19,912,870
 22/11/2006,MEX,Mexico,20,887,882
 22/11/2006,DEN,Denmark,21,865,872
@@ -11847,7 +11847,7 @@ date,country_code,country_name,rank,points,previous_points
 22/11/2006,TLS,Timor-Leste,198,0,0
 22/11/2006,BLZ,Belize,199,0,0
 22/11/2006,DJI,Djibouti,200,0,0
-22/11/2006,STP,São Tomé e Príncipe,201,0,0
+22/11/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,201,0,0
 22/11/2006,ARU,Aruba,202,0,0
 22/11/2006,VIR,US Virgin Islands,203,0,0
 22/11/2006,MSR,Montserrat,204,0,0
@@ -11870,7 +11870,7 @@ date,country_code,country_name,rank,points,previous_points
 18/12/2006,CRO,Croatia,15,948,948
 18/12/2006,GRE,Greece,16,945,945
 18/12/2006,SUI,Switzerland,17,937,937
-18/12/2006,CIV,Côte d'Ivoire,18,919,919
+18/12/2006,CIV,CÃ´te d'Ivoire,18,919,919
 18/12/2006,ROU,Romania,19,912,912
 18/12/2006,MEX,Mexico,20,883,887
 18/12/2006,DEN,Denmark,21,865,865
@@ -12053,7 +12053,7 @@ date,country_code,country_name,rank,points,previous_points
 18/12/2006,TLS,Timor-Leste,198,0,0
 18/12/2006,BLZ,Belize,199,0,0
 18/12/2006,DJI,Djibouti,200,0,0
-18/12/2006,STP,São Tomé e Príncipe,201,0,0
+18/12/2006,STP,SÃ£o TomÃ© e PrÃ­ncipe,201,0,0
 18/12/2006,ARU,Aruba,202,0,0
 18/12/2006,VIR,US Virgin Islands,203,0,0
 18/12/2006,MSR,Montserrat,204,0,0
@@ -12077,7 +12077,7 @@ date,country_code,country_name,rank,points,previous_points
 17/01/2007,CRO,Croatia,15,948,948
 17/01/2007,GRE,Greece,16,945,945
 17/01/2007,SUI,Switzerland,17,937,937
-17/01/2007,CIV,Côte d'Ivoire,18,919,919
+17/01/2007,CIV,CÃ´te d'Ivoire,18,919,919
 17/01/2007,EGY,Egypt,19,918,835
 17/01/2007,ROU,Romania,20,912,912
 17/01/2007,MEX,Mexico,21,883,883
@@ -12261,7 +12261,7 @@ date,country_code,country_name,rank,points,previous_points
 17/01/2007,TLS,Timor-Leste,199,0,0
 17/01/2007,BLZ,Belize,200,0,0
 17/01/2007,DJI,Djibouti,201,0,0
-17/01/2007,STP,São Tomé e Príncipe,202,0,0
+17/01/2007,STP,SÃ£o TomÃ© e PrÃ­ncipe,202,0,0
 17/01/2007,ARU,Aruba,203,0,0
 17/01/2007,VIR,US Virgin Islands,204,0,0
 17/01/2007,MSR,Montserrat,205,0,0
@@ -12287,7 +12287,7 @@ date,country_code,country_name,rank,points,previous_points
 14/02/2007,DEN,Denmark,18,876,865
 14/02/2007,MEX,Mexico,19,857,883
 14/02/2007,SCO,Scotland,20,854,847
-14/02/2007,CIV,Côte d'Ivoire,21,853,919
+14/02/2007,CIV,CÃ´te d'Ivoire,21,853,919
 14/02/2007,GHA,Ghana,22,848,828
 14/02/2007,POL,Poland,23,844,854
 14/02/2007,URU,Uruguay,24,829,806
@@ -12470,7 +12470,7 @@ date,country_code,country_name,rank,points,previous_points
 14/02/2007,GUM,Guam,201,0,0
 14/02/2007,VIR,US Virgin Islands,202,0,0
 14/02/2007,BLZ,Belize,203,0,0
-14/02/2007,STP,São Tomé e Príncipe,204,0,0
+14/02/2007,STP,SÃ£o TomÃ© e PrÃ­ncipe,204,0,0
 14/02/2007,ARU,Aruba,205,0,0
 14/02/2007,MSR,Montserrat,206,0,0
 14/02/2007,ASA,American Samoa,207,0,0
@@ -12493,7 +12493,7 @@ date,country_code,country_name,rank,points,previous_points
 14/03/2007,SUI,Switzerland,17,906,913
 14/03/2007,CMR,Cameroon,18,893,893
 14/03/2007,GHA,Ghana,19,881,848
-14/03/2007,CIV,Côte d'Ivoire,20,875,853
+14/03/2007,CIV,CÃ´te d'Ivoire,20,875,853
 14/03/2007,MEX,Mexico,21,873,857
 14/03/2007,DEN,Denmark,22,862,876
 14/03/2007,RUS,Russia,23,854,817
@@ -12678,7 +12678,7 @@ date,country_code,country_name,rank,points,previous_points
 14/03/2007,GUM,Guam,202,0,0
 14/03/2007,VIR,US Virgin Islands,203,0,0
 14/03/2007,MSR,Montserrat,204,0,0
-14/03/2007,STP,São Tomé e Príncipe,205,0,0
+14/03/2007,STP,SÃ£o TomÃ© e PrÃ­ncipe,205,0,0
 14/03/2007,ARU,Aruba,206,0,0
 14/03/2007,ASA,American Samoa,207,0,0
 18/04/2007,ITA,Italy,1,1604,1592
@@ -12705,7 +12705,7 @@ date,country_code,country_name,rank,points,previous_points
 18/04/2007,DEN,Denmark,22,863,862
 18/04/2007,URU,Uruguay,23,862,841
 18/04/2007,SWE,Sweden,24,857,914
-18/04/2007,CIV,Côte d'Ivoire,25,847,875
+18/04/2007,CIV,CÃ´te d'Ivoire,25,847,875
 18/04/2007,COL,Colombia,26,825,744
 18/04/2007,NGA,Nigeria,27,824,694
 18/04/2007,GHA,Ghana,28,813,881
@@ -12883,7 +12883,7 @@ date,country_code,country_name,rank,points,previous_points
 18/04/2007,TLS,Timor-Leste,200,0,0
 18/04/2007,BLZ,Belize,201,0,0
 18/04/2007,VIR,US Virgin Islands,202,0,0
-18/04/2007,STP,São Tomé e Príncipe,203,0,0
+18/04/2007,STP,SÃ£o TomÃ© e PrÃ­ncipe,203,0,0
 18/04/2007,ARU,Aruba,204,0,0
 18/04/2007,MSR,Montserrat,205,0,0
 18/04/2007,GUM,Guam,206,0,0
@@ -12912,7 +12912,7 @@ date,country_code,country_name,rank,points,previous_points
 16/05/2007,SWE,Sweden,22,867,857
 16/05/2007,DEN,Denmark,23,862,863
 16/05/2007,URU,Uruguay,24,862,862
-16/05/2007,CIV,Côte d'Ivoire,25,850,847
+16/05/2007,CIV,CÃ´te d'Ivoire,25,850,847
 16/05/2007,COL,Colombia,26,838,825
 16/05/2007,NGA,Nigeria,27,823,824
 16/05/2007,GHA,Ghana,28,819,813
@@ -13093,7 +13093,7 @@ date,country_code,country_name,rank,points,previous_points
 16/05/2007,MSR,Montserrat,203,0,0
 16/05/2007,GUM,Guam,204,0,0
 16/05/2007,ASA,American Samoa,205,0,0
-16/05/2007,STP,São Tomé e Príncipe,206,0,0
+16/05/2007,STP,SÃ£o TomÃ© e PrÃ­ncipe,206,0,0
 16/05/2007,ARU,Aruba,207,0,0
 13/06/2007,ITA,Italy,1,1653,1606
 13/06/2007,FRA,France,2,1585,1507
@@ -13114,7 +13114,7 @@ date,country_code,country_name,rank,points,previous_points
 13/06/2007,SWE,Sweden,17,957,867
 13/06/2007,POL,Poland,18,933,902
 13/06/2007,GHA,Ghana,19,917,819
-13/06/2007,CIV,Côte d'Ivoire,20,906,850
+13/06/2007,CIV,CÃ´te d'Ivoire,20,906,850
 13/06/2007,TUR,Turkey,21,904,896
 13/06/2007,SRB,Serbia,22,902,769
 13/06/2007,SCO,Scotland,23,895,953
@@ -13301,7 +13301,7 @@ date,country_code,country_name,rank,points,previous_points
 13/06/2007,MSR,Montserrat,204,0,0
 13/06/2007,GUM,Guam,205,0,0
 13/06/2007,ASA,American Samoa,206,0,0
-13/06/2007,STP,São Tomé e Príncipe,207,0,0
+13/06/2007,STP,SÃ£o TomÃ© e PrÃ­ncipe,207,0,0
 13/06/2007,ARU,Aruba,208,0,0
 18/07/2007,BRA,Brazil,1,1500,1484
 18/07/2007,ARG,Argentina,2,1476,1373
@@ -13333,7 +13333,7 @@ date,country_code,country_name,rank,points,previous_points
 18/07/2007,NIR,Northern Ireland,28,838,838
 18/07/2007,PAR,Paraguay,29,834,731
 18/07/2007,BUL,Bulgaria,30,832,829
-18/07/2007,CIV,Côte d'Ivoire,31,821,906
+18/07/2007,CIV,CÃ´te d'Ivoire,31,821,906
 18/07/2007,COL,Colombia,32,818,832
 18/07/2007,ISR,Israel,33,788,788
 18/07/2007,MAR,Morocco,34,780,765
@@ -13509,7 +13509,7 @@ date,country_code,country_name,rank,points,previous_points
 18/07/2007,VIR,US Virgin Islands,204,0,0
 18/07/2007,MSR,Montserrat,205,0,0
 18/07/2007,ASA,American Samoa,206,0,0
-18/07/2007,STP,São Tomé e Príncipe,207,0,0
+18/07/2007,STP,SÃ£o TomÃ© e PrÃ­ncipe,207,0,0
 18/07/2007,ARU,Aruba,208,0,0
 22/08/2007,BRA,Brazil,1,1508,1500
 22/08/2007,ARG,Argentina,2,1491,1476
@@ -13538,7 +13538,7 @@ date,country_code,country_name,rank,points,previous_points
 22/08/2007,BIH,Bosnia and Herzegovina,25,905,847
 22/08/2007,NGA,Nigeria,26,904,867
 22/08/2007,NIR,Northern Ireland,27,886,838
-22/08/2007,CIV,Côte d'Ivoire,28,863,821
+22/08/2007,CIV,CÃ´te d'Ivoire,28,863,821
 22/08/2007,BUL,Bulgaria,29,856,832
 22/08/2007,DEN,Denmark,30,850,856
 22/08/2007,PAR,Paraguay,31,843,834
@@ -13717,7 +13717,7 @@ date,country_code,country_name,rank,points,previous_points
 22/08/2007,VIR,US Virgin Islands,204,0,0
 22/08/2007,MSR,Montserrat,205,0,0
 22/08/2007,ASA,American Samoa,206,0,0
-22/08/2007,STP,São Tomé e Príncipe,207,0,0
+22/08/2007,STP,SÃ£o TomÃ© e PrÃ­ncipe,207,0,0
 22/08/2007,ARU,Aruba,208,0,0
 19/09/2007,ITA,Italy,1,1488,1430
 19/09/2007,ARG,Argentina,2,1451,1491
@@ -13745,7 +13745,7 @@ date,country_code,country_name,rank,points,previous_points
 19/09/2007,COL,Colombia,24,862,843
 19/09/2007,CMR,Cameroon,25,856,1001
 19/09/2007,RUS,Russia,26,851,909
-19/09/2007,CIV,Côte d'Ivoire,27,806,863
+19/09/2007,CIV,CÃ´te d'Ivoire,27,806,863
 19/09/2007,DEN,Denmark,28,794,850
 19/09/2007,NOR,Norway,29,763,768
 19/09/2007,GUI,Guinea,30,752,703
@@ -13925,7 +13925,7 @@ date,country_code,country_name,rank,points,previous_points
 19/09/2007,GUM,Guam,204,0,0
 19/09/2007,VIR,US Virgin Islands,205,0,0
 19/09/2007,MSR,Montserrat,206,0,0
-19/09/2007,STP,São Tomé e Príncipe,207,0,0
+19/09/2007,STP,SÃ£o TomÃ© e PrÃ­ncipe,207,0,0
 19/09/2007,ARU,Aruba,208,0,0
 24/10/2007,ARG,Argentina,1,1533,1451
 24/10/2007,BRA,Brazil,2,1459,1444
@@ -13959,7 +13959,7 @@ date,country_code,country_name,rank,points,previous_points
 24/10/2007,JPN,Japan,30,758,731
 24/10/2007,GUI,Guinea,31,727,752
 24/10/2007,IRL,Republic of Ireland,32,722,733
-24/10/2007,CIV,Côte d'Ivoire,33,722,806
+24/10/2007,CIV,CÃ´te d'Ivoire,33,722,806
 24/10/2007,BUL,Bulgaria,34,717,727
 24/10/2007,SEN,Senegal,35,717,685
 24/10/2007,NIR,Northern Ireland,36,716,707
@@ -14131,7 +14131,7 @@ date,country_code,country_name,rank,points,previous_points
 24/10/2007,TLS,Timor-Leste,202,0,0
 24/10/2007,GUM,Guam,203,0,0
 24/10/2007,BLZ,Belize,204,0,0
-24/10/2007,STP,São Tomé e Príncipe,205,0,0
+24/10/2007,STP,SÃ£o TomÃ© e PrÃ­ncipe,205,0,0
 24/10/2007,ARU,Aruba,206,0,0
 24/10/2007,VIR,US Virgin Islands,207,0,0
 24/10/2007,MSR,Montserrat,208,0,0
@@ -14171,7 +14171,7 @@ date,country_code,country_name,rank,points,previous_points
 23/11/2007,JPN,Japan,34,740,758
 23/11/2007,IRL,Republic of Ireland,35,731,722
 23/11/2007,FIN,Finland,36,695,667
-23/11/2007,CIV,Côte d'Ivoire,37,688,722
+23/11/2007,CIV,CÃ´te d'Ivoire,37,688,722
 23/11/2007,SEN,Senegal,38,687,717
 23/11/2007,MAR,Morocco,39,686,674
 23/11/2007,IRN,Iran,40,673,703
@@ -14378,7 +14378,7 @@ date,country_code,country_name,rank,points,previous_points
 17/12/2007,JPN,Japan,34,748,740
 17/12/2007,IRL,Republic of Ireland,35,731,731
 17/12/2007,FIN,Finland,36,697,695
-17/12/2007,CIV,Côte d'Ivoire,37,688,688
+17/12/2007,CIV,CÃ´te d'Ivoire,37,688,688
 17/12/2007,SEN,Senegal,38,687,687
 17/12/2007,MAR,Morocco,39,686,686
 17/12/2007,EGY,Egypt,40,686,672
@@ -14586,7 +14586,7 @@ date,country_code,country_name,rank,points,previous_points
 16/01/2008,EGY,Egypt,35,733,686
 16/01/2008,IRL,Republic of Ireland,36,731,731
 16/01/2008,FIN,Finland,37,697,697
-16/01/2008,CIV,Côte d'Ivoire,38,688,688
+16/01/2008,CIV,CÃ´te d'Ivoire,38,688,688
 16/01/2008,MAR,Morocco,39,676,686
 16/01/2008,SEN,Senegal,40,675,687
 16/01/2008,KOR,Korea Republic,41,663,663
@@ -14780,7 +14780,7 @@ date,country_code,country_name,rank,points,previous_points
 13/02/2008,RUS,Russia,22,890,861
 13/02/2008,ISR,Israel,23,878,852
 13/02/2008,SWE,Sweden,24,877,864
-13/02/2008,CIV,Côte d'Ivoire,25,877,688
+13/02/2008,CIV,CÃ´te d'Ivoire,25,877,688
 13/02/2008,USA,USA,26,852,876
 13/02/2008,PAR,Paraguay,27,849,873
 13/02/2008,NOR,Norway,28,830,827
@@ -14985,7 +14985,7 @@ date,country_code,country_name,rank,points,previous_points
 12/03/2008,COL,Colombia,20,909,899
 12/03/2008,RUS,Russia,21,906,890
 12/03/2008,ISR,Israel,22,894,878
-12/03/2008,CIV,Côte d'Ivoire,23,886,877
+12/03/2008,CIV,CÃ´te d'Ivoire,23,886,877
 12/03/2008,SWE,Sweden,24,885,877
 12/03/2008,POL,Poland,25,885,903
 12/03/2008,PAR,Paraguay,26,844,849
@@ -15191,7 +15191,7 @@ date,country_code,country_name,rank,points,previous_points
 09/04/2008,COL,Colombia,19,911,909
 09/04/2008,ISR,Israel,20,898,894
 09/04/2008,USA,USA,21,889,837
-09/04/2008,CIV,Côte d'Ivoire,22,868,886
+09/04/2008,CIV,CÃ´te d'Ivoire,22,868,886
 09/04/2008,TUR,Turkey,23,860,924
 09/04/2008,SWE,Sweden,24,858,885
 09/04/2008,RUS,Russia,25,851,906
@@ -15398,7 +15398,7 @@ date,country_code,country_name,rank,points,previous_points
 07/05/2008,COL,Colombia,19,909,911
 07/05/2008,ISR,Israel,20,905,898
 07/05/2008,USA,USA,21,889,889
-07/05/2008,CIV,Côte d'Ivoire,22,870,868
+07/05/2008,CIV,CÃ´te d'Ivoire,22,870,868
 07/05/2008,SWE,Sweden,23,862,858
 07/05/2008,PAR,Paraguay,24,857,844
 07/05/2008,TUR,Turkey,25,856,860
@@ -15608,7 +15608,7 @@ date,country_code,country_name,rank,points,previous_points
 04/06/2008,ISR,Israel,22,872,905
 04/06/2008,EGY,Egypt,23,848,822
 04/06/2008,RUS,Russia,24,846,856
-04/06/2008,CIV,Côte d'Ivoire,25,838,870
+04/06/2008,CIV,CÃ´te d'Ivoire,25,838,870
 04/06/2008,URU,Uruguay,26,817,840
 04/06/2008,NOR,Norway,27,814,836
 04/06/2008,POL,Poland,28,805,848
@@ -15818,7 +15818,7 @@ date,country_code,country_name,rank,points,previous_points
 02/07/2008,PAR,Paraguay,25,832,805
 02/07/2008,SWE,Sweden,26,801,799
 02/07/2008,NGA,Nigeria,27,801,709
-02/07/2008,CIV,Côte d'Ivoire,28,790,838
+02/07/2008,CIV,CÃ´te d'Ivoire,28,790,838
 02/07/2008,UKR,Ukraine,29,786,791
 02/07/2008,USA,USA,30,780,874
 02/07/2008,NOR,Norway,31,778,814
@@ -16022,7 +16022,7 @@ date,country_code,country_name,rank,points,previous_points
 06/08/2008,PAR,Paraguay,22,820,832
 06/08/2008,COL,Colombia,23,816,869
 06/08/2008,URU,Uruguay,24,813,870
-06/08/2008,CIV,Côte d'Ivoire,25,802,790
+06/08/2008,CIV,CÃ´te d'Ivoire,25,802,790
 06/08/2008,SWE,Sweden,26,801,801
 06/08/2008,NGA,Nigeria,27,788,801
 06/08/2008,UKR,Ukraine,28,786,786
@@ -16227,7 +16227,7 @@ date,country_code,country_name,rank,points,previous_points
 03/09/2008,GHA,Ghana,20,864,892
 03/09/2008,EGY,Egypt,21,841,851
 03/09/2008,URU,Uruguay,22,817,813
-03/09/2008,CIV,Côte d'Ivoire,23,814,802
+03/09/2008,CIV,CÃ´te d'Ivoire,23,814,802
 03/09/2008,MEX,Mexico,24,807,750
 03/09/2008,PAR,Paraguay,25,801,820
 03/09/2008,UKR,Ukraine,26,799,786
@@ -16440,7 +16440,7 @@ date,country_code,country_name,rank,points,previous_points
 08/10/2008,SCO,Scotland,26,820,976
 08/10/2008,NGA,Nigeria,27,818,791
 08/10/2008,SWE,Sweden,28,794,773
-08/10/2008,CIV,Côte d'Ivoire,29,779,814
+08/10/2008,CIV,CÃ´te d'Ivoire,29,779,814
 08/10/2008,POL,Poland,30,763,779
 08/10/2008,DEN,Denmark,31,760,696
 08/10/2008,JPN,Japan,32,747,707
@@ -16646,7 +16646,7 @@ date,country_code,country_name,rank,points,previous_points
 12/11/2008,MEX,Mexico,25,827,841
 12/11/2008,GHA,Ghana,26,805,839
 12/11/2008,SUI,Switzerland,27,799,641
-12/11/2008,CIV,Côte d'Ivoire,28,780,779
+12/11/2008,CIV,CÃ´te d'Ivoire,28,780,779
 12/11/2008,SWE,Sweden,29,776,794
 12/11/2008,SRB,Serbia,30,775,673
 12/11/2008,ECU,Ecuador,31,771,661
@@ -16854,7 +16854,7 @@ date,country_code,country_name,rank,points,previous_points
 17/12/2008,MEX,Mexico,26,811,827
 17/12/2008,BUL,Bulgaria,27,782,951
 17/12/2008,AUS,Australia,28,777,739
-17/12/2008,CIV,Côte d'Ivoire,29,771,780
+17/12/2008,CIV,CÃ´te d'Ivoire,29,771,780
 17/12/2008,SRB,Serbia,30,761,775
 17/12/2008,CHI,Chile,31,757,753
 17/12/2008,SWE,Sweden,32,748,776
@@ -17059,7 +17059,7 @@ date,country_code,country_name,rank,points,previous_points
 14/01/2009,SUI,Switzerland,24,824,824
 14/01/2009,GHA,Ghana,25,813,815
 14/01/2009,MEX,Mexico,26,811,811
-14/01/2009,CIV,Côte d'Ivoire,27,785,771
+14/01/2009,CIV,CÃ´te d'Ivoire,27,785,771
 14/01/2009,BUL,Bulgaria,28,782,782
 14/01/2009,AUS,Australia,29,777,777
 14/01/2009,CHI,Chile,30,757,757
@@ -17275,7 +17275,7 @@ date,country_code,country_name,rank,points,previous_points
 11/02/2009,SRB,Serbia,33,737,731
 11/02/2009,DEN,Denmark,34,724,716
 11/02/2009,GHA,Ghana,35,714,813
-11/02/2009,CIV,Côte d'Ivoire,36,709,785
+11/02/2009,CIV,CÃ´te d'Ivoire,36,709,785
 11/02/2009,JPN,Japan,37,697,734
 11/02/2009,CRC,Costa Rica,38,694,606
 11/02/2009,HON,Honduras,39,693,689
@@ -17483,7 +17483,7 @@ date,country_code,country_name,rank,points,previous_points
 11/03/2009,GHA,Ghana,34,717,714
 11/03/2009,JPN,Japan,35,709,697
 11/03/2009,SRB,Serbia,36,708,737
-11/03/2009,CIV,Côte d'Ivoire,37,706,709
+11/03/2009,CIV,CÃ´te d'Ivoire,37,706,709
 11/03/2009,DEN,Denmark,38,701,724
 11/03/2009,ECU,Ecuador,39,695,691
 11/03/2009,HON,Honduras,40,674,693
@@ -17689,7 +17689,7 @@ date,country_code,country_name,rank,points,previous_points
 08/04/2009,SWE,Sweden,33,769,782
 08/04/2009,IRL,Republic of Ireland,34,761,773
 08/04/2009,JPN,Japan,35,749,709
-08/04/2009,CIV,Côte d'Ivoire,36,743,706
+08/04/2009,CIV,CÃ´te d'Ivoire,36,743,706
 08/04/2009,EGY,Egypt,37,742,727
 08/04/2009,BIH,Bosnia and Herzegovina,38,737,529
 08/04/2009,HON,Honduras,39,726,674
@@ -17896,7 +17896,7 @@ date,country_code,country_name,rank,points,previous_points
 06/05/2009,SWE,Sweden,33,769,769
 06/05/2009,IRL,Republic of Ireland,34,761,761
 06/05/2009,JPN,Japan,35,749,749
-06/05/2009,CIV,Côte d'Ivoire,36,743,743
+06/05/2009,CIV,CÃ´te d'Ivoire,36,743,743
 06/05/2009,EGY,Egypt,37,742,742
 06/05/2009,BIH,Bosnia and Herzegovina,38,737,737
 06/05/2009,HON,Honduras,39,736,726
@@ -18105,7 +18105,7 @@ date,country_code,country_name,rank,points,previous_points
 03/06/2009,HON,Honduras,35,761,736
 03/06/2009,GHA,Ghana,36,750,779
 03/06/2009,CHI,Chile,37,746,796
-03/06/2009,CIV,Côte d'Ivoire,38,745,743
+03/06/2009,CIV,CÃ´te d'Ivoire,38,745,743
 03/06/2009,POL,Poland,39,722,724
 03/06/2009,EGY,Egypt,40,719,742
 03/06/2009,CRC,Costa Rica,41,694,721
@@ -18292,7 +18292,7 @@ date,country_code,country_name,rank,points,previous_points
 01/07/2009,DEN,Denmark,15,909,836
 01/07/2009,AUS,Australia,16,886,779
 01/07/2009,POR,Portugal,17,879,1004
-01/07/2009,CIV,Côte d'Ivoire,18,874,745
+01/07/2009,CIV,CÃ´te d'Ivoire,18,874,745
 01/07/2009,UKR,Ukraine,19,869,891
 01/07/2009,URU,Uruguay,20,860,922
 01/07/2009,CZE,Czech Republic,21,850,943
@@ -18499,7 +18499,7 @@ date,country_code,country_name,rank,points,previous_points
 05/08/2009,DEN,Denmark,15,909,909
 05/08/2009,AUS,Australia,16,896,886
 05/08/2009,POR,Portugal,17,881,879
-05/08/2009,CIV,Côte d'Ivoire,18,874,874
+05/08/2009,CIV,CÃ´te d'Ivoire,18,874,874
 05/08/2009,UKR,Ukraine,19,869,869
 05/08/2009,PAR,Paraguay,20,856,846
 05/08/2009,URU,Uruguay,21,851,860
@@ -18708,7 +18708,7 @@ date,country_code,country_name,rank,points,previous_points
 02/09/2009,POR,Portugal,17,880,881
 02/09/2009,CZE,Czech Republic,18,870,850
 02/09/2009,BUL,Bulgaria,19,860,839
-02/09/2009,CIV,Côte d'Ivoire,20,852,874
+02/09/2009,CIV,CÃ´te d'Ivoire,20,852,874
 02/09/2009,CHI,Chile,21,846,817
 02/09/2009,ISR,Israel,22,844,822
 02/09/2009,PAR,Paraguay,23,842,856
@@ -18914,7 +18914,7 @@ date,country_code,country_name,rank,points,previous_points
 16/10/2009,GRE,Greece,16,921,971
 16/10/2009,CHI,Chile,17,909,846
 16/10/2009,MEX,Mexico,18,904,835
-16/10/2009,CIV,Côte d'Ivoire,19,903,852
+16/10/2009,CIV,CÃ´te d'Ivoire,19,903,852
 16/10/2009,SRB,Serbia,20,892,916
 16/10/2009,PAR,Paraguay,21,879,842
 16/10/2009,UKR,Ukraine,22,857,829
@@ -19118,7 +19118,7 @@ date,country_code,country_name,rank,points,previous_points
 20/11/2009,RUS,Russia,13,1019,982
 20/11/2009,USA,USA,14,980,1025
 20/11/2009,MEX,Mexico,15,931,904
-20/11/2009,CIV,Côte d'Ivoire,16,927,903
+20/11/2009,CIV,CÃ´te d'Ivoire,16,927,903
 20/11/2009,CHI,Chile,17,926,909
 20/11/2009,SUI,Switzerland,18,924,961
 20/11/2009,URU,Uruguay,19,901,838
@@ -19325,7 +19325,7 @@ date,country_code,country_name,rank,points,previous_points
 16/12/2009,GRE,Greece,13,1016,1028
 16/12/2009,USA,USA,14,980,980
 16/12/2009,CHI,Chile,15,936,926
-16/12/2009,CIV,Côte d'Ivoire,16,934,927
+16/12/2009,CIV,CÃ´te d'Ivoire,16,934,927
 16/12/2009,MEX,Mexico,17,931,931
 16/12/2009,SUI,Switzerland,18,924,924
 16/12/2009,SRB,Serbia,19,916,900
@@ -19538,7 +19538,7 @@ date,country_code,country_name,rank,points,previous_points
 03/02/2010,SRB,Serbia,19,916,916
 03/02/2010,CMR,Cameroon,20,914,1035
 03/02/2010,URU,Uruguay,21,909,909
-03/02/2010,CIV,Côte d'Ivoire,22,865,934
+03/02/2010,CIV,CÃ´te d'Ivoire,22,865,934
 03/02/2010,AUS,Australia,23,857,863
 03/02/2010,UKR,Ukraine,24,848,848
 03/02/2010,CZE,Czech Republic,25,828,828
@@ -19745,7 +19745,7 @@ date,country_code,country_name,rank,points,previous_points
 03/03/2010,URU,Uruguay,19,936,909
 03/03/2010,CMR,Cameroon,20,888,914
 03/03/2010,NGA,Nigeria,21,879,956
-03/03/2010,CIV,Côte d'Ivoire,22,874,865
+03/03/2010,CIV,CÃ´te d'Ivoire,22,874,865
 03/03/2010,AUS,Australia,23,867,857
 03/03/2010,UKR,Ukraine,24,851,848
 03/03/2010,CZE,Czech Republic,25,843,828
@@ -19955,7 +19955,7 @@ date,country_code,country_name,rank,points,previous_points
 31/03/2010,NGA,Nigeria,22,883,879
 31/03/2010,PAR,Paraguay,23,855,815
 31/03/2010,NOR,Norway,24,853,798
-31/03/2010,CIV,Côte d'Ivoire,25,846,874
+31/03/2010,CIV,CÃ´te d'Ivoire,25,846,874
 31/03/2010,UKR,Ukraine,26,837,851
 31/03/2010,ALG,Algeria,27,821,803
 31/03/2010,ISR,Israel,28,811,821
@@ -20164,7 +20164,7 @@ date,country_code,country_name,rank,points,previous_points
 28/04/2010,ISR,Israel,24,857,811
 28/04/2010,UKR,Ukraine,25,855,837
 28/04/2010,SUI,Switzerland,26,854,887
-28/04/2010,CIV,Côte d'Ivoire,27,846,846
+28/04/2010,CIV,CÃ´te d'Ivoire,27,846,846
 28/04/2010,ROU,Romania,28,843,798
 28/04/2010,CZE,Czech Republic,29,827,809
 28/04/2010,PAR,Paraguay,30,822,855
@@ -20371,7 +20371,7 @@ date,country_code,country_name,rank,points,previous_points
 26/05/2010,SUI,Switzerland,24,866,854
 26/05/2010,SVN,Slovenia,25,860,860
 26/05/2010,ISR,Israel,26,857,857
-26/05/2010,CIV,Côte d'Ivoire,27,856,846
+26/05/2010,CIV,CÃ´te d'Ivoire,27,856,846
 26/05/2010,ROU,Romania,28,853,843
 26/05/2010,TUR,Turkey,29,830,798
 26/05/2010,ALG,Algeria,30,821,821
@@ -20577,7 +20577,7 @@ date,country_code,country_name,rank,points,previous_points
 14/07/2010,GHA,Ghana,23,874,800
 14/07/2010,MEX,Mexico,24,872,895
 14/07/2010,UKR,Ukraine,25,870,875
-14/07/2010,CIV,Côte d'Ivoire,26,843,856
+14/07/2010,CIV,CÃ´te d'Ivoire,26,843,856
 14/07/2010,SVK,Slovakia,27,829,777
 14/07/2010,TUR,Turkey,28,810,830
 14/07/2010,DEN,Denmark,29,785,767
@@ -20784,7 +20784,7 @@ date,country_code,country_name,rank,points,previous_points
 11/08/2010,GHA,Ghana,23,874,874
 11/08/2010,UKR,Ukraine,24,870,870
 11/08/2010,MEX,Mexico,25,853,872
-11/08/2010,CIV,Côte d'Ivoire,26,843,843
+11/08/2010,CIV,CÃ´te d'Ivoire,26,843,843
 11/08/2010,SVK,Slovakia,27,829,829
 11/08/2010,TUR,Turkey,28,810,810
 11/08/2010,DEN,Denmark,29,785,785
@@ -20988,7 +20988,7 @@ date,country_code,country_name,rank,points,previous_points
 15/09/2010,GHA,Ghana,20,889,874
 15/09/2010,SUI,Switzerland,21,882,940
 15/09/2010,TUR,Turkey,22,882,810
-15/09/2010,CIV,Côte d'Ivoire,23,877,843
+15/09/2010,CIV,CÃ´te d'Ivoire,23,877,843
 15/09/2010,AUS,Australia,24,874,911
 15/09/2010,RUS,Russia,25,868,956
 15/09/2010,UKR,Ukraine,26,838,870
@@ -21191,7 +21191,7 @@ date,country_code,country_name,rank,points,previous_points
 20/10/2010,ITA,Italy,16,901,965
 20/10/2010,GHA,Ghana,17,891,889
 20/10/2010,FRA,France,18,888,835
-20/10/2010,CIV,Côte d'Ivoire,19,871,877
+20/10/2010,CIV,CÃ´te d'Ivoire,19,871,877
 20/10/2010,SVK,Slovakia,20,865,919
 20/10/2010,AUS,Australia,21,862,874
 20/10/2010,SRB,Serbia,22,861,945
@@ -21398,7 +21398,7 @@ date,country_code,country_name,rank,points,previous_points
 17/11/2010,CHI,Chile,16,929,932
 17/11/2010,GHA,Ghana,17,903,891
 17/11/2010,SVK,Slovakia,18,866,865
-17/11/2010,CIV,Côte d'Ivoire,19,857,871
+17/11/2010,CIV,CÃ´te d'Ivoire,19,857,871
 17/11/2010,AUS,Australia,20,853,862
 17/11/2010,SUI,Switzerland,21,852,841
 17/11/2010,FRA,France,22,852,888
@@ -21607,7 +21607,7 @@ date,country_code,country_name,rank,points,previous_points
 15/12/2010,FRA,France,18,867,852
 15/12/2010,USA,USA,19,867,847
 15/12/2010,SVK,Slovakia,20,854,866
-15/12/2010,CIV,Côte d'Ivoire,21,846,857
+15/12/2010,CIV,CÃ´te d'Ivoire,21,846,857
 15/12/2010,SUI,Switzerland,22,840,852
 15/12/2010,SRB,Serbia,23,837,828
 15/12/2010,PAR,Paraguay,24,832,850
@@ -21814,7 +21814,7 @@ date,country_code,country_name,rank,points,previous_points
 12/01/2011,FRA,France,18,867,867
 12/01/2011,USA,USA,19,867,867
 12/01/2011,SVK,Slovakia,20,854,854
-12/01/2011,CIV,Côte d'Ivoire,21,845,846
+12/01/2011,CIV,CÃ´te d'Ivoire,21,845,846
 12/01/2011,SUI,Switzerland,22,840,840
 12/01/2011,SRB,Serbia,23,837,837
 12/01/2011,PAR,Paraguay,24,832,832
@@ -21943,7 +21943,7 @@ date,country_code,country_name,rank,points,previous_points
 12/01/2011,GNB,Guinea-Bissau,147,121,121
 12/01/2011,LIE,Liechtenstein,148,116,116
 12/01/2011,MYA,Myanmar,149,109,109
-12/01/2011,CUW,Curaçao,150,107,0
+12/01/2011,CUW,CuraÃ§ao,150,107,0
 12/01/2011,FIJ,Fiji,151,103,103
 12/01/2011,TPE,Chinese Taipei,152,102,102
 12/01/2011,PHI,Philippines,153,97,109
@@ -22026,7 +22026,7 @@ date,country_code,country_name,rank,points,previous_points
 02/02/2011,SRB,Serbia,23,837,837
 02/02/2011,PAR,Paraguay,24,832,832
 02/02/2011,MNE,Montenegro,25,824,824
-02/02/2011,CIV,Côte d'Ivoire,26,813,845
+02/02/2011,CIV,CÃ´te d'Ivoire,26,813,845
 02/02/2011,MEX,Mexico,27,803,795
 02/02/2011,DEN,Denmark,28,802,790
 02/02/2011,SWE,Sweden,29,759,712
@@ -22150,7 +22150,7 @@ date,country_code,country_name,rank,points,previous_points
 02/02/2011,LIE,Liechtenstein,147,116,116
 02/02/2011,VIN,St. Vincent and the Grenadines,148,110,132
 02/02/2011,MYA,Myanmar,149,108,109
-02/02/2011,CUW,Curaçao,150,107,107
+02/02/2011,CUW,CuraÃ§ao,150,107,107
 02/02/2011,FIJ,Fiji,151,103,103
 02/02/2011,PHI,Philippines,152,101,97
 02/02/2011,NCL,New Caledonia,153,97,89
@@ -22233,7 +22233,7 @@ date,country_code,country_name,rank,points,previous_points
 09/03/2011,SUI,Switzerland,23,839,840
 09/03/2011,PAR,Paraguay,24,835,832
 09/03/2011,MNE,Montenegro,25,824,824
-09/03/2011,CIV,Côte d'Ivoire,26,824,813
+09/03/2011,CIV,CÃ´te d'Ivoire,26,824,813
 09/03/2011,MEX,Mexico,27,811,803
 09/03/2011,DEN,Denmark,28,788,802
 09/03/2011,KOR,Korea Republic,29,752,738
@@ -22353,7 +22353,7 @@ date,country_code,country_name,rank,points,previous_points
 09/03/2011,LIE,Liechtenstein,143,134,116
 09/03/2011,BDI,Burundi,144,133,134
 09/03/2011,IND,India,145,126,126
-09/03/2011,CUW,Curaçao,146,115,107
+09/03/2011,CUW,CuraÃ§ao,146,115,107
 09/03/2011,TPE,Chinese Taipei,147,114,93
 09/03/2011,TJK,Tajikistan,148,113,142
 09/03/2011,EQG,Equatorial Guinea,149,113,72
@@ -22435,7 +22435,7 @@ date,country_code,country_name,rank,points,previous_points
 13/04/2011,RUS,Russia,18,897,956
 13/04/2011,FRA,France,19,883,913
 13/04/2011,AUS,Australia,20,878,873
-13/04/2011,CIV,Côte d'Ivoire,21,867,824
+13/04/2011,CIV,CÃ´te d'Ivoire,21,867,824
 13/04/2011,USA,USA,22,855,894
 13/04/2011,PAR,Paraguay,23,843,835
 13/04/2011,MNE,Montenegro,24,820,824
@@ -22566,7 +22566,7 @@ date,country_code,country_name,rank,points,previous_points
 13/04/2011,CHA,Chad,149,127,135
 13/04/2011,NEP,Nepal,150,127,54
 13/04/2011,NCL,New Caledonia,151,123,97
-13/04/2011,CUW,Curaçao,152,121,115
+13/04/2011,CUW,CuraÃ§ao,152,121,115
 13/04/2011,VIN,St. Vincent and the Grenadines,153,116,113
 13/04/2011,LIE,Liechtenstein,154,116,134
 13/04/2011,PHI,Philippines,155,104,107
@@ -22642,7 +22642,7 @@ date,country_code,country_name,rank,points,previous_points
 18/05/2011,RUS,Russia,18,897,897
 18/05/2011,FRA,France,19,883,883
 18/05/2011,AUS,Australia,20,878,878
-18/05/2011,CIV,Côte d'Ivoire,21,867,867
+18/05/2011,CIV,CÃ´te d'Ivoire,21,867,867
 18/05/2011,USA,USA,22,855,855
 18/05/2011,PAR,Paraguay,23,847,843
 18/05/2011,MNE,Montenegro,24,820,820
@@ -22773,7 +22773,7 @@ date,country_code,country_name,rank,points,previous_points
 18/05/2011,BDI,Burundi,149,127,127
 18/05/2011,CHA,Chad,150,127,127
 18/05/2011,NCL,New Caledonia,151,123,123
-18/05/2011,CUW,Curaçao,152,121,121
+18/05/2011,CUW,CuraÃ§ao,152,121,121
 18/05/2011,LIE,Liechtenstein,153,116,116
 18/05/2011,VIN,St. Vincent and the Grenadines,154,116,116
 18/05/2011,FIJ,Fiji,155,103,103
@@ -22842,7 +22842,7 @@ date,country_code,country_name,rank,points,previous_points
 29/06/2011,NOR,Norway,11,972,987
 29/06/2011,GRE,Greece,12,959,985
 29/06/2011,JPN,Japan,13,930,965
-29/06/2011,CIV,Côte d'Ivoire,14,922,867
+29/06/2011,CIV,CÃ´te d'Ivoire,14,922,867
 29/06/2011,FRA,France,15,920,883
 29/06/2011,RUS,Russia,16,915,897
 29/06/2011,MNE,Montenegro,17,915,820
@@ -22978,7 +22978,7 @@ date,country_code,country_name,rank,points,previous_points
 29/06/2011,IND,India,147,137,140
 29/06/2011,NEP,Nepal,148,137,136
 29/06/2011,EQG,Equatorial Guinea,149,131,146
-29/06/2011,CUW,Curaçao,150,128,121
+29/06/2011,CUW,CuraÃ§ao,150,128,121
 29/06/2011,MDV,Maldives,151,127,134
 29/06/2011,CHA,Chad,152,123,127
 29/06/2011,NAM,Namibia,153,117,150
@@ -23050,7 +23050,7 @@ date,country_code,country_name,rank,points,previous_points
 27/07/2011,NOR,Norway,12,972,972
 27/07/2011,GRE,Greece,13,959,959
 27/07/2011,JPN,Japan,14,924,930
-27/07/2011,CIV,Côte d'Ivoire,15,922,922
+27/07/2011,CIV,CÃ´te d'Ivoire,15,922,922
 27/07/2011,FRA,France,16,920,920
 27/07/2011,MNE,Montenegro,17,915,915
 27/07/2011,RUS,Russia,18,915,915
@@ -23192,7 +23192,7 @@ date,country_code,country_name,rank,points,previous_points
 27/07/2011,HKG,Hong Kong,154,134,142
 27/07/2011,EQG,Equatorial Guinea,155,131,131
 27/07/2011,FIJ,Fiji,156,129,103
-27/07/2011,CUW,Curaçao,157,128,128
+27/07/2011,CUW,CuraÃ§ao,157,128,128
 27/07/2011,CHA,Chad,158,127,123
 27/07/2011,LIB,Lebanon,159,120,55
 27/07/2011,MDV,Maldives,160,116,127
@@ -23257,7 +23257,7 @@ date,country_code,country_name,rank,points,previous_points
 24/08/2011,RUS,Russia,13,940,915
 24/08/2011,GRE,Greece,14,937,959
 24/08/2011,JPN,Japan,15,918,924
-24/08/2011,CIV,Côte d'Ivoire,16,918,922
+24/08/2011,CIV,CÃ´te d'Ivoire,16,918,922
 24/08/2011,FRA,France,17,918,920
 24/08/2011,SWE,Sweden,18,889,884
 24/08/2011,MNE,Montenegro,19,875,915
@@ -23407,7 +23407,7 @@ date,country_code,country_name,rank,points,previous_points
 24/08/2011,PHI,Philippines,163,105,109
 24/08/2011,VAN,Vanuatu,164,105,93
 24/08/2011,NCL,New Caledonia,165,104,104
-24/08/2011,CUW,Curaçao,166,103,128
+24/08/2011,CUW,CuraÃ§ao,166,103,128
 24/08/2011,MLT,Malta,167,102,83
 24/08/2011,MYA,Myanmar,168,99,100
 24/08/2011,TPE,Chinese Taipei,169,97,97
@@ -23463,7 +23463,7 @@ date,country_code,country_name,rank,points,previous_points
 21/09/2011,RUS,Russia,13,954,940
 21/09/2011,CHI,Chile,14,932,960
 21/09/2011,JPN,Japan,15,924,918
-21/09/2011,CIV,Côte d'Ivoire,16,910,918
+21/09/2011,CIV,CÃ´te d'Ivoire,16,910,918
 21/09/2011,DEN,Denmark,17,893,841
 21/09/2011,SUI,Switzerland,18,886,757
 21/09/2011,AUS,Australia,19,882,837
@@ -23625,7 +23625,7 @@ date,country_code,country_name,rank,points,previous_points
 21/09/2011,CAM,Cambodia,175,84,83
 21/09/2011,SRI,Sri Lanka,176,83,86
 21/09/2011,SEY,Seychelles,177,82,85
-21/09/2011,CUW,Curaçao,178,75,103
+21/09/2011,CUW,CuraÃ§ao,178,75,103
 21/09/2011,COM,Comoros,179,75,68
 21/09/2011,KGZ,Kyrgyzstan,180,75,79
 21/09/2011,SOL,Solomon Islands,181,75,79
@@ -23673,7 +23673,7 @@ date,country_code,country_name,rank,points,previous_points
 19/10/2011,CHI,Chile,16,941,932
 19/10/2011,JPN,Japan,17,924,924
 19/10/2011,SUI,Switzerland,18,920,886
-19/10/2011,CIV,Côte d'Ivoire,19,898,910
+19/10/2011,CIV,CÃ´te d'Ivoire,19,898,910
 19/10/2011,AUS,Australia,20,868,882
 19/10/2011,BIH,Bosnia and Herzegovina,21,864,839
 19/10/2011,MEX,Mexico,22,860,866
@@ -23825,7 +23825,7 @@ date,country_code,country_name,rank,points,previous_points
 19/10/2011,MNG,Mongolia,168,106,106
 19/10/2011,VIR,US Virgin Islands,169,104,144
 19/10/2011,MYA,Myanmar,170,101,98
-19/10/2011,CUW,Curaçao,171,99,75
+19/10/2011,CUW,CuraÃ§ao,171,99,75
 19/10/2011,ARU,Aruba,172,92,92
 19/10/2011,PAK,Pakistan,173,91,92
 19/10/2011,VAN,Vanuatu,174,88,88
@@ -23877,7 +23877,7 @@ date,country_code,country_name,rank,points,previous_points
 23/11/2011,CHI,Chile,13,970,941
 23/11/2011,GRE,Greece,14,964,1044
 23/11/2011,FRA,France,15,915,953
-23/11/2011,CIV,Côte d'Ivoire,16,912,898
+23/11/2011,CIV,CÃ´te d'Ivoire,16,912,898
 23/11/2011,SUI,Switzerland,17,898,920
 23/11/2011,SWE,Sweden,18,891,955
 23/11/2011,JPN,Japan,19,884,924
@@ -24010,7 +24010,7 @@ date,country_code,country_name,rank,points,previous_points
 23/11/2011,VIN,St. Vincent and the Grenadines,146,170,171
 23/11/2011,TKM,Turkmenistan,147,164,172
 23/11/2011,LES,Lesotho,148,160,114
-23/11/2011,CUW,Curaçao,149,154,99
+23/11/2011,CUW,CuraÃ§ao,149,154,99
 23/11/2011,YEM,Yemen,150,153,158
 23/11/2011,EQG,Equatorial Guinea,151,148,140
 23/11/2011,SIN,Singapore,152,146,185
@@ -24053,7 +24053,7 @@ date,country_code,country_name,rank,points,previous_points
 23/11/2011,GUM,Guam,189,36,36
 23/11/2011,PNG,Papua New Guinea,190,34,34
 23/11/2011,MRI,Mauritius,191,32,32
-23/11/2011,STP,São Tomé e Príncipe,192,27,0
+23/11/2011,STP,SÃ£o TomÃ© e PrÃ­ncipe,192,27,0
 23/11/2011,MAC,Macau,193,26,25
 23/11/2011,VGB,British Virgin Islands,194,23,23
 23/11/2011,TCA,Turks and Caicos Islands,195,13,13
@@ -24085,7 +24085,7 @@ date,country_code,country_name,rank,points,previous_points
 21/12/2011,CHI,Chile,13,970,970
 21/12/2011,GRE,Greece,14,964,964
 21/12/2011,FRA,France,15,915,915
-21/12/2011,CIV,Côte d'Ivoire,16,912,912
+21/12/2011,CIV,CÃ´te d'Ivoire,16,912,912
 21/12/2011,SUI,Switzerland,17,898,898
 21/12/2011,SWE,Sweden,18,891,891
 21/12/2011,JPN,Japan,19,884,884
@@ -24222,7 +24222,7 @@ date,country_code,country_name,rank,points,previous_points
 21/12/2011,SAM,Samoa,150,149,0
 21/12/2011,EQG,Equatorial Guinea,151,148,148
 21/12/2011,YEM,Yemen,152,146,153
-21/12/2011,CUW,Curaçao,153,146,154
+21/12/2011,CUW,CuraÃ§ao,153,146,154
 21/12/2011,NEP,Nepal,154,144,177
 21/12/2011,BAH,Bahamas,155,140,141
 21/12/2011,NCA,Nicaragua,156,141,141
@@ -24266,7 +24266,7 @@ date,country_code,country_name,rank,points,previous_points
 21/12/2011,PNG,Papua New Guinea,194,34,34
 21/12/2011,MRI,Mauritius,195,32,32
 21/12/2011,COK,Cook Islands,196,28,10
-21/12/2011,STP,São Tomé e Príncipe,197,27,27
+21/12/2011,STP,SÃ£o TomÃ© e PrÃ­ncipe,197,27,27
 21/12/2011,MAC,Macau,198,26,26
 21/12/2011,DJI,Djibouti,199,25,5
 21/12/2011,VGB,British Virgin Islands,200,23,23
@@ -24296,7 +24296,7 @@ date,country_code,country_name,rank,points,previous_points
 18/01/2012,FRA,France,15,915,915
 18/01/2012,SUI,Switzerland,16,898,898
 18/01/2012,SWE,Sweden,17,891,891
-18/01/2012,CIV,Côte d'Ivoire,18,889,912
+18/01/2012,CIV,CÃ´te d'Ivoire,18,889,912
 18/01/2012,BIH,Bosnia and Herzegovina,19,869,869
 18/01/2012,JPN,Japan,20,869,884
 18/01/2012,MEX,Mexico,21,866,866
@@ -24431,7 +24431,7 @@ date,country_code,country_name,rank,points,previous_points
 18/01/2012,YEM,Yemen,150,153,146
 18/01/2012,SAM,Samoa,151,149,149
 18/01/2012,EQG,Equatorial Guinea,152,147,148
-18/01/2012,CUW,Curaçao,153,146,146
+18/01/2012,CUW,CuraÃ§ao,153,146,146
 18/01/2012,LES,Lesotho,154,144,160
 18/01/2012,NEP,Nepal,155,144,144
 18/01/2012,BAH,Bahamas,156,140,141
@@ -24475,7 +24475,7 @@ date,country_code,country_name,rank,points,previous_points
 18/01/2012,PNG,Papua New Guinea,194,34,34
 18/01/2012,MRI,Mauritius,195,32,32
 18/01/2012,COK,Cook Islands,196,28,28
-18/01/2012,STP,São Tomé e Príncipe,197,27,27
+18/01/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,197,27,27
 18/01/2012,MAC,Macau,198,26,26
 18/01/2012,DJI,Djibouti,199,23,25
 18/01/2012,VGB,British Virgin Islands,200,23,23
@@ -24502,7 +24502,7 @@ date,country_code,country_name,rank,points,previous_points
 15/02/2012,CHI,Chile,12,996,973
 15/02/2012,RUS,Russia,13,989,971
 15/02/2012,GRE,Greece,14,979,964
-15/02/2012,CIV,Côte d'Ivoire,15,967,889
+15/02/2012,CIV,CÃ´te d'Ivoire,15,967,889
 15/02/2012,SUI,Switzerland,16,950,898
 15/02/2012,FRA,France,17,930,915
 15/02/2012,SWE,Sweden,18,924,891
@@ -24641,7 +24641,7 @@ date,country_code,country_name,rank,points,previous_points
 15/02/2012,MAS,Malaysia,151,153,157
 15/02/2012,SAM,Samoa,152,149,149
 15/02/2012,NEP,Nepal,153,144,144
-15/02/2012,CUW,Curaçao,154,142,146
+15/02/2012,CUW,CuraÃ§ao,154,142,146
 15/02/2012,BAH,Bahamas,155,140,141
 15/02/2012,IND,India,156,141,138
 15/02/2012,PHI,Philippines,157,139,139
@@ -24656,7 +24656,7 @@ date,country_code,country_name,rank,points,previous_points
 15/02/2012,ARU,Aruba,166,120,120
 15/02/2012,GNB,Guinea-Bissau,167,116,121
 15/02/2012,TPE,Chinese Taipei,168,116,110
-15/02/2012,STP,São Tomé e Príncipe,169,113,27
+15/02/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,169,113,27
 15/02/2012,BRB,Barbados,170,107,119
 15/02/2012,MNG,Mongolia,171,106,106
 15/02/2012,LAO,Laos,172,105,96
@@ -24711,7 +24711,7 @@ date,country_code,country_name,rank,points,previous_points
 07/03/2012,RUS,Russia,12,1003,989
 07/03/2012,GRE,Greece,13,953,979
 07/03/2012,CHI,Chile,14,950,996
-07/03/2012,CIV,Côte d'Ivoire,15,944,967
+07/03/2012,CIV,CÃ´te d'Ivoire,15,944,967
 07/03/2012,FRA,France,16,938,930
 07/03/2012,SWE,Sweden,17,926,924
 07/03/2012,SUI,Switzerland,18,891,950
@@ -24812,7 +24812,7 @@ date,country_code,country_name,rank,points,previous_points
 07/03/2012,CHA,Chad,113,293,207
 07/03/2012,KEN,Kenya,114,292,267
 07/03/2012,NIG,Niger,115,289,302
-07/03/2012,STP,São Tomé e Príncipe,116,288,113
+07/03/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,116,288,113
 07/03/2012,AZE,Azerbaijan,117,285,306
 07/03/2012,FRO,Faroe Islands,118,285,285
 07/03/2012,CUB,Cuba,119,285,290
@@ -24851,7 +24851,7 @@ date,country_code,country_name,rank,points,previous_points
 07/03/2012,SAM,Samoa,152,149,149
 07/03/2012,MAS,Malaysia,153,148,153
 07/03/2012,NEP,Nepal,154,144,144
-07/03/2012,CUW,Curaçao,155,142,142
+07/03/2012,CUW,CuraÃ§ao,155,142,142
 07/03/2012,BAH,Bahamas,156,140,141
 07/03/2012,PHI,Philippines,157,136,139
 07/03/2012,FIJ,Fiji,158,133,133
@@ -24920,7 +24920,7 @@ date,country_code,country_name,rank,points,previous_points
 11/04/2012,ITA,Italy,12,1041,1062
 11/04/2012,CHI,Chile,13,967,950
 11/04/2012,GRE,Greece,14,961,953
-11/04/2012,CIV,Côte d'Ivoire,15,951,944
+11/04/2012,CIV,CÃ´te d'Ivoire,15,951,944
 11/04/2012,FRA,France,16,938,938
 11/04/2012,SWE,Sweden,17,931,926
 11/04/2012,SUI,Switzerland,18,891,891
@@ -25022,7 +25022,7 @@ date,country_code,country_name,rank,points,previous_points
 11/04/2012,SDN,Sudan,114,292,300
 11/04/2012,SDN,Sudan,115,292,300
 11/04/2012,CHA,Chad,116,289,293
-11/04/2012,STP,São Tomé e Príncipe,117,288,288
+11/04/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,117,288,288
 11/04/2012,KEN,Kenya,118,285,292
 11/04/2012,FRO,Faroe Islands,119,284,285
 11/04/2012,COD,Congo DR,120,283,281
@@ -25065,7 +25065,7 @@ date,country_code,country_name,rank,points,previous_points
 11/04/2012,YEM,Yemen,157,148,152
 11/04/2012,MAS,Malaysia,158,148,148
 11/04/2012,SIN,Singapore,159,145,149
-11/04/2012,CUW,Curaçao,160,138,142
+11/04/2012,CUW,CuraÃ§ao,160,138,142
 11/04/2012,FIJ,Fiji,161,133,133
 11/04/2012,HKG,Hong Kong,162,132,132
 11/04/2012,BAH,Bahamas,163,132,141
@@ -25129,7 +25129,7 @@ date,country_code,country_name,rank,points,previous_points
 09/05/2012,ITA,Italy,12,1041,1041
 09/05/2012,CHI,Chile,13,968,967
 09/05/2012,GRE,Greece,14,961,961
-09/05/2012,CIV,Côte d'Ivoire,15,951,951
+09/05/2012,CIV,CÃ´te d'Ivoire,15,951,951
 09/05/2012,FRA,France,16,938,938
 09/05/2012,SWE,Sweden,17,931,931
 09/05/2012,IRL,Republic of Ireland,18,891,891
@@ -25231,7 +25231,7 @@ date,country_code,country_name,rank,points,previous_points
 09/05/2012,SDN,Sudan,114,292,292
 09/05/2012,SDN,Sudan,115,292,292
 09/05/2012,CHA,Chad,116,289,289
-09/05/2012,STP,São Tomé e Príncipe,117,288,288
+09/05/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,117,288,288
 09/05/2012,KEN,Kenya,118,285,285
 09/05/2012,FRO,Faroe Islands,119,284,284
 09/05/2012,LUX,Luxembourg,120,283,283
@@ -25274,7 +25274,7 @@ date,country_code,country_name,rank,points,previous_points
 09/05/2012,SAM,Samoa,157,149,149
 09/05/2012,YEM,Yemen,158,148,148
 09/05/2012,SIN,Singapore,159,145,145
-09/05/2012,CUW,Curaçao,160,138,138
+09/05/2012,CUW,CuraÃ§ao,160,138,138
 09/05/2012,FIJ,Fiji,161,133,133
 09/05/2012,BAH,Bahamas,162,132,132
 09/05/2012,HKG,Hong Kong,163,132,132
@@ -25339,7 +25339,7 @@ date,country_code,country_name,rank,points,previous_points
 06/06/2012,RUS,Russia,13,975,1049
 06/06/2012,FRA,France,14,964,938
 06/06/2012,GRE,Greece,15,953,961
-06/06/2012,CIV,Côte d'Ivoire,16,943,951
+06/06/2012,CIV,CÃ´te d'Ivoire,16,943,951
 06/06/2012,SWE,Sweden,17,910,931
 06/06/2012,IRL,Republic of Ireland,18,907,891
 06/06/2012,MEX,Mexico,19,889,867
@@ -25442,7 +25442,7 @@ date,country_code,country_name,rank,points,previous_points
 06/06/2012,EQG,Equatorial Guinea,116,298,330
 06/06/2012,BOT,Botswana,117,295,321
 06/06/2012,MOZ,Mozambique,118,290,300
-06/06/2012,STP,São Tomé e Príncipe,119,288,288
+06/06/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,119,288,288
 06/06/2012,RWA,Rwanda,120,284,327
 06/06/2012,UAE,United Arab Emirates,121,284,281
 06/06/2012,LUX,Luxembourg,122,283,283
@@ -25484,7 +25484,7 @@ date,country_code,country_name,rank,points,previous_points
 06/06/2012,SIN,Singapore,158,143,145
 06/06/2012,HKG,Hong Kong,159,142,132
 06/06/2012,YEM,Yemen,160,141,148
-06/06/2012,CUW,Curaçao,161,137,138
+06/06/2012,CUW,CuraÃ§ao,161,137,138
 06/06/2012,FIJ,Fiji,162,133,133
 06/06/2012,BAH,Bahamas,163,132,132
 06/06/2012,MAD,Madagascar,164,128,121
@@ -25548,7 +25548,7 @@ date,country_code,country_name,rank,points,previous_points
 04/07/2012,RUS,Russia,13,981,975
 04/07/2012,FRA,France,14,980,964
 04/07/2012,CHI,Chile,15,961,994
-04/07/2012,CIV,Côte d'Ivoire,16,939,943
+04/07/2012,CIV,CÃ´te d'Ivoire,16,939,943
 04/07/2012,SWE,Sweden,17,909,910
 04/07/2012,CZE,Czech Republic,18,854,771
 04/07/2012,MEX,Mexico,19,832,889
@@ -25665,7 +25665,7 @@ date,country_code,country_name,rank,points,previous_points
 04/07/2012,ISL,Iceland,130,250,248
 04/07/2012,DOM,Dominican Republic,131,247,247
 04/07/2012,BLZ,Belize,132,242,236
-04/07/2012,STP,São Tomé e Príncipe,133,240,288
+04/07/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,133,240,288
 04/07/2012,SYR,Syria,134,240,263
 04/07/2012,SUR,Suriname,135,240,255
 04/07/2012,THA,Thailand,136,235,234
@@ -25692,7 +25692,7 @@ date,country_code,country_name,rank,points,previous_points
 04/07/2012,FRO,Faroe Islands,157,149,279
 04/07/2012,MAS,Malaysia,158,139,151
 04/07/2012,SIN,Singapore,159,138,143
-04/07/2012,CUW,Curaçao,160,138,137
+04/07/2012,CUW,CuraÃ§ao,160,138,137
 04/07/2012,HKG,Hong Kong,161,132,142
 04/07/2012,FIJ,Fiji,162,130,133
 04/07/2012,AFG,Afghanistan,163,122,114
@@ -25757,7 +25757,7 @@ date,country_code,country_name,rank,points,previous_points
 08/08/2012,BRA,Brazil,13,991,1012
 08/08/2012,FRA,France,14,980,980
 08/08/2012,CHI,Chile,15,953,961
-08/08/2012,CIV,Côte d'Ivoire,16,939,939
+08/08/2012,CIV,CÃ´te d'Ivoire,16,939,939
 08/08/2012,SWE,Sweden,17,909,909
 08/08/2012,MEX,Mexico,18,862,832
 08/08/2012,CZE,Czech Republic,19,854,854
@@ -25873,7 +25873,7 @@ date,country_code,country_name,rank,points,previous_points
 08/08/2012,TAN,Tanzania,129,253,253
 08/08/2012,GAM,Gambia,130,251,251
 08/08/2012,ISL,Iceland,131,250,250
-08/08/2012,STP,São Tomé e Príncipe,132,240,240
+08/08/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,132,240,240
 08/08/2012,BLZ,Belize,133,236,242
 08/08/2012,BDI,Burundi,134,234,234
 08/08/2012,THA,Thailand,135,234,235
@@ -25907,7 +25907,7 @@ date,country_code,country_name,rank,points,previous_points
 08/08/2012,SIN,Singapore,163,125,138
 08/08/2012,NEP,Nepal,164,125,149
 08/08/2012,AFG,Afghanistan,165,122,122
-08/08/2012,CUW,Curaçao,166,114,138
+08/08/2012,CUW,CuraÃ§ao,166,114,138
 08/08/2012,MAD,Madagascar,167,114,115
 08/08/2012,LES,Lesotho,168,109,119
 08/08/2012,IND,India,169,106,121
@@ -25967,7 +25967,7 @@ date,country_code,country_name,rank,points,previous_points
 05/09/2012,RUS,Russia,13,990,1016
 05/09/2012,CHI,Chile,14,984,953
 05/09/2012,FRA,France,15,965,980
-05/09/2012,CIV,Côte d'Ivoire,16,912,939
+05/09/2012,CIV,CÃ´te d'Ivoire,16,912,939
 05/09/2012,ECU,Ecuador,17,890,836
 05/09/2012,SWE,Sweden,18,875,909
 05/09/2012,CZE,Czech Republic,19,869,854
@@ -26085,7 +26085,7 @@ date,country_code,country_name,rank,points,previous_points
 05/09/2012,GAM,Gambia,131,257,251
 05/09/2012,THA,Thailand,132,244,234
 05/09/2012,TAN,Tanzania,133,243,253
-05/09/2012,STP,São Tomé e Príncipe,134,240,240
+05/09/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,134,240,240
 05/09/2012,BDI,Burundi,135,238,234
 05/09/2012,CYP,Cyprus,136,232,266
 05/09/2012,VIN,St. Vincent and the Grenadines,137,225,196
@@ -26114,7 +26114,7 @@ date,country_code,country_name,rank,points,previous_points
 05/09/2012,HKG,Hong Kong,160,133,147
 05/09/2012,MDV,Maldives,161,133,126
 05/09/2012,SIN,Singapore,162,129,125
-05/09/2012,CUW,Curaçao,163,129,114
+05/09/2012,CUW,CuraÃ§ao,163,129,114
 05/09/2012,MAD,Madagascar,164,127,114
 05/09/2012,SAM,Samoa,165,124,93
 05/09/2012,AFG,Afghanistan,166,122,122
@@ -26177,7 +26177,7 @@ date,country_code,country_name,rank,points,previous_points
 03/10/2012,FRA,France,13,1011,965
 03/10/2012,BRA,Brazil,14,1001,996
 03/10/2012,SUI,Switzerland,15,983,847
-03/10/2012,CIV,Côte d'Ivoire,16,951,912
+03/10/2012,CIV,CÃ´te d'Ivoire,16,951,912
 03/10/2012,CHI,Chile,17,948,984
 03/10/2012,DEN,Denmark,18,944,1006
 03/10/2012,MEX,Mexico,19,925,845
@@ -26294,7 +26294,7 @@ date,country_code,country_name,rank,points,previous_points
 03/10/2012,PUR,Puerto Rico,130,244,210
 03/10/2012,SUR,Suriname,131,243,207
 03/10/2012,GAM,Gambia,132,242,257
-03/10/2012,STP,São Tomé e Príncipe,133,240,240
+03/10/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,133,240,240
 03/10/2012,TAN,Tanzania,134,240,243
 03/10/2012,GRN,Grenada,135,234,206
 03/10/2012,BDI,Burundi,136,232,238
@@ -26313,7 +26313,7 @@ date,country_code,country_name,rank,points,previous_points
 03/10/2012,KAZ,Kazakhstan,149,178,196
 03/10/2012,PLE,Palestine,150,170,161
 03/10/2012,SYR,Syria,151,169,170
-03/10/2012,CUW,Curaçao,152,166,129
+03/10/2012,CUW,CuraÃ§ao,152,166,129
 03/10/2012,BRB,Barbados,153,158,81
 03/10/2012,MLT,Malta,154,156,206
 03/10/2012,ARU,Aruba,155,154,134
@@ -26386,7 +26386,7 @@ date,country_code,country_name,rank,points,previous_points
 07/11/2012,GRE,Greece,12,1004,1029
 07/11/2012,BRA,Brazil,13,994,1001
 07/11/2012,MEX,Mexico,14,984,925
-07/11/2012,CIV,Côte d'Ivoire,15,974,951
+07/11/2012,CIV,CÃ´te d'Ivoire,15,974,951
 07/11/2012,SUI,Switzerland,16,966,983
 07/11/2012,ECU,Ecuador,17,952,902
 07/11/2012,FRA,France,18,938,1011
@@ -26505,7 +26505,7 @@ date,country_code,country_name,rank,points,previous_points
 07/11/2012,KEN,Kenya,131,248,262
 07/11/2012,PUR,Puerto Rico,132,248,244
 07/11/2012,MDA,Moldova,133,241,187
-07/11/2012,STP,São Tomé e Príncipe,134,240,240
+07/11/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,134,240,240
 07/11/2012,TAN,Tanzania,135,237,240
 07/11/2012,BER,Bermuda,136,235,277
 07/11/2012,NCA,Nicaragua,137,233,210
@@ -26533,7 +26533,7 @@ date,country_code,country_name,rank,points,previous_points
 07/11/2012,LES,Lesotho,159,140,135
 07/11/2012,FRO,Faroe Islands,160,138,135
 07/11/2012,MDV,Maldives,161,135,133
-07/11/2012,CUW,Curaçao,162,134,166
+07/11/2012,CUW,CuraÃ§ao,162,134,166
 07/11/2012,YEM,Yemen,163,131,141
 07/11/2012,MAS,Malaysia,164,127,126
 07/11/2012,SIN,Singapore,165,127,126
@@ -26595,7 +26595,7 @@ date,country_code,country_name,rank,points,previous_points
 19/12/2012,GRE,Greece,11,1033,1004
 19/12/2012,SUI,Switzerland,12,1004,966
 19/12/2012,ECU,Ecuador,13,999,951
-19/12/2012,CIV,Côte d'Ivoire,14,995,974
+19/12/2012,CIV,CÃ´te d'Ivoire,14,995,974
 19/12/2012,MEX,Mexico,15,994,984
 19/12/2012,URU,Uruguay,16,975,1047
 19/12/2012,FRA,France,17,949,938
@@ -26702,7 +26702,7 @@ date,country_code,country_name,rank,points,previous_points
 19/12/2012,KUW,Kuwait,118,281,318
 19/12/2012,AZE,Azerbaijan,119,277,277
 19/12/2012,BHR,Bahrain,120,275,270
-19/12/2012,STP,São Tomé e Príncipe,121,275,240
+19/12/2012,STP,SÃ£o TomÃ© e PrÃ­ncipe,121,275,240
 19/12/2012,BOT,Botswana,122,274,299
 19/12/2012,NAM,Namibia,123,274,299
 19/12/2012,SKN,St. Kitts and Nevis,124,271,327
@@ -26759,7 +26759,7 @@ date,country_code,country_name,rank,points,previous_points
 19/12/2012,GNB,Guinea-Bissau,175,66,98
 19/12/2012,BAH,Bahamas,176,66,66
 19/12/2012,MSR,Montserrat,177,66,66
-19/12/2012,CUW,Curaçao,178,65,134
+19/12/2012,CUW,CuraÃ§ao,178,65,134
 19/12/2012,SWZ,Swaziland,179,61,56
 19/12/2012,MNG,Mongolia,180,55,55
 19/12/2012,MAD,Madagascar,181,55,106
@@ -26805,7 +26805,7 @@ date,country_code,country_name,rank,points,previous_points
 17/01/2013,GRE,Greece,11,1033,1033
 17/01/2013,ECU,Ecuador,12,1007,999
 17/01/2013,SUI,Switzerland,13,1004,1004
-17/01/2013,CIV,Côte d'Ivoire,14,996,995
+17/01/2013,CIV,CÃ´te d'Ivoire,14,996,995
 17/01/2013,MEX,Mexico,15,994,994
 17/01/2013,URU,Uruguay,16,975,975
 17/01/2013,FRA,France,17,949,949
@@ -26925,7 +26925,7 @@ date,country_code,country_name,rank,points,previous_points
 17/01/2013,LIB,Lebanon,131,253,259
 17/01/2013,CYP,Cyprus,132,248,248
 17/01/2013,PUR,Puerto Rico,133,248,248
-17/01/2013,STP,São Tomé e Príncipe,134,243,275
+17/01/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,134,243,275
 17/01/2013,VIE,Vietnam,135,242,251
 17/01/2013,TJK,Tajikistan,136,240,233
 17/01/2013,SYR,Syria,137,237,186
@@ -26969,7 +26969,7 @@ date,country_code,country_name,rank,points,previous_points
 17/01/2013,BAH,Bahamas,175,66,66
 17/01/2013,GNB,Guinea-Bissau,176,66,66
 17/01/2013,MSR,Montserrat,177,66,66
-17/01/2013,CUW,Curaçao,178,65,65
+17/01/2013,CUW,CuraÃ§ao,178,65,65
 17/01/2013,SWZ,Swaziland,179,61,61
 17/01/2013,MAD,Madagascar,180,55,55
 17/01/2013,MNG,Mongolia,181,55,55
@@ -27014,7 +27014,7 @@ date,country_code,country_name,rank,points,previous_points
 14/02/2013,RUS,Russia,10,1055,1070
 14/02/2013,GRE,Greece,11,1020,1033
 14/02/2013,ECU,Ecuador,12,999,1007
-14/02/2013,CIV,Côte d'Ivoire,13,999,996
+14/02/2013,CIV,CÃ´te d'Ivoire,13,999,996
 14/02/2013,SUI,Switzerland,14,993,1004
 14/02/2013,MEX,Mexico,15,968,994
 14/02/2013,URU,Uruguay,16,950,975
@@ -27138,7 +27138,7 @@ date,country_code,country_name,rank,points,previous_points
 14/02/2013,BLZ,Belize,134,240,110
 14/02/2013,VIE,Vietnam,135,239,242
 14/02/2013,CYP,Cyprus,136,232,248
-14/02/2013,STP,São Tomé e Príncipe,137,232,243
+14/02/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,137,232,243
 14/02/2013,MDA,Moldova,138,228,255
 14/02/2013,SYR,Syria,139,223,237
 14/02/2013,GRN,Grenada,140,222,222
@@ -27181,7 +27181,7 @@ date,country_code,country_name,rank,points,previous_points
 14/02/2013,BAH,Bahamas,177,66,66
 14/02/2013,GNB,Guinea-Bissau,178,66,66
 14/02/2013,MSR,Montserrat,179,66,66
-14/02/2013,CUW,Curaçao,180,65,65
+14/02/2013,CUW,CuraÃ§ao,180,65,65
 14/02/2013,SWZ,Swaziland,181,63,61
 14/02/2013,MAD,Madagascar,182,55,55
 14/02/2013,MNG,Mongolia,183,55,55
@@ -27224,7 +27224,7 @@ date,country_code,country_name,rank,points,previous_points
 14/03/2013,RUS,Russia,10,1064,1055
 14/03/2013,ECU,Ecuador,11,1037,999
 14/03/2013,GRE,Greece,12,1033,1020
-14/03/2013,CIV,Côte d'Ivoire,13,1022,999
+14/03/2013,CIV,CÃ´te d'Ivoire,13,1022,999
 14/03/2013,SUI,Switzerland,14,1019,993
 14/03/2013,MEX,Mexico,15,995,968
 14/03/2013,URU,Uruguay,16,950,950
@@ -27368,7 +27368,7 @@ date,country_code,country_name,rank,points,previous_points
 14/03/2013,FRO,Faroe Islands,154,151,151
 14/03/2013,NCA,Nicaragua,155,150,187
 14/03/2013,MYA,Myanmar,156,147,107
-14/03/2013,STP,São Tomé e Príncipe,157,144,232
+14/03/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,157,144,232
 14/03/2013,LIE,Liechtenstein,158,143,153
 14/03/2013,BAN,Bangladesh,159,143,90
 14/03/2013,HKG,Hong Kong,160,141,143
@@ -27394,7 +27394,7 @@ date,country_code,country_name,rank,points,previous_points
 14/03/2013,GUM,Guam,180,66,53
 14/03/2013,MSR,Montserrat,181,66,66
 14/03/2013,BAH,Bahamas,182,66,66
-14/03/2013,CUW,Curaçao,183,65,65
+14/03/2013,CUW,CuraÃ§ao,183,65,65
 14/03/2013,SWZ,Swaziland,184,63,63
 14/03/2013,GNB,Guinea-Bissau,185,63,66
 14/03/2013,CAM,Cambodia,186,58,53
@@ -27433,7 +27433,7 @@ date,country_code,country_name,rank,points,previous_points
 11/04/2013,NED,Netherlands,9,1093,1106
 11/04/2013,ECU,Ecuador,10,1056,1037
 11/04/2013,RUS,Russia,11,1052,1064
-11/04/2013,CIV,Côte d'Ivoire,12,1008,1022
+11/04/2013,CIV,CÃ´te d'Ivoire,12,1008,1022
 11/04/2013,GRE,Greece,13,986,1033
 11/04/2013,MEX,Mexico,14,971,995
 11/04/2013,SUI,Switzerland,15,967,1019
@@ -27582,7 +27582,7 @@ date,country_code,country_name,rank,points,previous_points
 11/04/2013,MLT,Malta,158,153,166
 11/04/2013,MDV,Maldives,159,152,136
 11/04/2013,NCA,Nicaragua,160,150,150
-11/04/2013,STP,São Tomé e Príncipe,161,144,144
+11/04/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,161,144,144
 11/04/2013,FRO,Faroe Islands,162,143,151
 11/04/2013,SOL,Solomon Islands,163,142,166
 11/04/2013,MAS,Malaysia,164,141,129
@@ -27605,7 +27605,7 @@ date,country_code,country_name,rank,points,previous_points
 11/04/2013,BAH,Bahamas,181,66,66
 11/04/2013,MSR,Montserrat,182,66,66
 11/04/2013,GNB,Guinea-Bissau,183,66,63
-11/04/2013,CUW,Curaçao,184,65,65
+11/04/2013,CUW,CuraÃ§ao,184,65,65
 11/04/2013,SWZ,Swaziland,185,65,63
 11/04/2013,GUM,Guam,186,65,66
 11/04/2013,BRU,Brunei Darussalam,187,52,52
@@ -27643,7 +27643,7 @@ date,country_code,country_name,rank,points,previous_points
 09/05/2013,NED,Netherlands,9,1093,1093
 09/05/2013,ECU,Ecuador,10,1058,1056
 09/05/2013,RUS,Russia,11,1052,1052
-09/05/2013,CIV,Côte d'Ivoire,12,1008,1008
+09/05/2013,CIV,CÃ´te d'Ivoire,12,1008,1008
 09/05/2013,GRE,Greece,13,986,986
 09/05/2013,SUI,Switzerland,14,967,967
 09/05/2013,BEL,Belgium,15,953,953
@@ -27792,7 +27792,7 @@ date,country_code,country_name,rank,points,previous_points
 09/05/2013,NCA,Nicaragua,158,150,150
 09/05/2013,MYA,Myanmar,159,149,155
 09/05/2013,MDV,Maldives,160,146,152
-09/05/2013,STP,São Tomé e Príncipe,161,144,144
+09/05/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,161,144,144
 09/05/2013,FRO,Faroe Islands,162,143,143
 09/05/2013,MAS,Malaysia,163,143,141
 09/05/2013,SOL,Solomon Islands,164,142,142
@@ -27814,7 +27814,7 @@ date,country_code,country_name,rank,points,previous_points
 09/05/2013,BAH,Bahamas,180,66,66
 09/05/2013,GNB,Guinea-Bissau,181,66,66
 09/05/2013,MSR,Montserrat,182,66,66
-09/05/2013,CUW,Curaçao,183,65,65
+09/05/2013,CUW,CuraÃ§ao,183,65,65
 09/05/2013,GUM,Guam,184,65,65
 09/05/2013,SWZ,Swaziland,185,65,65
 09/05/2013,MNG,Mongolia,186,61,67
@@ -27854,7 +27854,7 @@ date,country_code,country_name,rank,points,previous_points
 06/06/2013,ECU,Ecuador,10,1066,1058
 06/06/2013,RUS,Russia,11,1059,1052
 06/06/2013,BEL,Belgium,12,1035,953
-06/06/2013,CIV,Côte d'Ivoire,13,1022,1008
+06/06/2013,CIV,CÃ´te d'Ivoire,13,1022,1008
 06/06/2013,SUI,Switzerland,14,1010,967
 06/06/2013,BIH,Bosnia and Herzegovina,15,1008,896
 06/06/2013,GRE,Greece,16,1006,986
@@ -28002,7 +28002,7 @@ date,country_code,country_name,rank,points,previous_points
 06/06/2013,MDV,Maldives,158,146,146
 06/06/2013,LIE,Liechtenstein,159,145,182
 06/06/2013,MAS,Malaysia,160,144,143
-06/06/2013,STP,São Tomé e Príncipe,161,144,144
+06/06/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,161,144,144
 06/06/2013,BER,Bermuda,162,139,139
 06/06/2013,FRO,Faroe Islands,163,138,143
 06/06/2013,GAM,Gambia,164,138,187
@@ -28020,7 +28020,7 @@ date,country_code,country_name,rank,points,previous_points
 06/06/2013,TPE,Chinese Taipei,176,90,90
 06/06/2013,BAH,Bahamas,177,66,66
 06/06/2013,MSR,Montserrat,178,66,66
-06/06/2013,CUW,Curaçao,179,65,65
+06/06/2013,CUW,CuraÃ§ao,179,65,65
 06/06/2013,GUM,Guam,180,65,65
 06/06/2013,SWZ,Swaziland,181,65,65
 06/06/2013,GNB,Guinea-Bissau,182,62,66
@@ -28064,7 +28064,7 @@ date,country_code,country_name,rank,points,previous_points
 04/07/2013,BEL,Belgium,10,1079,1035
 04/07/2013,GRE,Greece,11,1038,1006
 04/07/2013,URU,Uruguay,12,1016,913
-04/07/2013,CIV,Côte d'Ivoire,13,1009,1022
+04/07/2013,CIV,CÃ´te d'Ivoire,13,1009,1022
 04/07/2013,BIH,Bosnia and Herzegovina,14,995,1008
 04/07/2013,ENG,England,15,994,1095
 04/07/2013,SUI,Switzerland,16,987,1010
@@ -28218,7 +28218,7 @@ date,country_code,country_name,rank,points,previous_points
 04/07/2013,MYA,Myanmar,164,129,149
 04/07/2013,GAM,Gambia,165,126,138
 04/07/2013,DMA,Dominica,166,124,124
-04/07/2013,STP,São Tomé e Príncipe,167,120,144
+04/07/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,167,120,144
 04/07/2013,PAK,Pakistan,168,114,118
 04/07/2013,IDN,Indonesia,169,112,116
 04/07/2013,NEP,Nepal,170,106,108
@@ -28230,7 +28230,7 @@ date,country_code,country_name,rank,points,previous_points
 04/07/2013,TPE,Chinese Taipei,176,77,90
 04/07/2013,GUM,Guam,177,70,65
 04/07/2013,MSR,Montserrat,178,66,66
-04/07/2013,CUW,Curaçao,179,65,65
+04/07/2013,CUW,CuraÃ§ao,179,65,65
 04/07/2013,SWZ,Swaziland,180,60,65
 04/07/2013,GNB,Guinea-Bissau,181,58,62
 04/07/2013,BAH,Bahamas,182,53,66
@@ -28279,7 +28279,7 @@ date,country_code,country_name,rank,points,previous_points
 08/08/2013,SUI,Switzerland,15,987,987
 08/08/2013,RUS,Russia,16,979,979
 08/08/2013,ECU,Ecuador,17,972,932
-08/08/2013,CIV,Côte d'Ivoire,18,962,1009
+08/08/2013,CIV,CÃ´te d'Ivoire,18,962,1009
 08/08/2013,USA,USA,19,960,865
 08/08/2013,MEX,Mexico,20,879,880
 08/08/2013,CHI,Chile,21,871,872
@@ -28427,7 +28427,7 @@ date,country_code,country_name,rank,points,previous_points
 08/08/2013,MAS,Malaysia,163,133,136
 08/08/2013,GAM,Gambia,164,124,126
 08/08/2013,DMA,Dominica,165,124,124
-08/08/2013,STP,São Tomé e Príncipe,166,120,120
+08/08/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,166,120,120
 08/08/2013,MYA,Myanmar,167,120,129
 08/08/2013,ARU,Aruba,168,114,163
 08/08/2013,PAK,Pakistan,169,114,114
@@ -28443,7 +28443,7 @@ date,country_code,country_name,rank,points,previous_points
 08/08/2013,VAN,Vanuatu,179,67,43
 08/08/2013,MSR,Montserrat,180,66,66
 08/08/2013,SWZ,Swaziland,181,62,60
-08/08/2013,CUW,Curaçao,182,61,65
+08/08/2013,CUW,CuraÃ§ao,182,61,65
 08/08/2013,GNB,Guinea-Bissau,183,58,58
 08/08/2013,BRU,Brunei Darussalam,184,52,52
 08/08/2013,TLS,Timor-Leste,185,52,52
@@ -28490,7 +28490,7 @@ date,country_code,country_name,rank,points,previous_points
 12/09/2013,CHI,Chile,16,967,871
 12/09/2013,ENG,England,17,947,994
 12/09/2013,BIH,Bosnia and Herzegovina,18,934,995
-12/09/2013,CIV,Côte d'Ivoire,19,902,962
+12/09/2013,CIV,CÃ´te d'Ivoire,19,902,962
 12/09/2013,ECU,Ecuador,20,851,972
 12/09/2013,MEX,Mexico,21,837,879
 12/09/2013,SWE,Sweden,22,836,765
@@ -28635,7 +28635,7 @@ date,country_code,country_name,rank,points,previous_points
 12/09/2013,PUR,Puerto Rico,161,129,241
 12/09/2013,MAS,Malaysia,162,128,133
 12/09/2013,MYA,Myanmar,163,124,120
-12/09/2013,STP,São Tomé e Príncipe,164,120,120
+12/09/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,164,120,120
 12/09/2013,NEP,Nepal,165,120,95
 12/09/2013,ARU,Aruba,166,114,114
 12/09/2013,BAN,Bangladesh,167,113,138
@@ -28646,7 +28646,7 @@ date,country_code,country_name,rank,points,previous_points
 12/09/2013,IDN,Indonesia,172,102,99
 12/09/2013,LAO,Laos,173,84,84
 12/09/2013,YEM,Yemen,174,80,83
-12/09/2013,CUW,Curaçao,175,72,61
+12/09/2013,CUW,CuraÃ§ao,175,72,61
 12/09/2013,TPE,Chinese Taipei,176,70,75
 12/09/2013,GUM,Guam,177,70,71
 12/09/2013,SAM,Samoa,178,62,46
@@ -28698,7 +28698,7 @@ date,country_code,country_name,rank,points,previous_points
 17/10/2013,POR,Portugal,14,1036,1029
 17/10/2013,GRE,Greece,15,983,1016
 17/10/2013,BIH,Bosnia and Herzegovina,16,925,934
-17/10/2013,CIV,Côte d'Ivoire,17,917,902
+17/10/2013,CIV,CÃ´te d'Ivoire,17,917,902
 17/10/2013,CRO,Croatia,18,901,1051
 17/10/2013,RUS,Russia,19,874,968
 17/10/2013,UKR,Ukraine,20,871,799
@@ -28845,14 +28845,14 @@ date,country_code,country_name,rank,points,previous_points
 17/10/2013,MAS,Malaysia,161,137,128
 17/10/2013,BER,Bermuda,162,127,139
 17/10/2013,IDN,Indonesia,163,120,102
-17/10/2013,STP,São Tomé e Príncipe,164,120,120
+17/10/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,164,120,120
 17/10/2013,BAN,Bangladesh,165,120,113
 17/10/2013,NEP,Nepal,166,119,120
 17/10/2013,SRI,Sri Lanka,167,108,108
 17/10/2013,LAO,Laos,168,105,84
 17/10/2013,PAK,Pakistan,169,102,102
 17/10/2013,DMA,Dominica,170,89,112
-17/10/2013,CUW,Curaçao,171,88,72
+17/10/2013,CUW,CuraÃ§ao,171,88,72
 17/10/2013,SOL,Solomon Islands,172,86,105
 17/10/2013,GUM,Guam,173,86,70
 17/10/2013,BRB,Barbados,174,82,157
@@ -28908,7 +28908,7 @@ date,country_code,country_name,rank,points,previous_points
 28/11/2013,USA,USA,14,1019,1040
 28/11/2013,CHI,Chile,15,1014,1051
 28/11/2013,CRO,Croatia,16,971,901
-28/11/2013,CIV,Côte d'Ivoire,17,918,917
+28/11/2013,CIV,CÃ´te d'Ivoire,17,918,917
 28/11/2013,UKR,Ukraine,18,907,871
 28/11/2013,FRA,France,19,893,870
 28/11/2013,MEX,Mexico,20,892,854
@@ -29047,7 +29047,7 @@ date,country_code,country_name,rank,points,previous_points
 28/11/2013,LIE,Liechtenstein,153,141,141
 28/11/2013,PUR,Puerto Rico,154,141,139
 28/11/2013,SIN,Singapore,155,140,149
-28/11/2013,STP,São Tomé e Príncipe,156,139,120
+28/11/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,156,139,120
 28/11/2013,BAN,Bangladesh,157,137,120
 28/11/2013,BLZ,Belize,158,136,178
 28/11/2013,MAS,Malaysia,159,132,137
@@ -29067,7 +29067,7 @@ date,country_code,country_name,rank,points,previous_points
 28/11/2013,BER,Bermuda,173,83,127
 28/11/2013,ARU,Aruba,174,82,82
 28/11/2013,TPE,Chinese Taipei,175,81,79
-28/11/2013,CUW,Curaçao,176,67,88
+28/11/2013,CUW,CuraÃ§ao,176,67,88
 28/11/2013,DMA,Dominica,177,67,89
 28/11/2013,YEM,Yemen,178,64,72
 28/11/2013,MRI,Mauritius,179,62,62
@@ -29118,7 +29118,7 @@ date,country_code,country_name,rank,points,previous_points
 19/12/2013,USA,USA,14,1019,1019
 19/12/2013,CHI,Chile,15,1014,1014
 19/12/2013,CRO,Croatia,16,971,971
-19/12/2013,CIV,Côte d'Ivoire,17,918,918
+19/12/2013,CIV,CÃ´te d'Ivoire,17,918,918
 19/12/2013,UKR,Ukraine,18,907,907
 19/12/2013,BIH,Bosnia and Herzegovina,19,899,886
 19/12/2013,FRA,France,20,893,893
@@ -29260,7 +29260,7 @@ date,country_code,country_name,rank,points,previous_points
 19/12/2013,PUR,Puerto Rico,156,141,141
 19/12/2013,MAS,Malaysia,157,141,132
 19/12/2013,IND,India,158,141,149
-19/12/2013,STP,São Tomé e Príncipe,159,139,139
+19/12/2013,STP,SÃ£o TomÃ© e PrÃ­ncipe,159,139,139
 19/12/2013,BLZ,Belize,160,136,136
 19/12/2013,NCA,Nicaragua,161,130,130
 19/12/2013,GUM,Guam,162,123,93
@@ -29280,7 +29280,7 @@ date,country_code,country_name,rank,points,previous_points
 19/12/2013,BER,Bermuda,176,83,83
 19/12/2013,SEY,Seychelles,177,67,15
 19/12/2013,MRI,Mauritius,178,66,62
-19/12/2013,CUW,Curaçao,179,65,67
+19/12/2013,CUW,CuraÃ§ao,179,65,67
 19/12/2013,YEM,Yemen,180,54,64
 19/12/2013,VAN,Vanuatu,181,53,53
 19/12/2013,MNG,Mongolia,182,49,49
@@ -29328,7 +29328,7 @@ date,country_code,country_name,rank,points,previous_points
 16/01/2014,USA,USA,14,1019,1019
 16/01/2014,CHI,Chile,15,1005,1014
 16/01/2014,CRO,Croatia,16,971,971
-16/01/2014,CIV,Côte d'Ivoire,17,912,918
+16/01/2014,CIV,CÃ´te d'Ivoire,17,912,918
 16/01/2014,UKR,Ukraine,18,907,907
 16/01/2014,BIH,Bosnia and Herzegovina,19,899,899
 16/01/2014,FRA,France,20,893,893
@@ -29472,7 +29472,7 @@ date,country_code,country_name,rank,points,previous_points
 16/01/2014,IND,India,158,141,141
 16/01/2014,PUR,Puerto Rico,159,141,141
 16/01/2014,NCA,Nicaragua,160,137,130
-16/01/2014,STP,São Tomé e Príncipe,161,126,139
+16/01/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,161,126,139
 16/01/2014,IDN,Indonesia,162,124,123
 16/01/2014,GUM,Guam,163,123,123
 16/01/2014,MDV,Maldives,164,120,120
@@ -29490,7 +29490,7 @@ date,country_code,country_name,rank,points,previous_points
 16/01/2014,BER,Bermuda,176,83,83
 16/01/2014,SEY,Seychelles,177,67,67
 16/01/2014,MRI,Mauritius,178,66,66
-16/01/2014,CUW,Curaçao,179,65,65
+16/01/2014,CUW,CuraÃ§ao,179,65,65
 16/01/2014,VAN,Vanuatu,180,53,53
 16/01/2014,YEM,Yemen,181,50,54
 16/01/2014,MNG,Mongolia,182,49,49
@@ -29544,7 +29544,7 @@ date,country_code,country_name,rank,points,previous_points
 13/02/2014,DEN,Denmark,20,907,831
 13/02/2014,MEX,Mexico,21,887,892
 13/02/2014,RUS,Russia,22,862,870
-13/02/2014,CIV,Côte d'Ivoire,23,841,912
+13/02/2014,CIV,CÃ´te d'Ivoire,23,841,912
 13/02/2014,ECU,Ecuador,24,831,852
 13/02/2014,SWE,Sweden,25,821,793
 13/02/2014,ALG,Algeria,26,819,792
@@ -29683,7 +29683,7 @@ date,country_code,country_name,rank,points,previous_points
 13/02/2014,IDN,Indonesia,159,135,124
 13/02/2014,MTN,Mauritania,160,127,161
 13/02/2014,GUM,Guam,161,123,123
-13/02/2014,STP,São Tomé e Príncipe,162,122,126
+13/02/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,162,122,126
 13/02/2014,CHA,Chad,163,121,116
 13/02/2014,MDV,Maldives,164,120,120
 13/02/2014,BAN,Bangladesh,165,116,116
@@ -29700,7 +29700,7 @@ date,country_code,country_name,rank,points,previous_points
 13/02/2014,BER,Bermuda,176,83,83
 13/02/2014,SEY,Seychelles,177,67,67
 13/02/2014,MRI,Mauritius,178,66,66
-13/02/2014,CUW,Curaçao,179,65,65
+13/02/2014,CUW,CuraÃ§ao,179,65,65
 13/02/2014,VAN,Vanuatu,180,55,53
 13/02/2014,MNG,Mongolia,181,49,49
 13/02/2014,FIJ,Fiji,182,47,47
@@ -29755,7 +29755,7 @@ date,country_code,country_name,rank,points,previous_points
 13/03/2014,BIH,Bosnia and Herzegovina,21,863,919
 13/03/2014,DEN,Denmark,22,858,907
 13/03/2014,ECU,Ecuador,23,855,831
-13/03/2014,CIV,Côte d'Ivoire,24,839,841
+13/03/2014,CIV,CÃ´te d'Ivoire,24,839,841
 13/03/2014,ALG,Algeria,25,819,819
 13/03/2014,EGY,Egypt,26,790,729
 13/03/2014,SWE,Sweden,27,789,821
@@ -29898,7 +29898,7 @@ date,country_code,country_name,rank,points,previous_points
 13/03/2014,FRO,Faroe Islands,164,87,87
 13/03/2014,BAN,Bangladesh,165,87,116
 13/03/2014,SOL,Solomon Islands,166,86,86
-13/03/2014,STP,São Tomé e Príncipe,167,86,122
+13/03/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,167,86,122
 13/03/2014,PLE,Palestine,168,85,170
 13/03/2014,NCA,Nicaragua,169,84,102
 13/03/2014,BER,Bermuda,170,83,83
@@ -29910,7 +29910,7 @@ date,country_code,country_name,rank,points,previous_points
 13/03/2014,SRI,Sri Lanka,176,68,90
 13/03/2014,MRI,Mauritius,177,66,66
 13/03/2014,SEY,Seychelles,178,66,67
-13/03/2014,CUW,Curaçao,179,65,65
+13/03/2014,CUW,CuraÃ§ao,179,65,65
 13/03/2014,SWZ,Swaziland,180,63,40
 13/03/2014,VAN,Vanuatu,181,55,55
 13/03/2014,FIJ,Fiji,182,47,47
@@ -29962,7 +29962,7 @@ date,country_code,country_name,rank,points,previous_points
 10/04/2014,RUS,Russia,18,903,889
 10/04/2014,MEX,Mexico,19,876,888
 10/04/2014,CRO,Croatia,20,871,955
-10/04/2014,CIV,Côte d'Ivoire,21,830,839
+10/04/2014,CIV,CÃ´te d'Ivoire,21,830,839
 10/04/2014,SCO,Scotland,22,825,721
 10/04/2014,DEN,Denmark,23,819,858
 10/04/2014,EGY,Egypt,24,798,790
@@ -30108,7 +30108,7 @@ date,country_code,country_name,rank,points,previous_points
 10/04/2014,BAN,Bangladesh,164,98,87
 10/04/2014,PLE,Palestine,165,91,85
 10/04/2014,FRO,Faroe Islands,166,91,87
-10/04/2014,STP,São Tomé e Príncipe,167,86,86
+10/04/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,167,86,86
 10/04/2014,NCA,Nicaragua,168,84,84
 10/04/2014,BER,Bermuda,169,83,83
 10/04/2014,CHA,Chad,170,80,81
@@ -30120,7 +30120,7 @@ date,country_code,country_name,rank,points,previous_points
 10/04/2014,MYA,Myanmar,176,73,68
 10/04/2014,MRI,Mauritius,177,67,66
 10/04/2014,SEY,Seychelles,178,66,66
-10/04/2014,CUW,Curaçao,179,65,65
+10/04/2014,CUW,CuraÃ§ao,179,65,65
 10/04/2014,SWZ,Swaziland,180,64,63
 10/04/2014,YEM,Yemen,181,60,40
 10/04/2014,VAN,Vanuatu,182,55,55
@@ -30172,7 +30172,7 @@ date,country_code,country_name,rank,points,previous_points
 08/05/2014,RUS,Russia,18,903,903
 08/05/2014,MEX,Mexico,19,877,876
 08/05/2014,CRO,Croatia,20,871,871
-08/05/2014,CIV,Côte d'Ivoire,21,830,830
+08/05/2014,CIV,CÃ´te d'Ivoire,21,830,830
 08/05/2014,SCO,Scotland,22,825,825
 08/05/2014,DEN,Denmark,23,819,819
 08/05/2014,EGY,Egypt,24,798,798
@@ -30319,7 +30319,7 @@ date,country_code,country_name,rank,points,previous_points
 08/05/2014,FRO,Faroe Islands,165,91,91
 08/05/2014,CHA,Chad,166,88,80
 08/05/2014,PLE,Palestine,167,88,91
-08/05/2014,STP,São Tomé e Príncipe,168,86,86
+08/05/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,168,86,86
 08/05/2014,NCA,Nicaragua,169,84,84
 08/05/2014,BER,Bermuda,170,83,83
 08/05/2014,TPE,Chinese Taipei,171,78,78
@@ -30329,7 +30329,7 @@ date,country_code,country_name,rank,points,previous_points
 08/05/2014,LAO,Laos,175,73,73
 08/05/2014,MYA,Myanmar,176,73,73
 08/05/2014,SEY,Seychelles,177,66,66
-08/05/2014,CUW,Curaçao,178,65,65
+08/05/2014,CUW,CuraÃ§ao,178,65,65
 08/05/2014,SWZ,Swaziland,179,64,64
 08/05/2014,YEM,Yemen,180,63,60
 08/05/2014,MRI,Mauritius,181,55,67
@@ -30385,7 +30385,7 @@ date,country_code,country_name,rank,points,previous_points
 05/06/2014,BIH,Bosnia and Herzegovina,21,873,795
 05/06/2014,ALG,Algeria,22,858,795
 05/06/2014,DEN,Denmark,23,809,819
-05/06/2014,CIV,Côte d'Ivoire,24,809,830
+05/06/2014,CIV,CÃ´te d'Ivoire,24,809,830
 05/06/2014,SVN,Slovenia,25,800,787
 05/06/2014,ECU,Ecuador,26,791,794
 05/06/2014,SCO,Scotland,27,786,825
@@ -30534,7 +30534,7 @@ date,country_code,country_name,rank,points,previous_points
 05/06/2014,DMA,Dominica,170,93,93
 05/06/2014,BRB,Barbados,171,92,101
 05/06/2014,FRO,Faroe Islands,172,89,91
-05/06/2014,STP,São Tomé e Príncipe,173,86,86
+05/06/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,173,86,86
 05/06/2014,SWZ,Swaziland,174,85,64
 05/06/2014,COM,Comoros,175,84,43
 05/06/2014,BER,Bermuda,176,83,83
@@ -30544,7 +30544,7 @@ date,country_code,country_name,rank,points,previous_points
 05/06/2014,SRI,Sri Lanka,180,73,73
 05/06/2014,SOL,Solomon Islands,181,70,75
 05/06/2014,SEY,Seychelles,182,66,66
-05/06/2014,CUW,Curaçao,183,65,65
+05/06/2014,CUW,CuraÃ§ao,183,65,65
 05/06/2014,YEM,Yemen,184,61,63
 05/06/2014,MRI,Mauritius,185,57,55
 05/06/2014,SSD,South Sudan,186,47,10
@@ -30596,7 +30596,7 @@ date,country_code,country_name,rank,points,previous_points
 17/07/2014,UKR,Ukraine,22,898,915
 17/07/2014,RUS,Russia,23,897,893
 17/07/2014,ALG,Algeria,24,872,858
-17/07/2014,CIV,Côte d'Ivoire,25,850,809
+17/07/2014,CIV,CÃ´te d'Ivoire,25,850,809
 17/07/2014,DEN,Denmark,26,807,809
 17/07/2014,SCO,Scotland,27,734,786
 17/07/2014,ROU,Romania,28,733,761
@@ -30749,13 +30749,13 @@ date,country_code,country_name,rank,points,previous_points
 17/07/2014,GUM,Guam,175,79,77
 17/07/2014,NCA,Nicaragua,176,78,78
 17/07/2014,SOL,Solomon Islands,177,78,70
-17/07/2014,STP,São Tomé e Príncipe,178,72,86
+17/07/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,178,72,86
 17/07/2014,SRI,Sri Lanka,179,71,73
 17/07/2014,TPE,Chinese Taipei,180,71,78
 17/07/2014,YEM,Yemen,181,70,61
 17/07/2014,TCA,Turks and Caicos Islands,182,66,0
 17/07/2014,SEY,Seychelles,183,64,66
-17/07/2014,CUW,Curaçao,184,63,65
+17/07/2014,CUW,CuraÃ§ao,184,63,65
 17/07/2014,FRO,Faroe Islands,185,61,89
 17/07/2014,MRI,Mauritius,186,56,57
 17/07/2014,SSD,South Sudan,187,43,47
@@ -30806,7 +30806,7 @@ date,country_code,country_name,rank,points,previous_points
 14/08/2014,UKR,Ukraine,22,901,898
 14/08/2014,RUS,Russia,23,899,897
 14/08/2014,ALG,Algeria,24,880,872
-14/08/2014,CIV,Côte d'Ivoire,25,840,850
+14/08/2014,CIV,CÃ´te d'Ivoire,25,840,850
 14/08/2014,DEN,Denmark,26,818,807
 14/08/2014,ROU,Romania,27,740,733
 14/08/2014,SCO,Scotland,28,738,734
@@ -30959,12 +30959,12 @@ date,country_code,country_name,rank,points,previous_points
 14/08/2014,BER,Bermuda,175,83,83
 14/08/2014,NCA,Nicaragua,176,78,78
 14/08/2014,COM,Comoros,177,78,84
-14/08/2014,STP,São Tomé e Príncipe,178,72,72
+14/08/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,178,72,72
 14/08/2014,SRI,Sri Lanka,179,71,71
 14/08/2014,TPE,Chinese Taipei,180,70,71
 14/08/2014,SEY,Seychelles,181,68,64
 14/08/2014,TCA,Turks and Caicos Islands,182,66,66
-14/08/2014,CUW,Curaçao,183,63,63
+14/08/2014,CUW,CuraÃ§ao,183,63,63
 14/08/2014,FRO,Faroe Islands,184,61,61
 14/08/2014,YEM,Yemen,185,59,70
 14/08/2014,SSD,South Sudan,186,43,43
@@ -31013,7 +31013,7 @@ date,country_code,country_name,rank,points,previous_points
 18/09/2014,CRO,Croatia,19,928,964
 18/09/2014,ALG,Algeria,20,926,880
 18/09/2014,ECU,Ecuador,21,889,910
-18/09/2014,CIV,Côte d'Ivoire,22,879,840
+18/09/2014,CIV,CÃ´te d'Ivoire,22,879,840
 18/09/2014,RUS,Russia,23,875,899
 18/09/2014,UKR,Ukraine,24,855,901
 18/09/2014,BIH,Bosnia and Herzegovina,25,851,925
@@ -31140,7 +31140,7 @@ date,country_code,country_name,rank,points,previous_points
 18/09/2014,MDV,Maldives,146,183,174
 18/09/2014,MAD,Madagascar,147,180,179
 18/09/2014,SUR,Suriname,148,175,213
-18/09/2014,CUW,Curaçao,149,164,63
+18/09/2014,CUW,CuraÃ§ao,149,164,63
 18/09/2014,SIN,Singapore,150,163,140
 18/09/2014,PRK,Korea DPR,151,160,167
 18/09/2014,KGZ,Kyrgyzstan,152,158,176
@@ -31169,7 +31169,7 @@ date,country_code,country_name,rank,points,previous_points
 18/09/2014,COM,Comoros,175,80,78
 18/09/2014,PAK,Pakistan,176,77,100
 18/09/2014,SRI,Sri Lanka,177,76,71
-18/09/2014,STP,São Tomé e Príncipe,178,72,72
+18/09/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,178,72,72
 18/09/2014,TPE,Chinese Taipei,179,70,70
 18/09/2014,FRO,Faroe Islands,180,67,61
 18/09/2014,TCA,Turks and Caicos Islands,181,66,66
@@ -31226,7 +31226,7 @@ date,country_code,country_name,rank,points,previous_points
 23/10/2014,CZE,Czech Republic,22,870,812
 23/10/2014,USA,USA,23,862,936
 23/10/2014,SVK,Slovakia,24,861,616
-23/10/2014,CIV,Côte d'Ivoire,25,842,879
+23/10/2014,CIV,CÃ´te d'Ivoire,25,842,879
 23/10/2014,BIH,Bosnia and Herzegovina,26,837,851
 23/10/2014,ECU,Ecuador,27,826,889
 23/10/2014,ISL,Iceland,28,816,646
@@ -31349,7 +31349,7 @@ date,country_code,country_name,rank,points,previous_points
 23/10/2014,CTA,Central African Republic,145,178,209
 23/10/2014,GRN,Grenada,146,176,209
 23/10/2014,BRB,Barbados,147,172,112
-23/10/2014,CUW,Curaçao,148,171,164
+23/10/2014,CUW,CuraÃ§ao,148,171,164
 23/10/2014,PRK,Korea DPR,149,168,160
 23/10/2014,SUR,Suriname,150,167,175
 23/10/2014,KGZ,Kyrgyzstan,151,158,158
@@ -31377,7 +31377,7 @@ date,country_code,country_name,rank,points,previous_points
 23/10/2014,BER,Bermuda,173,80,83
 23/10/2014,COM,Comoros,174,80,80
 23/10/2014,SRI,Sri Lanka,175,76,76
-23/10/2014,STP,São Tomé e Príncipe,176,72,72
+23/10/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,176,72,72
 23/10/2014,BAN,Bangladesh,177,68,65
 23/10/2014,TCA,Turks and Caicos Islands,178,66,66
 23/10/2014,YEM,Yemen,179,62,58
@@ -31435,7 +31435,7 @@ date,country_code,country_name,rank,points,previous_points
 27/11/2014,SVK,Slovakia,21,891,861
 27/11/2014,TUN,Tunisia,22,867,780
 27/11/2014,AUT,Austria,23,863,810
-27/11/2014,CIV,Côte d'Ivoire,24,861,842
+27/11/2014,CIV,CÃ´te d'Ivoire,24,861,842
 27/11/2014,GRE,Greece,25,856,946
 27/11/2014,UKR,Ukraine,26,854,920
 27/11/2014,ECU,Ecuador,27,852,826
@@ -31568,7 +31568,7 @@ date,country_code,country_name,rank,points,previous_points
 27/11/2014,KGZ,Kyrgyzstan,154,146,158
 27/11/2014,NCL,New Caledonia,155,142,142
 27/11/2014,MAS,Malaysia,156,137,134
-27/11/2014,CUW,Curaçao,157,127,171
+27/11/2014,CUW,CuraÃ§ao,157,127,171
 27/11/2014,IDN,Indonesia,158,126,129
 27/11/2014,SIN,Singapore,159,123,115
 27/11/2014,LAO,Laos,160,120,141
@@ -31583,7 +31583,7 @@ date,country_code,country_name,rank,points,previous_points
 27/11/2014,MSR,Montserrat,169,86,86
 27/11/2014,SRI,Sri Lanka,170,85,76
 27/11/2014,IND,India,171,84,119
-27/11/2014,STP,São Tomé e Príncipe,172,84,72
+27/11/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,172,84,72
 27/11/2014,GUY,Guyana,173,84,148
 27/11/2014,COM,Comoros,174,77,80
 27/11/2014,YEM,Yemen,175,75,62
@@ -31649,7 +31649,7 @@ date,country_code,country_name,rank,points,previous_points
 18/12/2014,UKR,Ukraine,25,854,854
 18/12/2014,ECU,Ecuador,26,852,852
 18/12/2014,USA,USA,27,836,836
-18/12/2014,CIV,Côte d'Ivoire,28,833,861
+18/12/2014,CIV,CÃ´te d'Ivoire,28,833,861
 18/12/2014,BIH,Bosnia and Herzegovina,29,817,808
 18/12/2014,DEN,Denmark,30,804,804
 18/12/2014,RUS,Russia,31,789,789
@@ -31780,7 +31780,7 @@ date,country_code,country_name,rank,points,previous_points
 18/12/2014,GRN,Grenada,156,137,147
 18/12/2014,HKG,Hong Kong,157,134,120
 18/12/2014,SIN,Singapore,158,131,123
-18/12/2014,CUW,Curaçao,159,125,127
+18/12/2014,CUW,CuraÃ§ao,159,125,127
 18/12/2014,IDN,Indonesia,160,123,126
 18/12/2014,LAO,Laos,161,121,120
 18/12/2014,GUM,Guam,162,119,105
@@ -31792,7 +31792,7 @@ date,country_code,country_name,rank,points,previous_points
 18/12/2014,GUY,Guyana,168,92,84
 18/12/2014,GAM,Gambia,169,90,90
 18/12/2014,MSR,Montserrat,170,86,86
-18/12/2014,STP,São Tomé e Príncipe,171,84,84
+18/12/2014,STP,SÃ£o TomÃ© e PrÃ­ncipe,171,84,84
 18/12/2014,IND,India,172,79,84
 18/12/2014,SRI,Sri Lanka,173,78,85
 18/12/2014,COM,Comoros,174,75,77
@@ -31859,7 +31859,7 @@ date,country_code,country_name,rank,points,previous_points
 08/01/2015,UKR,Ukraine,25,854,854
 08/01/2015,ECU,Ecuador,26,852,852
 08/01/2015,USA,USA,27,836,836
-08/01/2015,CIV,Côte d'Ivoire,28,833,833
+08/01/2015,CIV,CÃ´te d'Ivoire,28,833,833
 08/01/2015,BIH,Bosnia and Herzegovina,29,817,817
 08/01/2015,DEN,Denmark,30,804,804
 08/01/2015,RUS,Russia,31,789,789
@@ -31989,7 +31989,7 @@ date,country_code,country_name,rank,points,previous_points
 08/01/2015,GRN,Grenada,155,137,137
 08/01/2015,HKG,Hong Kong,156,134,134
 08/01/2015,SIN,Singapore,157,133,131
-08/01/2015,CUW,Curaçao,158,125,125
+08/01/2015,CUW,CuraÃ§ao,158,125,125
 08/01/2015,IDN,Indonesia,159,122,123
 08/01/2015,LAO,Laos,160,121,121
 08/01/2015,GUM,Guam,161,119,119
@@ -32001,7 +32001,7 @@ date,country_code,country_name,rank,points,previous_points
 08/01/2015,GUY,Guyana,167,92,92
 08/01/2015,GAM,Gambia,168,90,90
 08/01/2015,MSR,Montserrat,169,86,86
-08/01/2015,STP,São Tomé e Príncipe,170,84,84
+08/01/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,170,84,84
 08/01/2015,IND,India,171,79,79
 08/01/2015,SRI,Sri Lanka,172,78,78
 08/01/2015,COM,Comoros,173,75,75
@@ -32060,7 +32060,7 @@ date,country_code,country_name,rank,points,previous_points
 12/02/2015,CZE,Czech Republic,17,990,987
 12/02/2015,ALG,Algeria,18,981,948
 12/02/2015,CRO,Croatia,19,945,946
-12/02/2015,CIV,Côte d'Ivoire,20,932,833
+12/02/2015,CIV,CÃ´te d'Ivoire,20,932,833
 12/02/2015,MEX,Mexico,21,912,913
 12/02/2015,SVK,Slovakia,22,903,891
 12/02/2015,AUT,Austria,23,881,863
@@ -32200,7 +32200,7 @@ date,country_code,country_name,rank,points,previous_points
 12/02/2015,BAN,Bangladesh,157,129,103
 12/02/2015,IDN,Indonesia,158,128,122
 12/02/2015,HKG,Hong Kong,159,127,134
-12/02/2015,CUW,Curaçao,160,125,125
+12/02/2015,CUW,CuraÃ§ao,160,125,125
 12/02/2015,LAO,Laos,161,123,121
 12/02/2015,GUM,Guam,162,119,119
 12/02/2015,PUR,Puerto Rico,163,119,119
@@ -32215,7 +32215,7 @@ date,country_code,country_name,rank,points,previous_points
 12/02/2015,PAK,Pakistan,172,85,45
 12/02/2015,SRI,Sri Lanka,173,78,78
 12/02/2015,COM,Comoros,174,75,75
-12/02/2015,STP,São Tomé e Príncipe,175,75,84
+12/02/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,175,75,84
 12/02/2015,TCA,Turks and Caicos Islands,176,66,66
 12/02/2015,SEY,Seychelles,177,61,61
 12/02/2015,NCA,Nicaragua,178,61,75
@@ -32269,7 +32269,7 @@ date,country_code,country_name,rank,points,previous_points
 12/03/2015,ENG,England,17,1031,1028
 12/03/2015,ALG,Algeria,18,986,981
 12/03/2015,CRO,Croatia,19,963,945
-12/03/2015,CIV,Côte d'Ivoire,20,944,932
+12/03/2015,CIV,CÃ´te d'Ivoire,20,944,932
 12/03/2015,MEX,Mexico,21,935,912
 12/03/2015,SVK,Slovakia,22,932,903
 12/03/2015,AUT,Austria,23,916,881
@@ -32408,7 +32408,7 @@ date,country_code,country_name,rank,points,previous_points
 12/03/2015,IDN,Indonesia,156,129,128
 12/03/2015,HKG,Hong Kong,157,127,127
 12/03/2015,GRN,Grenada,158,126,137
-12/03/2015,CUW,Curaçao,159,125,125
+12/03/2015,CUW,CuraÃ§ao,159,125,125
 12/03/2015,PUR,Puerto Rico,160,119,119
 12/03/2015,SUR,Suriname,161,115,115
 12/03/2015,BAN,Bangladesh,162,112,129
@@ -32428,7 +32428,7 @@ date,country_code,country_name,rank,points,previous_points
 12/03/2015,TCA,Turks and Caicos Islands,176,66,66
 12/03/2015,COM,Comoros,177,64,75
 12/03/2015,SEY,Seychelles,178,60,61
-12/03/2015,STP,São Tomé e Príncipe,179,58,75
+12/03/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,179,58,75
 12/03/2015,NEP,Nepal,180,57,55
 12/03/2015,SMR,San Marino,181,55,55
 12/03/2015,CAM,Cambodia,182,55,53
@@ -32481,7 +32481,7 @@ date,country_code,country_name,rank,points,previous_points
 09/04/2015,SVK,Slovakia,20,920,932
 09/04/2015,ALG,Algeria,21,917,986
 09/04/2015,WAL,Wales,22,916,763
-09/04/2015,CIV,Côte d'Ivoire,23,907,944
+09/04/2015,CIV,CÃ´te d'Ivoire,23,907,944
 09/04/2015,GRE,Greece,24,900,872
 09/04/2015,AUT,Austria,25,891,916
 09/04/2015,GHA,Ghana,26,833,887
@@ -32606,7 +32606,7 @@ date,country_code,country_name,rank,points,previous_points
 09/04/2015,LIB,Lebanon,145,163,164
 09/04/2015,NZL,New Zealand,146,163,211
 09/04/2015,IND,India,147,161,74
-09/04/2015,CUW,Curaçao,148,159,125
+09/04/2015,CUW,CuraÃ§ao,148,159,125
 09/04/2015,MLT,Malta,149,158,168
 09/04/2015,MAD,Madagascar,150,156,163
 09/04/2015,CHA,Chad,151,155,155
@@ -32648,7 +32648,7 @@ date,country_code,country_name,rank,points,previous_points
 09/04/2015,COM,Comoros,187,65,64
 09/04/2015,SRI,Sri Lanka,188,65,73
 09/04/2015,SEY,Seychelles,189,60,60
-09/04/2015,STP,São Tomé e Príncipe,190,58,58
+09/04/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,190,58,58
 09/04/2015,CAY,Cayman Islands,191,48,5
 09/04/2015,SOL,Solomon Islands,192,46,53
 09/04/2015,SSD,South Sudan,193,43,43
@@ -32690,7 +32690,7 @@ date,country_code,country_name,rank,points,previous_points
 07/05/2015,ALG,Algeria,20,917,917
 07/05/2015,WAL,Wales,21,916,916
 07/05/2015,MEX,Mexico,22,908,937
-07/05/2015,CIV,Côte d'Ivoire,23,907,907
+07/05/2015,CIV,CÃ´te d'Ivoire,23,907,907
 07/05/2015,GRE,Greece,24,900,900
 07/05/2015,AUT,Austria,25,891,891
 07/05/2015,GHA,Ghana,26,833,833
@@ -32815,7 +32815,7 @@ date,country_code,country_name,rank,points,previous_points
 07/05/2015,LIB,Lebanon,145,163,163
 07/05/2015,NZL,New Zealand,146,163,163
 07/05/2015,IND,India,147,161,161
-07/05/2015,CUW,Curaçao,148,159,159
+07/05/2015,CUW,CuraÃ§ao,148,159,159
 07/05/2015,MLT,Malta,149,158,158
 07/05/2015,MAD,Madagascar,150,156,156
 07/05/2015,TLS,Timor-Leste,151,151,151
@@ -32857,7 +32857,7 @@ date,country_code,country_name,rank,points,previous_points
 07/05/2015,COM,Comoros,187,65,65
 07/05/2015,SRI,Sri Lanka,188,64,65
 07/05/2015,SEY,Seychelles,189,60,60
-07/05/2015,STP,São Tomé e Príncipe,190,58,58
+07/05/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,190,58,58
 07/05/2015,CAY,Cayman Islands,191,48,48
 07/05/2015,SOL,Solomon Islands,192,46,46
 07/05/2015,SSD,South Sudan,193,43,43
@@ -32900,7 +32900,7 @@ date,country_code,country_name,rank,points,previous_points
 04/06/2015,ALG,Algeria,21,941,917
 04/06/2015,WAL,Wales,22,929,916
 04/06/2015,MEX,Mexico,23,926,908
-04/06/2015,CIV,Côte d'Ivoire,24,916,907
+04/06/2015,CIV,CÃ´te d'Ivoire,24,916,907
 04/06/2015,GRE,Greece,25,899,900
 04/06/2015,RUS,Russia,26,833,828
 04/06/2015,USA,USA,27,823,825
@@ -33020,7 +33020,7 @@ date,country_code,country_name,rank,points,previous_points
 04/06/2015,CTA,Central African Republic,141,161,163
 04/06/2015,IND,India,142,161,161
 04/06/2015,MYA,Myanmar,143,160,133
-04/06/2015,CUW,Curaçao,144,159,159
+04/06/2015,CUW,CuraÃ§ao,144,159,159
 04/06/2015,MLT,Malta,145,154,158
 04/06/2015,TLS,Timor-Leste,146,151,151
 04/06/2015,PRK,Korea DPR,147,151,139
@@ -33064,7 +33064,7 @@ date,country_code,country_name,rank,points,previous_points
 04/06/2015,MAC,Macau,185,66,66
 04/06/2015,SRI,Sri Lanka,186,64,64
 04/06/2015,SEY,Seychelles,187,60,60
-04/06/2015,STP,São Tomé e Príncipe,188,58,58
+04/06/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,188,58,58
 04/06/2015,CAY,Cayman Islands,189,48,48
 04/06/2015,COM,Comoros,190,44,65
 04/06/2015,SOL,Solomon Islands,191,44,46
@@ -33106,7 +33106,7 @@ date,country_code,country_name,rank,points,previous_points
 09/07/2015,SUI,Switzerland,18,997,1146
 09/07/2015,ALG,Algeria,19,941,941
 09/07/2015,CZE,Czech Republic,20,933,1036
-09/07/2015,CIV,Côte d'Ivoire,21,917,916
+09/07/2015,CIV,CÃ´te d'Ivoire,21,917,916
 09/07/2015,FRA,France,22,882,1164
 09/07/2015,ISL,Iceland,23,877,769
 09/07/2015,DEN,Denmark,24,876,808
@@ -33234,7 +33234,7 @@ date,country_code,country_name,rank,points,previous_points
 09/07/2015,LUX,Luxembourg,146,187,201
 09/07/2015,LIE,Liechtenstein,147,182,207
 09/07/2015,TJK,Tajikistan,148,181,173
-09/07/2015,CUW,Curaçao,149,174,159
+09/07/2015,CUW,CuraÃ§ao,149,174,159
 09/07/2015,PUR,Puerto Rico,150,169,114
 09/07/2015,SIN,Singapore,151,169,136
 09/07/2015,TKM,Turkmenistan,152,167,99
@@ -33274,7 +33274,7 @@ date,country_code,country_name,rank,points,previous_points
 09/07/2015,SEY,Seychelles,186,52,60
 09/07/2015,COM,Comoros,187,51,44
 09/07/2015,TAH,Tahiti,188,50,71
-09/07/2015,STP,São Tomé e Príncipe,189,48,58
+09/07/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,189,48,58
 09/07/2015,CAY,Cayman Islands,190,48,48
 09/07/2015,SOL,Solomon Islands,191,44,44
 09/07/2015,SMR,San Marino,192,40,40
@@ -33315,7 +33315,7 @@ date,country_code,country_name,rank,points,previous_points
 06/08/2015,URU,Uruguay,18,988,1036
 06/08/2015,ALG,Algeria,19,941,941
 06/08/2015,CZE,Czech Republic,20,933,933
-06/08/2015,CIV,Côte d'Ivoire,21,912,917
+06/08/2015,CIV,CÃ´te d'Ivoire,21,912,917
 06/08/2015,ALB,Albania,22,888,722
 06/08/2015,FRA,France,23,882,882
 06/08/2015,ISL,Iceland,24,877,877
@@ -33442,7 +33442,7 @@ date,country_code,country_name,rank,points,previous_points
 06/08/2015,LUX,Luxembourg,145,187,187
 06/08/2015,GUM,Guam,146,185,163
 06/08/2015,LIE,Liechtenstein,147,182,182
-06/08/2015,CUW,Curaçao,148,173,174
+06/08/2015,CUW,CuraÃ§ao,148,173,174
 06/08/2015,TKM,Turkmenistan,149,172,167
 06/08/2015,PUR,Puerto Rico,150,169,169
 06/08/2015,HKG,Hong Kong,151,168,163
@@ -33483,7 +33483,7 @@ date,country_code,country_name,rank,points,previous_points
 06/08/2015,COM,Comoros,186,50,51
 06/08/2015,TAH,Tahiti,187,50,50
 06/08/2015,MAC,Macau,188,49,66
-06/08/2015,STP,São Tomé e Príncipe,189,48,48
+06/08/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,189,48,48
 06/08/2015,CAY,Cayman Islands,190,48,48
 06/08/2015,SOL,Solomon Islands,191,47,44
 06/08/2015,SMR,San Marino,192,40,40
@@ -33524,7 +33524,7 @@ date,country_code,country_name,rank,points,previous_points
 03/09/2015,URU,Uruguay,18,1002,988
 03/09/2015,ALG,Algeria,19,955,941
 03/09/2015,CZE,Czech Republic,20,940,933
-03/09/2015,CIV,Côte d'Ivoire,21,924,912
+03/09/2015,CIV,CÃ´te d'Ivoire,21,924,912
 03/09/2015,DEN,Denmark,22,901,876
 03/09/2015,ISL,Iceland,23,894,877
 03/09/2015,FRA,France,24,893,882
@@ -33651,7 +33651,7 @@ date,country_code,country_name,rank,points,previous_points
 03/09/2015,KAZ,Kazakhstan,145,184,193
 03/09/2015,GUM,Guam,146,182,185
 03/09/2015,GEO,Georgia,147,180,165
-03/09/2015,CUW,Curaçao,148,178,173
+03/09/2015,CUW,CuraÃ§ao,148,178,173
 03/09/2015,TKM,Turkmenistan,149,172,172
 03/09/2015,LIE,Liechtenstein,150,171,182
 03/09/2015,HKG,Hong Kong,151,169,168
@@ -33694,7 +33694,7 @@ date,country_code,country_name,rank,points,previous_points
 03/09/2015,CAY,Cayman Islands,188,49,48
 03/09/2015,SOL,Solomon Islands,189,49,47
 03/09/2015,COM,Comoros,190,48,50
-03/09/2015,STP,São Tomé e Príncipe,191,48,48
+03/09/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,191,48,48
 03/09/2015,SEY,Seychelles,192,43,56
 03/09/2015,SMR,San Marino,193,40,40
 03/09/2015,TCA,Turks and Caicos Islands,194,33,33
@@ -33733,7 +33733,7 @@ date,country_code,country_name,rank,points,previous_points
 01/10/2015,SVK,Slovakia,18,936,1013
 01/10/2015,ALG,Algeria,19,927,955
 01/10/2015,URU,Uruguay,20,919,1002
-01/10/2015,CIV,Côte d'Ivoire,21,916,924
+01/10/2015,CIV,CÃ´te d'Ivoire,21,916,924
 01/10/2015,FRA,France,22,899,893
 01/10/2015,ISL,Iceland,23,882,894
 01/10/2015,UKR,Ukraine,24,874,812
@@ -33864,7 +33864,7 @@ date,country_code,country_name,rank,points,previous_points
 01/10/2015,VIE,Vietnam,149,187,166
 01/10/2015,AFG,Afghanistan,150,183,226
 01/10/2015,GUM,Guam,151,183,182
-01/10/2015,CUW,Curaçao,152,181,178
+01/10/2015,CUW,CuraÃ§ao,152,181,178
 01/10/2015,HKG,Hong Kong,153,180,169
 01/10/2015,BRB,Barbados,154,175,186
 01/10/2015,TKM,Turkmenistan,155,172,172
@@ -33907,7 +33907,7 @@ date,country_code,country_name,rank,points,previous_points
 01/10/2015,CAY,Cayman Islands,192,49,49
 01/10/2015,COM,Comoros,193,48,48
 01/10/2015,MAC,Macau,194,48,49
-01/10/2015,STP,São Tomé e Príncipe,195,48,48
+01/10/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,195,48,48
 01/10/2015,SMR,San Marino,196,35,40
 01/10/2015,TCA,Turks and Caicos Islands,197,33,33
 01/10/2015,SOL,Solomon Islands,198,33,49
@@ -33943,7 +33943,7 @@ date,country_code,country_name,rank,points,previous_points
 05/11/2015,CRO,Croatia,19,924,965
 05/11/2015,BIH,Bosnia and Herzegovina,20,923,787
 05/11/2015,ECU,Ecuador,21,921,765
-05/11/2015,CIV,Côte d'Ivoire,22,890,916
+05/11/2015,CIV,CÃ´te d'Ivoire,22,890,916
 05/11/2015,RUS,Russia,23,885,845
 05/11/2015,MEX,Mexico,24,881,842
 05/11/2015,FRA,France,25,881,899
@@ -34071,14 +34071,14 @@ date,country_code,country_name,rank,points,previous_points
 05/11/2015,VIE,Vietnam,147,193,187
 05/11/2015,LES,Lesotho,148,193,201
 05/11/2015,DOM,Dominican Republic,149,187,290
-05/11/2015,CUW,Curaçao,150,182,181
+05/11/2015,CUW,CuraÃ§ao,150,182,181
 05/11/2015,BER,Bermuda,151,181,209
 05/11/2015,GUY,Guyana,152,179,210
 05/11/2015,SIN,Singapore,153,179,164
 05/11/2015,MDA,Moldova,154,177,239
 05/11/2015,GUM,Guam,155,170,183
 05/11/2015,AFG,Afghanistan,156,168,183
-05/11/2015,STP,São Tomé e Príncipe,157,165,48
+05/11/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,157,165,48
 05/11/2015,MLT,Malta,158,164,164
 05/11/2015,NZL,New Zealand,159,163,188
 05/11/2015,TJK,Tajikistan,160,159,156
@@ -34149,7 +34149,7 @@ date,country_code,country_name,rank,points,previous_points
 03/12/2015,ROU,Romania,16,980,1039
 03/12/2015,WAL,Wales,17,974,1032
 03/12/2015,CRO,Croatia,18,958,924
-03/12/2015,CIV,Côte d'Ivoire,19,950,890
+03/12/2015,CIV,CÃ´te d'Ivoire,19,950,890
 03/12/2015,HUN,Hungary,20,945,759
 03/12/2015,TUR,Turkey,21,933,941
 03/12/2015,BIH,Bosnia and Herzegovina,22,898,923
@@ -34281,12 +34281,12 @@ date,country_code,country_name,rank,points,previous_points
 03/12/2015,TJK,Tajikistan,148,196,159
 03/12/2015,SIN,Singapore,149,195,179
 03/12/2015,AFG,Afghanistan,150,194,168
-03/12/2015,CUW,Curaçao,151,192,182
+03/12/2015,CUW,CuraÃ§ao,151,192,182
 03/12/2015,NZL,New Zealand,152,192,163
 03/12/2015,LES,Lesotho,153,185,193
 03/12/2015,DOM,Dominican Republic,154,180,187
 03/12/2015,MDA,Moldova,155,172,177
-03/12/2015,STP,São Tomé e Príncipe,156,170,165
+03/12/2015,STP,SÃ£o TomÃ© e PrÃ­ncipe,156,170,165
 03/12/2015,GUM,Guam,157,162,170
 03/12/2015,MYA,Myanmar,158,155,157
 03/12/2015,BER,Bermuda,159,154,181
@@ -34358,7 +34358,7 @@ date,country_code,country_name,rank,points,previous_points
 07/01/2016,ROU,Romania,16,980,980
 07/01/2016,WAL,Wales,17,974,974
 07/01/2016,CRO,Croatia,18,958,958
-07/01/2016,CIV,Côte d'Ivoire,19,950,950
+07/01/2016,CIV,CÃ´te d'Ivoire,19,950,950
 07/01/2016,HUN,Hungary,20,945,945
 07/01/2016,TUR,Turkey,21,933,933
 07/01/2016,BIH,Bosnia and Herzegovina,22,905,898
@@ -34489,12 +34489,12 @@ date,country_code,country_name,rank,points,previous_points
 07/01/2016,GNB,Guinea-Bissau,147,207,207
 07/01/2016,SIN,Singapore,148,196,195
 07/01/2016,TJK,Tajikistan,149,196,196
-07/01/2016,CUW,Curaçao,150,192,192
+07/01/2016,CUW,CuraÃ§ao,150,192,192
 07/01/2016,NZL,New Zealand,151,192,192
 07/01/2016,LES,Lesotho,152,186,185
 07/01/2016,AFG,Afghanistan,153,183,194
 07/01/2016,MDA,Moldova,154,172,172
-07/01/2016,STP,São Tomé e Príncipe,155,170,170
+07/01/2016,STP,SÃ£o TomÃ© e PrÃ­ncipe,155,170,170
 07/01/2016,GUM,Guam,156,169,162
 07/01/2016,MDV,Maldives,157,159,150
 07/01/2016,MYA,Myanmar,158,155,155
@@ -34576,7 +34576,7 @@ date,country_code,country_name,rank,points,previous_points
 04/02/2016,SVK,Slovakia,25,860,860
 04/02/2016,CZE,Czech Republic,26,860,860
 04/02/2016,UKR,Ukraine,27,842,842
-04/02/2016,CIV,Côte d'Ivoire,28,828,950
+04/02/2016,CIV,CÃ´te d'Ivoire,28,828,950
 04/02/2016,NIR,Northern Ireland,29,825,825
 04/02/2016,IRL,Republic of Ireland,30,810,810
 04/02/2016,CRC,Costa Rica,31,799,759
@@ -34698,7 +34698,7 @@ date,country_code,country_name,rank,points,previous_points
 04/02/2016,GNB,Guinea-Bissau,147,207,207
 04/02/2016,SIN,Singapore,148,196,196
 04/02/2016,TJK,Tajikistan,149,196,196
-04/02/2016,CUW,Curaçao,150,192,192
+04/02/2016,CUW,CuraÃ§ao,150,192,192
 04/02/2016,NZL,New Zealand,151,192,192
 04/02/2016,LES,Lesotho,152,186,186
 04/02/2016,MYA,Myanmar,153,185,155
@@ -34707,7 +34707,7 @@ date,country_code,country_name,rank,points,previous_points
 04/02/2016,GUM,Guam,156,169,169
 04/02/2016,MDV,Maldives,157,162,159
 04/02/2016,BER,Bermuda,158,154,154
-04/02/2016,STP,São Tomé e Príncipe,159,152,170
+04/02/2016,STP,SÃ£o TomÃ© e PrÃ­ncipe,159,152,170
 04/02/2016,DOM,Dominican Republic,160,150,150
 04/02/2016,MLT,Malta,161,143,143
 04/02/2016,IND,India,162,139,139
@@ -34793,7 +34793,7 @@ date,country_code,country_name,rank,points,previous_points
 03/03/2016,CRC,Costa Rica,33,784,799
 03/03/2016,SWE,Sweden,34,769,771
 03/03/2016,ALB,Albania,35,754,746
-03/03/2016,CIV,Côte d'Ivoire,36,744,828
+03/03/2016,CIV,CÃ´te d'Ivoire,36,744,828
 03/03/2016,ALG,Algeria,37,743,746
 03/03/2016,ISL,Iceland,38,741,724
 03/03/2016,GRE,Greece,39,718,706
@@ -34908,7 +34908,7 @@ date,country_code,country_name,rank,points,previous_points
 03/03/2016,SIN,Singapore,148,198,196
 03/03/2016,NZL,New Zealand,149,196,192
 03/03/2016,TJK,Tajikistan,150,193,196
-03/03/2016,CUW,Curaçao,151,192,192
+03/03/2016,CUW,CuraÃ§ao,151,192,192
 03/03/2016,AFG,Afghanistan,152,192,183
 03/03/2016,LES,Lesotho,153,186,186
 03/03/2016,MYA,Myanmar,154,169,185
@@ -34931,7 +34931,7 @@ date,country_code,country_name,rank,points,previous_points
 03/03/2016,TLS,Timor-Leste,171,127,127
 03/03/2016,MRI,Mauritius,172,120,120
 03/03/2016,COM,Comoros,173,119,119
-03/03/2016,STP,São Tomé e Príncipe,174,117,152
+03/03/2016,STP,SÃ£o TomÃ© e PrÃ­ncipe,174,117,152
 03/03/2016,YEM,Yemen,175,112,113
 03/03/2016,DMA,Dominica,176,109,107
 03/03/2016,BAN,Bangladesh,177,100,100
@@ -35000,7 +35000,7 @@ date,country_code,country_name,rank,points,previous_points
 07/04/2016,IRL,Republic of Ireland,31,792,809
 07/04/2016,SVK,Slovakia,32,784,858
 07/04/2016,ALG,Algeria,33,771,743
-07/04/2016,CIV,Côte d'Ivoire,34,738,744
+07/04/2016,CIV,CÃ´te d'Ivoire,34,738,744
 07/04/2016,ISL,Iceland,35,724,741
 07/04/2016,SWE,Sweden,36,713,769
 07/04/2016,GRE,Greece,37,695,718
@@ -35116,9 +35116,9 @@ date,country_code,country_name,rank,points,previous_points
 07/04/2016,AFG,Afghanistan,147,210,192
 07/04/2016,SIN,Singapore,148,202,198
 07/04/2016,LES,Lesotho,149,202,186
-07/04/2016,STP,São Tomé e Príncipe,150,197,117
+07/04/2016,STP,SÃ£o TomÃ© e PrÃ­ncipe,150,197,117
 07/04/2016,DOM,Dominican Republic,151,193,150
-07/04/2016,CUW,Curaçao,152,191,192
+07/04/2016,CUW,CuraÃ§ao,152,191,192
 07/04/2016,PUR,Puerto Rico,153,191,127
 07/04/2016,MRI,Mauritius,154,188,120
 07/04/2016,SSD,South Sudan,155,182,246
@@ -35209,7 +35209,7 @@ date,country_code,country_name,rank,points,previous_points
 05/05/2016,IRL,Republic of Ireland,31,792,792
 05/05/2016,SVK,Slovakia,32,784,784
 05/05/2016,ALG,Algeria,33,771,771
-05/05/2016,CIV,Côte d'Ivoire,34,738,738
+05/05/2016,CIV,CÃ´te d'Ivoire,34,738,738
 05/05/2016,ISL,Iceland,35,724,724
 05/05/2016,SWE,Sweden,36,713,713
 05/05/2016,GRE,Greece,37,695,695
@@ -35325,9 +35325,9 @@ date,country_code,country_name,rank,points,previous_points
 05/05/2016,AFG,Afghanistan,147,211,210
 05/05/2016,SIN,Singapore,148,202,202
 05/05/2016,LES,Lesotho,149,202,202
-05/05/2016,STP,São Tomé e Príncipe,150,197,197
+05/05/2016,STP,SÃ£o TomÃ© e PrÃ­ncipe,150,197,197
 05/05/2016,DOM,Dominican Republic,151,193,193
-05/05/2016,CUW,Curaçao,152,191,191
+05/05/2016,CUW,CuraÃ§ao,152,191,191
 05/05/2016,PUR,Puerto Rico,153,191,191
 05/05/2016,MRI,Mauritius,154,185,188
 05/05/2016,SSD,South Sudan,155,182,182
