@@ -9,48 +9,12 @@ library(purrr)
 library(vfmodels)
 
 source('settings.R')
+source('functions.R')
 
-file_data_matches <- paste0(data_folder, "Data_Matches_", name, ".xlsx")
-file_data_matches2 <- paste0(data_folder, "data_matches.csv")
+file_data_matches <- paste0(data_folder, "data_matches.csv")
 file_fifa_rankings <- paste0(data_folder, "fifa_ranking.csv")
-file_country_codes <- paste0(data_folder, "country_codes.csv")
-file_match_codes <- paste0(data_folder, "Match_Codes_", name, ".xlsx")
 
-simplify <- function(string) {
-  string %>% str_to_lower() %>% str_replace(' ', '_')
-}
-
-translation_encoding <- data.frame(
-  'pattern' = c('\\<U\\+0441\\>', ' and '),
-  'replacement' = c('c', ' & '),
-  stringsAsFactors = FALSE
-)
-
-translation_countries <- data.frame(
-  'pattern'=c('China PR', 'Republic of Ireland', "C.*te d'Ivoire", 'E.*uador', 'FYR Macedonia', 'Korea DPR',
-              'Northern Ireland', 'El Salvador', 'Korea Republic', 'St. Kitts & Nevis', 'USA', 'Cape Verde Islands'),
-  'replacement'=c('China', 'Ireland', 'Ivory Coast', 'Ecuador', 'Macedonia', 'North Korea', 'North. Ireland',
-                  'Salvador', 'South Korea', 'St. Kitts/Nevis', 'United States ', 'Cape Verde'),
-  stringsAsFactors = FALSE)
-
-fix_country_name <- function(string) {
-  for (i in translation_encoding %>% nrow() %>% seq()) {
-    string %<>% str_replace(translation_encoding$pattern[i], translation_encoding$replacement[i])
-  }
-  for (i in translation_countries %>% nrow() %>% seq()) {
-    string %<>% str_replace(translation_countries$pattern[i], translation_countries$replacement[i])
-  }
-  return(string)
-}
-
-# data_matches_games <- read_excel(file_data_matches, sheet=1)
-data_matches_games <- read_csv(file_data_matches2)
-colnames(data_matches_games) %<>% map_chr(simplify)
-# data_matches_type <- read_excel(file_data_matches, sheet=2)
-# colnames(data_matches_type) %<>% map_chr(simplify)
-
-match_codes <- read_excel(file_match_codes, sheet=1)
-
+data_matches <- read_csv(file_data_matches)
 fifa_rankings <- read_csv(file_fifa_rankings)
 
 # prep fifa rankings
