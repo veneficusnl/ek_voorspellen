@@ -95,17 +95,16 @@ matches %<>%
 
 # Create list of match results separated for local and visit teams
 matches_local <- matches %>%
-  select(date, local_team, local_score, result, visit_score) %>%
-  rename(team=local_team,
-         score=local_score,
-         score_against=visit_score)
+  select(date, result, matches('local'), matches('visit'))
+colnames(matches_local) <- colnames(matches_local) %>%
+  str_replace('local_', '') %>%
+  str_replace('visit', 'opponent')
 
 matches_visit <- matches %>%
-  select(date, visit_team, visit_score, result, local_score) %>%
-  mutate(result=-result) %>%
-  rename(team=visit_team,
-         score=visit_score,
-         score_against=local_score)
+  select(date, result, matches('local'), matches('visit'))
+colnames(matches_visit) <- colnames(matches_visit) %>%
+  str_replace('visit_', '') %>%
+  str_replace('local', 'opponent')
 
 matches_single <- bind_rows(matches_local, matches_visit) %>%
   arrange(date, team)
@@ -116,12 +115,16 @@ create_summary <- function(data, date_i, team_i, type) {
   summary <- data %>%
     filter(team==team_i, date < date_i) %>%
     top_n(n_hist, date) %>%
-    summarise(avg_score=mean(score),
-              avg_result=mean(result),
-              avg_score_against=mean(score_against),
-              previous_score=last(score),
-              previous_result=last(result),
-              previous_score_against=last(score_against),
+    summarise(mean_score=mean(score),
+              mean_result=mean(result),
+              mean_opponent_score=mean(opponent_score),
+              mean_opponent_rank=mean(opponent_rank),
+              mean_opponent_points=mean(opponent_points),
+              last_score=last(score),
+              last_result=last(result),
+              last_opponent_score=last(opponent_score),
+              last_opponent_rank=last(opponent_rank),
+              last_opponent_points=last(opponent_points),
               complete=n()>=n_hist
               )
 
@@ -147,7 +150,7 @@ y <- matches %>%
 x <- matches %>%
   filter(!is.na(result)) %>%
   select(matches('_rank'), matches('_points'), matches('_match'),
-         matches('_change'), matches('_previous_'), matches('_avg_'), friendly)
+         matches('_change'), matches('_last_'), matches('_mean_'), friendly)
 
 subset <- (y %>% length * 0.7) %>% round %>% seq
 output <- run_machine_learning(x=x, y=y, subset=subset, model='nn',
@@ -166,7 +169,7 @@ y <- matches %>%
 
 x <- matches %>%
   select(matches('_rank'), matches('_points'), matches('_match'),
-         matches('_change'), matches('_previous_'), matches('_avg_'), friendly)
+         matches('_change'), matches('_last_'), matches('_mean_'), friendly)
 
 subset <- matches %>% filter(!is.na(result)) %>% nrow %>% seq
 output <- run_machine_learning(x=x, y=y, subset=subset, model='nn',
