@@ -4382,3 +4382,7 @@ year,month,day,match_type,country,local_team,visit_team,local_score,visit_score
 2016,6,26,EC-2016,France,Hungary,Belgium,0,4
 2016,6,27,EC-2016,France,Italy,Spain,2,0
 2016,6,27,EC-2016,France,England,Iceland,1,2
+2016,6,30,EC-2016,France,Poland,Portugal,1,1
+2016,7,1,EC-2016,France,Wales,Belgium,3,1
+2016,7,2,EC-2016,France,Germany,Italy,1,1
+2016,7,3,EC-2016,France,France,Iceland,5,2
